@@ -1,0 +1,42 @@
+% ----------------------------------------------------------
+\chapter{Introdução} \label{cap:intro}
+% ----------------------------------------------------------
+
+A ascensão do comércio eletrônico e dos pagamentos online, que se estabeleceu no início dos anos 2000, revolucionou a maneira como as transações são realizadas. A necessidade de eficiência e redução de custos nas operações de venda levou ao surgimento de sistemas automatizados de pedidos e compras. Esses sistemas, aliados à expansão da \glsxtrfull{IoT}, abriram novas possibilidades para aprimorar a experiência do cliente e a eficiência operacional dos negócios.
+
+Este projeto tem como visão simplificar o processo de integrar plataformas de pagamento a projetos de menor escala ou que tenham recursos e tempo limitados. Para isso, deve disponibilizar conexões do tipo \textit{socket} para acompanhamento dos pagamentos em tempo real. Além disso, deve fornecer uma plataforma completa, pronta para o registro de itens e para a efetuação de pagamentos.
+
+Nesse contexto, o presente trabalho propõe o desenvolvimento de uma aplicação \textit{web} que integra tecnologias como \textit{websocket}, ReactJS, \glsxtrfull{tRPC}, NodeJS e TypeScript com a \glsxtrfull{API} de pagamentos do Mercado Pago. A aplicação proposta será um sistema de automação de pedidos e compras para pontos de venda. Os clientes poderão acessar os produtos disponíveis em cada estabelecimento por meio de um link com código \glsxtrfull{QR} exclusivo. Através da \gls{API} de pagamentos do Mercado Pago, os usuários poderão realizar pagamentos de maneira segura e rápida.
+
+Um componente crucial deste sistema é a integração com agentes de distribuição, que são outros dispositivos ou sistemas que possam estar conectados via \textit{sockets} neste projeto. Para o presente trabalho foi escolhido um dispositivo baseado na plataforma NodeMCU ESP8266. Este dispositivo será programado em C++ para se comunicar com a aplicação e demonstrar a versatilidade dessa plataforma para a entrega dos pedidos. Isso inclui receber notificações via \textit{websocket} quando um pagamento é realizado, permitindo que o dispositivo \gls{IoT} entregue um produto ou serviço de acordo com a necessidade de cada projeto. Além disso, a aplicação também incluirá uma interface para funcionários das empresas que utilizarem o sistema. Esta interface permitirá a confirmação e entrega de pedidos, cadastro de itens, bem como o monitoramento do status dos pedidos. O acesso a essa interface será controlado por \textit{login} e senha.
+
+Este trabalho contribuirá para a compreensão e aplicação das tecnologias mencionadas, além de demonstrar a viabilidade e utilidade de uma solução integrada de automação de pedidos e compras em pontos de venda.
+
+\section{Objetivo Geral}
+
+O objetivo geral deste projeto é desenvolver uma solução de automação de pedidos e compras em pontos de venda utilizando tecnologias \textit{web} modernas, integradas com um dispositivo \gls{IoT}. A solução visa otimizar o processo de compras em pontos de venda, tornando-o mais eficiente e seguro para os usuários e estabelecimentos. Além disso, o projeto tem como objetivo demonstrar a viabilidade e utilidade da integração de tecnologias \textit{web} e \gls{IoT} em aplicações comerciais, contribuindo para a disseminação e adoção dessas tecnologias no mercado.
+
+\section{Objetivos Específicos}
+
+\begin{enumerate}
+
+    \item Desenvolver uma aplicação \textit{web full-stack}, ou seja, uma aplicação que integra a interface (\textit{frontend}) e o servidor (\textit{backend}).
+
+    \item Desenvolver uma aplicação capaz de se comunicar com múltiplos dispositivos via \textit{sockets}.
+    
+    \item Integrar o sistema com APIs de pagamento.
+    
+    \item Garantir segurança nos pagamentos online.
+
+    \item Permitir pagamento via dispositivos móveis.
+
+    \item Implementar interface de gerenciamento.
+
+    \item Demonstrar a comunicação do sistema com um agente de distribuição.
+    
+    \item Determinar as tecnologias mais adequadas para implementação da solução.
+    
+\end{enumerate}
+
+\section{ Estrutura do documento}
+Este trabalho está dividido em 6 capítulos. O Capítulo \ref{cap:intro} apresenta a introdução e objetivos. O Capítulo \ref{cap:fundamentacao} trata da fundamentação teórica do trabalho. O Capítulo \ref{cap:arquitetura} apresenta a arquitetura proposta e define seus elementos. O Capítulo \ref{cap:desenvolvimento} aborda a implementação e as tecnologias aplicadas no desenvolvimento. O Capítulo \ref{cap:resultados} apresenta os resultados obtidos e estimativa de custos. O Capítulo \ref{cap:conclusao} traz a conclusão.

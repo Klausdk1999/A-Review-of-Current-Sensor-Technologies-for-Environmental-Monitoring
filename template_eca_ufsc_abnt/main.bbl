@@ -1,0 +1,675 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{Adyen}{misc}{}{}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.adyen.com/payment-methods}}
+      \field{note}{Accessed: 30-05-2023}
+      \field{title}{Adyen Payment Methods}
+    \endentry
+    \entry{Attoui2000}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d8c0a0f5fd321a2003991f505f33be14}{%
+           family={Attoui},
+           familyi={A\bibinitperiod},
+           given={Ilham},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{d8c0a0f5fd321a2003991f505f33be14}
+      \strng{fullhash}{d8c0a0f5fd321a2003991f505f33be14}
+      \strng{fullhashraw}{d8c0a0f5fd321a2003991f505f33be14}
+      \strng{bibnamehash}{d8c0a0f5fd321a2003991f505f33be14}
+      \strng{authorbibnamehash}{d8c0a0f5fd321a2003991f505f33be14}
+      \strng{authornamehash}{d8c0a0f5fd321a2003991f505f33be14}
+      \strng{authorfullhash}{d8c0a0f5fd321a2003991f505f33be14}
+      \strng{authorfullhashraw}{d8c0a0f5fd321a2003991f505f33be14}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Real-Time and Multi-Agent Systems}
+      \field{year}{2000}
+    \endentry
+    \entry{Aue2018}{inproceedings}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=60753baf887805a92d170c0a3a0e7509}{%
+           family={Aué},
+           familyi={A\bibinitperiod},
+           given={Joop},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a3788f7c464479b7be2570290db51bff}{%
+           family={Aniche},
+           familyi={A\bibinitperiod},
+           given={Maurício},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3d13803388bdbd5c473e79ccd7b68818}{%
+           family={Lobbezoo},
+           familyi={L\bibinitperiod},
+           given={Maikel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=65e990ff404c92f18a3795137504d7d1}{%
+           family={Deursen},
+           familyi={D\bibinitperiod},
+           given={Arie},
+           giveni={A\bibinitperiod},
+           givenun=0,
+           prefix={van},
+           prefixi={v\bibinitperiod},
+           prefixun=0}}%
+      }
+      \list{organization}{1}{%
+        {ACM}%
+      }
+      \strng{namehash}{01d33beedb74829de17a3669855b183e}
+      \strng{fullhash}{7e6dc21a56953d4166da23208cdf3838}
+      \strng{fullhashraw}{7e6dc21a56953d4166da23208cdf3838}
+      \strng{bibnamehash}{7e6dc21a56953d4166da23208cdf3838}
+      \strng{authorbibnamehash}{7e6dc21a56953d4166da23208cdf3838}
+      \strng{authornamehash}{01d33beedb74829de17a3669855b183e}
+      \strng{authorfullhash}{7e6dc21a56953d4166da23208cdf3838}
+      \strng{authorfullhashraw}{7e6dc21a56953d4166da23208cdf3838}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the 40th International Conference on Software Engineering}
+      \field{title}{An exploratory study on faults in web API integration in a large-scale payment company}
+      \field{year}{2018}
+      \field{pages}{372\bibrangedash 383}
+      \range{pages}{12}
+    \endentry
+    \entry{Bierman:2014}{inproceedings}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=baa3dce4b5645d600c1aa4a8ea5aea7c}{%
+           family={Bierman},
+           familyi={B\bibinitperiod},
+           given={Gavin},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9a04ae935da573a7aa9c83afdf2fd845}{%
+           family={Abadi},
+           familyi={A\bibinitperiod},
+           given={Martín},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=011229f34495ec80654708f9302fc16a}{%
+           family={Torgersen},
+           familyi={T\bibinitperiod},
+           given={Mads},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {ECOOP}%
+      }
+      \strng{namehash}{8269d40ea26a1fafb0b709e302b51107}
+      \strng{fullhash}{8269d40ea26a1fafb0b709e302b51107}
+      \strng{fullhashraw}{8269d40ea26a1fafb0b709e302b51107}
+      \strng{bibnamehash}{8269d40ea26a1fafb0b709e302b51107}
+      \strng{authorbibnamehash}{8269d40ea26a1fafb0b709e302b51107}
+      \strng{authornamehash}{8269d40ea26a1fafb0b709e302b51107}
+      \strng{authorfullhash}{8269d40ea26a1fafb0b709e302b51107}
+      \strng{authorfullhashraw}{8269d40ea26a1fafb0b709e302b51107}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{European Conference on Object-Oriented Programming}
+      \field{title}{{Understanding TypeScript}, 2014}
+      \field{pages}{257\bibrangedash 281}
+      \range{pages}{25}
+    \endentry
+    \entry{HttpIEEE}{inproceedings}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=179d22883930eb21b4e9cb6b40451f91}{%
+           family={{Elhadef}},
+           familyi={E\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1f9cb45973800751b3130d87b89007d4}{%
+           family={{Grira}},
+           familyi={G\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9fdce8ef9157862eeb9166fd459f0072}
+      \strng{fullhash}{9fdce8ef9157862eeb9166fd459f0072}
+      \strng{fullhashraw}{9fdce8ef9157862eeb9166fd459f0072}
+      \strng{bibnamehash}{9fdce8ef9157862eeb9166fd459f0072}
+      \strng{authorbibnamehash}{9fdce8ef9157862eeb9166fd459f0072}
+      \strng{authornamehash}{9fdce8ef9157862eeb9166fd459f0072}
+      \strng{authorfullhash}{9fdce8ef9157862eeb9166fd459f0072}
+      \strng{authorfullhashraw}{9fdce8ef9157862eeb9166fd459f0072}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2016 IEEE International Conference on Computer and Information Technology (CIT)}
+      \field{title}{Performance Evaluation of a Game Theory-Based Fault Diagnosis Algorithm Under Partial Comparison Syndrome}
+      \field{year}{2016}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+    \endentry
+    \entry{fastify}{misc}{}{}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.fastify.io/}}
+      \field{note}{Acessado em: 20 de junho de 2023}
+      \field{title}{Fastify: Fast and low overhead web framework, for Node.js}
+    \endentry
+    \entry{Gourley2002}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d24b5e8a5cf8350db91a3a19a983ec5a}{%
+           family={Gourley},
+           familyi={G\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3cf16bef4043f8f1806b867adc149754}{%
+           family={Totty},
+           familyi={T\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {O'Reilly Media}%
+      }
+      \strng{namehash}{934ad4be42742164a6c8abfda121994c}
+      \strng{fullhash}{934ad4be42742164a6c8abfda121994c}
+      \strng{fullhashraw}{934ad4be42742164a6c8abfda121994c}
+      \strng{bibnamehash}{934ad4be42742164a6c8abfda121994c}
+      \strng{authorbibnamehash}{934ad4be42742164a6c8abfda121994c}
+      \strng{authornamehash}{934ad4be42742164a6c8abfda121994c}
+      \strng{authorfullhash}{934ad4be42742164a6c8abfda121994c}
+      \strng{authorfullhashraw}{934ad4be42742164a6c8abfda121994c}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{HTTP: The Definitive Guide}
+      \field{year}{2002}
+    \endentry
+    \entry{mdn_http_overview}{misc}{}{}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview}}
+      \field{note}{Acessado em: 20 de junho de 2023}
+      \field{title}{HTTP An overview of HTTP | MDN}
+    \endentry
+    \entry{JWT2023}{misc}{}{}
+      \list{publisher}{1}{%
+        {JWT.io}%
+      }
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Introduction to JSON Web Tokens}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://jwt.io/introduction/
+      \endverb
+      \verb{url}
+      \verb https://jwt.io/introduction/
+      \endverb
+    \endentry
+    \entry{iot123}{misc}{}{}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.zibtek.com/blog/iot-architecture}}
+      \field{note}{Acessado em: 26 de junho de 2023}
+      \field{title}{IOT Architecture}
+      \field{year}{2023}
+    \endentry
+    \entry{Kolban2016}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f9da803b9898a6828b5cbabd58709ead}{%
+           family={Kolban},
+           familyi={K\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Leanpub}%
+      }
+      \strng{namehash}{f9da803b9898a6828b5cbabd58709ead}
+      \strng{fullhash}{f9da803b9898a6828b5cbabd58709ead}
+      \strng{fullhashraw}{f9da803b9898a6828b5cbabd58709ead}
+      \strng{bibnamehash}{f9da803b9898a6828b5cbabd58709ead}
+      \strng{authorbibnamehash}{f9da803b9898a6828b5cbabd58709ead}
+      \strng{authornamehash}{f9da803b9898a6828b5cbabd58709ead}
+      \strng{authorfullhash}{f9da803b9898a6828b5cbabd58709ead}
+      \strng{authorfullhashraw}{f9da803b9898a6828b5cbabd58709ead}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Kolban's book on ESP8266}
+      \field{year}{2016}
+    \endentry
+    \entry{Leach2005}{misc}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=b02d4916a516d9ce8550642ddd60faaa}{%
+           family={Leach},
+           familyi={L\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a7595546f375582a7aae8ab596d7aced}{%
+           family={Mealling},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dd6ea2407b175dae91fd92e04ec79cd7}{%
+           family={Salz},
+           familyi={S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{572a12aa028eda9d18c4f3c34c8e6ac7}
+      \strng{fullhash}{572a12aa028eda9d18c4f3c34c8e6ac7}
+      \strng{fullhashraw}{572a12aa028eda9d18c4f3c34c8e6ac7}
+      \strng{bibnamehash}{572a12aa028eda9d18c4f3c34c8e6ac7}
+      \strng{authorbibnamehash}{572a12aa028eda9d18c4f3c34c8e6ac7}
+      \strng{authornamehash}{572a12aa028eda9d18c4f3c34c8e6ac7}
+      \strng{authorfullhash}{572a12aa028eda9d18c4f3c34c8e6ac7}
+      \strng{authorfullhashraw}{572a12aa028eda9d18c4f3c34c8e6ac7}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Universally Unique IDentifier (UUID) URN Namespace}
+      \field{year}{2005}
+      \verb{urlraw}
+      \verb https://www.rfc-editor.org/info/rfc4122
+      \endverb
+      \verb{url}
+      \verb https://www.rfc-editor.org/info/rfc4122
+      \endverb
+    \endentry
+    \entry{Liu2012}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=17a3ae7efe3a50945c17cf4309f42f3e}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Qian},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=82655f1e91d7c4ddd22671fad360c542}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Xiaojun},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{56c47ac78982a23f43fe2909f93686eb}
+      \strng{fullhash}{56c47ac78982a23f43fe2909f93686eb}
+      \strng{fullhashraw}{56c47ac78982a23f43fe2909f93686eb}
+      \strng{bibnamehash}{56c47ac78982a23f43fe2909f93686eb}
+      \strng{authorbibnamehash}{56c47ac78982a23f43fe2909f93686eb}
+      \strng{authornamehash}{56c47ac78982a23f43fe2909f93686eb}
+      \strng{authorfullhash}{56c47ac78982a23f43fe2909f93686eb}
+      \strng{authorfullhashraw}{56c47ac78982a23f43fe2909f93686eb}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Communications, Network and System Sciences}
+      \field{number}{12}
+      \field{title}{Research of Web Real-Time Communication Based on Web Socket}
+      \field{volume}{5}
+      \field{year}{2012}
+      \field{pages}{841\bibrangedash 846}
+      \range{pages}{6}
+    \endentry
+    \entry{Madakam:2015}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=112d163cb942045ccebb8bad571708fb}{%
+           family={Madakam},
+           familyi={M\bibinitperiod},
+           given={Somayya},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bd5eabcf96eeaf46954bde7128d7b86c}{%
+           family={Ramaswamy},
+           familyi={R\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9a0953371f5d5d7159c9cfde03031950}{%
+           family={Tripathi},
+           familyi={T\bibinitperiod},
+           given={Siddharth},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Scientific Research Publishing}%
+      }
+      \strng{namehash}{805b9f8bb75de8cc536672993d968d72}
+      \strng{fullhash}{805b9f8bb75de8cc536672993d968d72}
+      \strng{fullhashraw}{805b9f8bb75de8cc536672993d968d72}
+      \strng{bibnamehash}{805b9f8bb75de8cc536672993d968d72}
+      \strng{authorbibnamehash}{805b9f8bb75de8cc536672993d968d72}
+      \strng{authornamehash}{805b9f8bb75de8cc536672993d968d72}
+      \strng{authorfullhash}{805b9f8bb75de8cc536672993d968d72}
+      \strng{authorfullhashraw}{805b9f8bb75de8cc536672993d968d72}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Computer and Communications}
+      \field{number}{5}
+      \field{title}{Internet of Things (IoT): A Literature Review}
+      \field{volume}{3}
+      \field{year}{2015}
+      \field{pages}{164\bibrangedash 173}
+      \range{pages}{10}
+    \endentry
+    \entry{Mulloy2012}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=843955b874a38cc73a1b0f05f16ea684}{%
+           family={Mulloy},
+           familyi={M\bibinitperiod},
+           given={Brian},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{843955b874a38cc73a1b0f05f16ea684}
+      \strng{fullhash}{843955b874a38cc73a1b0f05f16ea684}
+      \strng{fullhashraw}{843955b874a38cc73a1b0f05f16ea684}
+      \strng{bibnamehash}{843955b874a38cc73a1b0f05f16ea684}
+      \strng{authorbibnamehash}{843955b874a38cc73a1b0f05f16ea684}
+      \strng{authornamehash}{843955b874a38cc73a1b0f05f16ea684}
+      \strng{authorfullhash}{843955b874a38cc73a1b0f05f16ea684}
+      \strng{authorfullhashraw}{843955b874a38cc73a1b0f05f16ea684}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Web API Design: The Missing Link}
+      \field{year}{2012}
+      \verb{urlraw}
+      \verb https://pages.apigee.com/rs/apigee/images/api-design-ebook-2012-03.pdf
+      \endverb
+      \verb{url}
+      \verb https://pages.apigee.com/rs/apigee/images/api-design-ebook-2012-03.pdf
+      \endverb
+    \endentry
+    \entry{Nextjs2023}{misc}{}{}
+      \list{publisher}{1}{%
+        {Vercel}%
+      }
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Next.js Documentation}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://nextjs.org/docs
+      \endverb
+      \verb{url}
+      \verb https://nextjs.org/docs
+      \endverb
+    \endentry
+    \entry{Nivasalo2022}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7873004ba16e60a1fd02ce38280aaa0e}{%
+           family={Nivasalo},
+           familyi={N\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7873004ba16e60a1fd02ce38280aaa0e}
+      \strng{fullhash}{7873004ba16e60a1fd02ce38280aaa0e}
+      \strng{fullhashraw}{7873004ba16e60a1fd02ce38280aaa0e}
+      \strng{bibnamehash}{7873004ba16e60a1fd02ce38280aaa0e}
+      \strng{authorbibnamehash}{7873004ba16e60a1fd02ce38280aaa0e}
+      \strng{authornamehash}{7873004ba16e60a1fd02ce38280aaa0e}
+      \strng{authorfullhash}{7873004ba16e60a1fd02ce38280aaa0e}
+      \strng{authorfullhashraw}{7873004ba16e60a1fd02ce38280aaa0e}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Full Stack TypeScript Development with tRPC and React Native}
+      \field{year}{2022}
+      \verb{urlraw}
+      \verb https://www.theseus.fi/handle/10024/793117
+      \endverb
+      \verb{url}
+      \verb https://www.theseus.fi/handle/10024/793117
+      \endverb
+    \endentry
+    \entry{nodemcu}{misc}{}{}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.amazon.com.br/ESP8266-CH340G-NodeMcu-desenvolvimento-Internet/dp/B08H26NY16}}
+      \field{note}{Acessado em: 26 de junho de 2023}
+      \field{title}{Node MCU}
+      \field{year}{2023}
+    \endentry
+    \entry{Prisma2023}{misc}{}{}
+      \list{publisher}{1}{%
+        {Prisma}%
+      }
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Prisma Documentation}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.prisma.io/docs/
+      \endverb
+      \verb{url}
+      \verb https://www.prisma.io/docs/
+      \endverb
+    \endentry
+    \entry{QRCode2023}{misc}{}{}
+      \list{publisher}{1}{%
+        {W3Schools}%
+      }
+      \field{sortinit}{Q}
+      \field{sortinithash}{ce69a400a872ddd02ee7fdb3b38c6abd}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{QR Code Tutorial}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.w3schools.com/whatis/whatis_qrcode.asp
+      \endverb
+      \verb{url}
+      \verb https://www.w3schools.com/whatis/whatis_qrcode.asp
+      \endverb
+    \endentry
+    \entry{Richardson2007}{book}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=1d85fbf65464db3ffcf0c108192462b8}{%
+           family={Richardson},
+           familyi={R\bibinitperiod},
+           given={Leonard},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4fe2b4735d8d0a44dacec923a762c191}{%
+           family={Ruby},
+           familyi={R\bibinitperiod},
+           given={Sam},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {O'Reilly Media}%
+      }
+      \strng{namehash}{d89bade9579459580d9690008a52a0c2}
+      \strng{fullhash}{d89bade9579459580d9690008a52a0c2}
+      \strng{fullhashraw}{d89bade9579459580d9690008a52a0c2}
+      \strng{bibnamehash}{d89bade9579459580d9690008a52a0c2}
+      \strng{authorbibnamehash}{d89bade9579459580d9690008a52a0c2}
+      \strng{authornamehash}{d89bade9579459580d9690008a52a0c2}
+      \strng{authorfullhash}{d89bade9579459580d9690008a52a0c2}
+      \strng{authorfullhashraw}{d89bade9579459580d9690008a52a0c2}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{RESTful Web Services}
+      \field{year}{2007}
+    \endentry
+    \entry{SQL2023}{misc}{}{}
+      \list{publisher}{1}{%
+        {W3Schools}%
+      }
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{SQL Tutorial}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.w3schools.com/sql/
+      \endverb
+      \verb{url}
+      \verb https://www.w3schools.com/sql/
+      \endverb
+    \endentry
+    \entry{tRPC}{online}{}{}
+      \field{sortinit}{t}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labeldatesource}{nodate}
+      \field{labeltitlesource}{title}
+      \field{note}{Accessed: 30-05-2023}
+      \field{title}{tRPC Documentation - End-to-end typesafe APIs}
+      \verb{urlraw}
+      \verb https://trpc.io/
+      \endverb
+      \verb{url}
+      \verb https://trpc.io/
+      \endverb
+    \endentry
+    \entry{Vercel2023}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dc173d57136dbe619cbccee88ee6421c}{%
+           family={Vercel},
+           familyi={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{dc173d57136dbe619cbccee88ee6421c}
+      \strng{fullhash}{dc173d57136dbe619cbccee88ee6421c}
+      \strng{fullhashraw}{dc173d57136dbe619cbccee88ee6421c}
+      \strng{bibnamehash}{dc173d57136dbe619cbccee88ee6421c}
+      \strng{authorbibnamehash}{dc173d57136dbe619cbccee88ee6421c}
+      \strng{authornamehash}{dc173d57136dbe619cbccee88ee6421c}
+      \strng{authorfullhash}{dc173d57136dbe619cbccee88ee6421c}
+      \strng{authorfullhashraw}{dc173d57136dbe619cbccee88ee6421c}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{AWS and Vercel: Accelerating innovation with serverless computing}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://vercel.com/blog/aws-and-vercel-accelerating-innovation-with-serverless-computing
+      \endverb
+      \verb{url}
+      \verb https://vercel.com/blog/aws-and-vercel-accelerating-innovation-with-serverless-computing
+      \endverb
+    \endentry
+    \entry{Zod2023}{misc}{}{}
+      \list{publisher}{1}{%
+        {NPM}%
+      }
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{title}{Zod Documentation}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.npmjs.com/package/zod
+      \endverb
+      \verb{url}
+      \verb https://www.npmjs.com/package/zod
+      \endverb
+    \endentry
+  \enddatalist
+  \missing{restAPI}
+\endrefsection
+\endinput
+
