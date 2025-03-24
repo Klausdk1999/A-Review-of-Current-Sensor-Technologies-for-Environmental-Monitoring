@@ -2,41 +2,37 @@
 \chapter{Introdução} \label{cap:intro}
 % ----------------------------------------------------------
 
-A ascensão do comércio eletrônico e dos pagamentos online, que se estabeleceu no início dos anos 2000, revolucionou a maneira como as transações são realizadas. A necessidade de eficiência e redução de custos nas operações de venda levou ao surgimento de sistemas automatizados de pedidos e compras. Esses sistemas, aliados à expansão da \glsxtrfull{IoT}, abriram novas possibilidades para aprimorar a experiência do cliente e a eficiência operacional dos negócios.
+O monitoramento do nível de rios é uma atividade essencial para a gestão de recursos hídricos, prevenção de enchentes e planejamento ambiental. Tecnologias baseadas em sensores vêm sendo amplamente utilizadas para essa finalidade, permitindo medições automáticas e em tempo real. No entanto, a escolha do sensor mais adequado depende de diversos fatores, como a precisão da medição, o alcance máximo, as condições ambientais suportadas e os custos de implementação.
 
-Este projeto tem como visão simplificar o processo de integrar plataformas de pagamento a projetos de menor escala ou que tenham recursos e tempo limitados. Para isso, deve disponibilizar conexões do tipo \textit{socket} para acompanhamento dos pagamentos em tempo real. Além disso, deve fornecer uma plataforma completa, pronta para o registro de itens e para a efetuação de pagamentos.
+Entre as principais tecnologias utilizadas para essa aplicação, destacam-se os sensores ultrassônicos, sensores LiDAR e câmeras. Cada um desses dispositivos apresenta vantagens e limitações que impactam diretamente sua viabilidade para medições hidrológicas. Sensores ultrassônicos, por exemplo, são comumente utilizados devido ao seu baixo custo e simplicidade de instalação, mas podem ser afetados por variações de temperatura e umidade. Sensores LiDAR oferecem maior precisão e alcance, porém apresentam custo elevado e maior consumo energético. Câmeras, por sua vez, podem fornecer medições indiretas baseadas em visão computacional, mas sua eficácia depende da qualidade da imagem e da presença de obstruções no campo de visão.
 
-Nesse contexto, o presente trabalho propõe o desenvolvimento de uma aplicação \textit{web} que integra tecnologias como \textit{websocket}, ReactJS, \glsxtrfull{tRPC}, NodeJS e TypeScript com a \glsxtrfull{API} de pagamentos do Mercado Pago. A aplicação proposta será um sistema de automação de pedidos e compras para pontos de venda. Os clientes poderão acessar os produtos disponíveis em cada estabelecimento por meio de um link com código \glsxtrfull{QR} exclusivo. Através da \gls{API} de pagamentos do Mercado Pago, os usuários poderão realizar pagamentos de maneira segura e rápida.
-
-Um componente crucial deste sistema é a integração com agentes de distribuição, que são outros dispositivos ou sistemas que possam estar conectados via \textit{sockets} neste projeto. Para o presente trabalho foi escolhido um dispositivo baseado na plataforma NodeMCU ESP8266. Este dispositivo será programado em C++ para se comunicar com a aplicação e demonstrar a versatilidade dessa plataforma para a entrega dos pedidos. Isso inclui receber notificações via \textit{websocket} quando um pagamento é realizado, permitindo que o dispositivo \gls{IoT} entregue um produto ou serviço de acordo com a necessidade de cada projeto. Além disso, a aplicação também incluirá uma interface para funcionários das empresas que utilizarem o sistema. Esta interface permitirá a confirmação e entrega de pedidos, cadastro de itens, bem como o monitoramento do status dos pedidos. O acesso a essa interface será controlado por \textit{login} e senha.
-
-Este trabalho contribuirá para a compreensão e aplicação das tecnologias mencionadas, além de demonstrar a viabilidade e utilidade de uma solução integrada de automação de pedidos e compras em pontos de venda.
+Neste contexto, o presente trabalho propõe a realização de uma análise comparativa entre esses três tipos de sensores, a fim de avaliar seu desempenho em diferentes condições ambientais e determinar sua aplicabilidade no monitoramento do nível de rios. Os testes serão conduzidos em ambiente controlado e em um cenário real, analisando aspectos como precisão, estabilidade da medição, interferências externas e facilidade de instalação. A partir dos resultados obtidos, será possível indicar as aplicações mais adequadas para cada tecnologia e definir a solução mais eficiente para o monitoramento hidrológico.
 
 \section{Objetivo Geral}
 
-O objetivo geral deste projeto é desenvolver uma solução de automação de pedidos e compras em pontos de venda utilizando tecnologias \textit{web} modernas, integradas com um dispositivo \gls{IoT}. A solução visa otimizar o processo de compras em pontos de venda, tornando-o mais eficiente e seguro para os usuários e estabelecimentos. Além disso, o projeto tem como objetivo demonstrar a viabilidade e utilidade da integração de tecnologias \textit{web} e \gls{IoT} em aplicações comerciais, contribuindo para a disseminação e adoção dessas tecnologias no mercado.
+O objetivo geral deste projeto é avaliar o desempenho de sensores ultrassônicos, sensores LiDAR e câmeras na medição do nível de rios, comparando suas capacidades e limitações em diferentes cenários. Com base nos resultados, busca-se determinar qual tecnologia apresenta melhor custo-benefício e maior adequação para essa aplicação específica.
 
 \section{Objetivos Específicos}
 
 \begin{enumerate}
 
-    \item Desenvolver uma aplicação \textit{web full-stack}, ou seja, uma aplicação que integra a interface (\textit{frontend}) e o servidor (\textit{backend}).
-
-    \item Desenvolver uma aplicação capaz de se comunicar com múltiplos dispositivos via \textit{sockets}.
+    \item Realizar uma revisão bibliográfica sobre as principais tecnologias de sensores utilizadas no monitoramento de níveis de líquidos e corpos d'água.
     
-    \item Integrar o sistema com APIs de pagamento.
-    
-    \item Garantir segurança nos pagamentos online.
+    \item Definir um conjunto de critérios para avaliação dos sensores, considerando aspectos como precisão, alcance máximo, resistência a interferências ambientais e custo.
 
-    \item Permitir pagamento via dispositivos móveis.
+    \item Conduzir testes experimentais com sensores ultrassônicos, sensores LiDAR e câmeras em ambiente controlado.
 
-    \item Implementar interface de gerenciamento.
+    \item Realizar testes em um cenário real, avaliando o impacto de fatores como variação climática, presença de detritos e mudanças no fluxo da água.
 
-    \item Demonstrar a comunicação do sistema com um agente de distribuição.
-    
-    \item Determinar as tecnologias mais adequadas para implementação da solução.
-    
+    \item Comparar os resultados obtidos e identificar as aplicações mais adequadas para cada tipo de sensor.
+
+    \item Determinar a tecnologia mais eficiente para o monitoramento do nível de rios, considerando aspectos de viabilidade técnica e econômica.
+
+    \item Elaborar recomendações para a implementação de sistemas de medição baseados nos sensores analisados.
+
 \end{enumerate}
 
-\section{ Estrutura do documento}
-Este trabalho está dividido em 6 capítulos. O Capítulo \ref{cap:intro} apresenta a introdução e objetivos. O Capítulo \ref{cap:fundamentacao} trata da fundamentação teórica do trabalho. O Capítulo \ref{cap:arquitetura} apresenta a arquitetura proposta e define seus elementos. O Capítulo \ref{cap:desenvolvimento} aborda a implementação e as tecnologias aplicadas no desenvolvimento. O Capítulo \ref{cap:resultados} apresenta os resultados obtidos e estimativa de custos. O Capítulo \ref{cap:conclusao} traz a conclusão.
+\section{Estrutura do documento}
+
+Este trabalho está dividido em seis capítulos. O Capítulo \ref{cap:intro} apresenta a introdução e os objetivos da pesquisa. O Capítulo \ref{cap:fundamentacao} trata da fundamentação teórica, abordando os princípios de funcionamento dos sensores analisados. O Capítulo \ref{cap:arquitetura} descreve a metodologia e os critérios adotados para a realização dos testes. O Capítulo \ref{cap:desenvolvimento} apresenta os experimentos conduzidos e as tecnologias utilizadas. O Capítulo \ref{cap:resultados} discute os resultados obtidos e compara as diferentes abordagens. Por fim, o Capítulo \ref{cap:conclusao} traz as considerações finais e sugestões para trabalhos futuros.
+
