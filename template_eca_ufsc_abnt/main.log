@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.3.3)  23 MAR 2025 20:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.3.3)  23 MAR 2025 21:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/Klaus/Downloads/TCC Klaus - Mestrado - UNIVALI/template_eca_ufsc_abnt/main.tex"
-(c:/Users/Klaus/Downloads/TCC Klaus - Mestrado - UNIVALI/template_eca_ufsc_abnt/main.tex
+**"c:/Users/Klaus/Documents/Projetos/Artigo - Avaliação Comparativa de Sensores para Monitoramento do Nível de Rios/template_eca_ufsc_abnt/main.tex"
+(c:/Users/Klaus/Documents/Projetos/Artigo - Avaliação Comparativa de Sensores para Monitoramento do Nível de Rios/template_eca_ufsc_abnt/main.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (c:/texlive/2024/texmf-dist/tex/latex/abntex2/abntex2.cls
@@ -1391,18 +1391,16 @@ Package biblatex Warning: The following entry could not be found
 Package biblatex Info: Reference section=0 on input line 222.
 Package biblatex Info: Reference segment=0 on input line 222.
  (./pre_textual/pretextual.tex
-
-pdfTeX warning: pdflatex.exe (file ./configs/vertical_sigla_fundo_claro.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<configs/vertical_sigla_fundo_claro.pdf, id=4, 327.2225pt x 449.68pt>
-File: configs/vertical_sigla_fundo_claro.pdf Graphic file (type pdf)
-<use configs/vertical_sigla_fundo_claro.pdf>
-Package pdftex.def Info: configs/vertical_sigla_fundo_claro.pdf  used on input line 2.
-(pdftex.def)             Requested size: 52.35297pt x 71.9434pt.
+<configs/univali.png, id=4, 431.4519pt x 397.2441pt>
+File: configs/univali.png Graphic file (type png)
+<use configs/univali.png>
+Package pdftex.def Info: configs/univali.png  used on input line 2.
+(pdftex.def)             Requested size: 85.35826pt x 78.58669pt.
 
 
 [1
 
-{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc} <./configs/vertical_sigla_fundo_claro.pdf>]
+{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc} <./configs/univali.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 8--8
 
  []
@@ -1419,12 +1417,12 @@ l.8
 
 
 ]
-<pre_textual/ficha_catalografica.pdf, id=21, 597.51233pt x 845.0471pt>
+<pre_textual/ficha_catalografica.pdf, id=20, 597.51233pt x 845.0471pt>
 File: pre_textual/ficha_catalografica.pdf Graphic file (type pdf)
 <use pre_textual/ficha_catalografica.pdf>
 Package pdftex.def Info: pre_textual/ficha_catalografica.pdf  used on input line 12.
 (pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
-<pre_textual/ficha_catalografica.pdf, id=23, page=1, 597.51233pt x 845.0471pt>
+<pre_textual/ficha_catalografica.pdf, id=22, page=1, 597.51233pt x 845.0471pt>
 File: pre_textual/ficha_catalografica.pdf Graphic file (type pdf)
 <use pre_textual/ficha_catalografica.pdf, page 1>
 Package pdftex.def Info: pre_textual/ficha_catalografica.pdf , page1 used on input line 12.
@@ -1545,7 +1543,7 @@ Using TeX to sort glossary entries---this may take a while
 \openout2 = `capitulos/cap_2.aux'.
 
  (./capitulos/cap_2.tex
-<figuras/fetching_a_page.png, id=302, 870.25125pt x 511.9125pt>
+<figuras/fetching_a_page.png, id=301, 870.25125pt x 511.9125pt>
 File: figuras/fetching_a_page.png Graphic file (type png)
 <use figuras/fetching_a_page.png>
 Package pdftex.def Info: figuras/fetching_a_page.png  used on input line 21.
@@ -1562,7 +1560,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 ]
-<figuras/http-layers.png, id=319, 1601.985pt x 1148.29pt>
+<figuras/http-layers.png, id=318, 1601.985pt x 1148.29pt>
 File: figuras/http-layers.png Graphic file (type png)
 <use figuras/http-layers.png>
 Package pdftex.def Info: figuras/http-layers.png  used on input line 33.
@@ -1574,7 +1572,7 @@ LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 43
  (c:/texlive/2024/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-<figuras/rest-api.png, id=343, 818.30719pt x 421.575pt>
+<figuras/rest-api.png, id=342, 818.30719pt x 421.575pt>
 File: figuras/rest-api.png Graphic file (type png)
 <use figuras/rest-api.png>
 Package pdftex.def Info: figuras/rest-api.png  used on input line 65.
@@ -1596,12 +1594,12 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [19 <./figuras/rest-api.png>]
 
 [20]
-<figuras/qr.png, id=396, 201.1515pt x 201.1515pt>
+<figuras/qr.png, id=394, 201.1515pt x 201.1515pt>
 File: figuras/qr.png Graphic file (type png)
 <use figuras/qr.png>
 Package pdftex.def Info: figuras/qr.png  used on input line 104.
 (pdftex.def)             Requested size: 181.99722pt x 182.00458pt.
-<figuras/iot.png, id=403, 702.625pt x 480.79625pt>
+<figuras/iot.png, id=401, 702.625pt x 480.79625pt>
 File: figuras/iot.png Graphic file (type png)
 <use figuras/iot.png>
 Package pdftex.def Info: figuras/iot.png  used on input line 119.
@@ -1640,7 +1638,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [25]
 
 [26]
-<figuras/nodemcu.jpg, id=549, 1003.75pt x 720.6925pt>
+<figuras/nodemcu.jpg, id=547, 1003.75pt x 720.6925pt>
 File: figuras/nodemcu.jpg Graphic file (type jpg)
 <use figuras/nodemcu.jpg>
 Package pdftex.def Info: figuras/nodemcu.jpg  used on input line 259.
@@ -1651,7 +1649,7 @@ Package pdftex.def Info: figuras/nodemcu.jpg  used on input line 259.
 \openout2 = `capitulos/cap_3.aux'.
 
  (./capitulos/cap_3.tex
-<figuras/Arquitetura.png, id=562, 385.6809pt x 201.8742pt>
+<figuras/Arquitetura.png, id=560, 385.6809pt x 201.8742pt>
 File: figuras/Arquitetura.png Graphic file (type png)
 <use figuras/Arquitetura.png>
 Package pdftex.def Info: figuras/Arquitetura.png  used on input line 12.
@@ -1668,7 +1666,7 @@ Package pdftex.def Info: figuras/Arquitetura.png  used on input line 12.
 [29]
 
 [30]
-<figuras/database.png, id=589, 446.8695pt x 475.17525pt>
+<figuras/database.png, id=587, 446.8695pt x 475.17525pt>
 File: figuras/database.png Graphic file (type png)
 <use figuras/database.png>
 Package pdftex.def Info: figuras/database.png  used on input line 66.
@@ -1682,17 +1680,17 @@ Package pdftex.def Info: figuras/database.png  used on input line 66.
 [32 <./figuras/database.png>]
 
 [33]
-<figuras/Diagrama compra.png, id=633, 1023.825pt x 808.01875pt>
+<figuras/Diagrama compra.png, id=631, 1023.825pt x 808.01875pt>
 File: figuras/Diagrama compra.png Graphic file (type png)
 <use figuras/Diagrama compra.png>
 Package pdftex.def Info: figuras/Diagrama compra.png  used on input line 132.
 (pdftex.def)             Requested size: 364.00139pt x 287.27403pt.
-<figuras/loja.png, id=634, 641.9985pt x 420.97275pt>
+<figuras/loja.png, id=632, 641.9985pt x 420.97275pt>
 File: figuras/loja.png Graphic file (type png)
 <use figuras/loja.png>
 Package pdftex.def Info: figuras/loja.png  used on input line 140.
 (pdftex.def)             Requested size: 455.0pt x 298.366pt.
-<figuras/Diagrama administrativo.png, id=636, 966.61125pt x 583.17876pt>
+<figuras/Diagrama administrativo.png, id=634, 966.61125pt x 583.17876pt>
 File: figuras/Diagrama administrativo.png Graphic file (type png)
 <use figuras/Diagrama administrativo.png>
 Package pdftex.def Info: figuras/Diagrama administrativo.png  used on input line 156.
@@ -1700,12 +1698,12 @@ Package pdftex.def Info: figuras/Diagrama administrativo.png  used on input line
 
 
 [34]
-<figuras/Diagrama de controle de loja.png, id=642, 923.45pt x 623.32875pt>
+<figuras/Diagrama de controle de loja.png, id=640, 923.45pt x 623.32875pt>
 File: figuras/Diagrama de controle de loja.png Graphic file (type png)
 <use figuras/Diagrama de controle de loja.png>
 Package pdftex.def Info: figuras/Diagrama de controle de loja.png  used on input line 168.
 (pdftex.def)             Requested size: 364.00139pt x 245.70331pt.
-<figuras/tela pontos de vendas.png, id=644, 1132.83224pt x 499.8675pt>
+<figuras/tela pontos de vendas.png, id=642, 1132.83224pt x 499.8675pt>
 File: figuras/tela pontos de vendas.png Graphic file (type png)
 <use figuras/tela pontos de vendas.png>
 Package pdftex.def Info: figuras/tela pontos de vendas.png  used on input line 180.
@@ -1717,7 +1715,7 @@ Package pdftex.def Info: figuras/tela pontos de vendas.png  used on input line 1
 [36 <./figuras/loja.png> <./figuras/Diagrama administrativo.png>]
 
 [37 <./figuras/Diagrama de controle de loja.png> <./figuras/tela pontos de vendas.png>]
-<figuras/adicionar.png, id=665, 1148.49075pt x 528.17325pt>
+<figuras/adicionar.png, id=663, 1148.49075pt x 528.17325pt>
 File: figuras/adicionar.png Graphic file (type png)
 <use figuras/adicionar.png>
 Package pdftex.def Info: figuras/adicionar.png  used on input line 190.
@@ -1736,7 +1734,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 [39]
 
 [40]
-<figuras/diagrama nodemcu.png, id=716, 499.26524pt x 331.2375pt>
+<figuras/diagrama nodemcu.png, id=714, 499.26524pt x 331.2375pt>
 File: figuras/diagrama nodemcu.png Graphic file (type png)
 <use figuras/diagrama nodemcu.png>
 Package pdftex.def Info: figuras/diagrama nodemcu.png  used on input line 273.
@@ -1744,7 +1742,7 @@ Package pdftex.def Info: figuras/diagrama nodemcu.png  used on input line 273.
 
 
 [41 <./figuras/diagrama nodemcu.png>]
-<figuras/pedidos.png, id=724, 1127.412pt x 514.3215pt>
+<figuras/pedidos.png, id=722, 1127.412pt x 514.3215pt>
 File: figuras/pedidos.png Graphic file (type png)
 <use figuras/pedidos.png>
 Package pdftex.def Info: figuras/pedidos.png  used on input line 287.
@@ -1752,17 +1750,17 @@ Package pdftex.def Info: figuras/pedidos.png  used on input line 287.
 
 
 [42 <./figuras/pedidos.png>]
-<figuras/qrcodestore.png, id=737, 3011.25pt x 3011.25pt>
+<figuras/qrcodestore.png, id=735, 3011.25pt x 3011.25pt>
 File: figuras/qrcodestore.png Graphic file (type png)
 <use figuras/qrcodestore.png>
 Package pdftex.def Info: figuras/qrcodestore.png  used on input line 307.
 (pdftex.def)             Requested size: 181.99722pt x 181.95375pt.
-<figuras/testeloja.png, id=740, 575.14874pt x 381.8265pt>
+<figuras/testeloja.png, id=738, 575.14874pt x 381.8265pt>
 File: figuras/testeloja.png Graphic file (type png)
 <use figuras/testeloja.png>
 Package pdftex.def Info: figuras/testeloja.png  used on input line 317.
 (pdftex.def)             Requested size: 364.00139pt x 241.65894pt.
-<figuras/avisopagamento.png, id=741, 1146.08176pt x 500.46976pt>
+<figuras/avisopagamento.png, id=739, 1146.08176pt x 500.46976pt>
 File: figuras/avisopagamento.png Graphic file (type png)
 <use figuras/avisopagamento.png>
 Package pdftex.def Info: figuras/avisopagamento.png  used on input line 325.
@@ -1774,12 +1772,12 @@ Package pdftex.def Info: figuras/avisopagamento.png  used on input line 325.
  <./figuras/qrcodestore.png>]
 
 [44 <./figuras/testeloja.png> <./figuras/avisopagamento.png>]
-<figuras/pagamento.png, id=756, 638.98724pt x 455.90324pt>
+<figuras/pagamento.png, id=753, 638.98724pt x 455.90324pt>
 File: figuras/pagamento.png Graphic file (type png)
 <use figuras/pagamento.png>
 Package pdftex.def Info: figuras/pagamento.png  used on input line 335.
 (pdftex.def)             Requested size: 364.00139pt x 259.70753pt.
-<figuras/nodemcunotification.png, id=758, 757.6305pt x 548.64975pt>
+<figuras/nodemcunotification.png, id=755, 757.6305pt x 548.64975pt>
 File: figuras/nodemcunotification.png Graphic file (type png)
 <use figuras/nodemcunotification.png>
 Package pdftex.def Info: figuras/nodemcunotification.png  used on input line 347.
@@ -1883,18 +1881,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 41160 strings out of 473200
- 731526 string characters out of 5720279
- 1963579 words of memory out of 5000000
+ 41162 strings out of 473200
+ 731571 string characters out of 5720279
+ 1963459 words of memory out of 5000000
  63390 multiletter control sequences out of 15000+600000
- 618248 words of font info for 140 fonts, out of 8000000 for 9000
+ 618345 words of font info for 141 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 124i,17n,121p,2595b,4447s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 124i,17n,121p,2655b,4447s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmtt10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmtt12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmtti10.pfb>
-Output written on main.pdf (51 pages, 3346569 bytes).
+Output written on main.pdf (51 pages, 3366330 bytes).
 PDF statistics:
- 1122 PDF objects out of 1200 (max. 8388607)
- 982 compressed objects within 10 object streams
+ 1120 PDF objects out of 1200 (max. 8388607)
+ 979 compressed objects within 10 object streams
  318 named destinations out of 1000 (max. 500000)
  32862 words of extra memory for PDF output out of 35830 (max. 10000000)
 
