@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.3.3)  23 MAR 2025 21:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.3.3)  2 APR 2025 20:11
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1548,7 +1548,7 @@ Using TeX to sort glossary entries---this may take a while
 \openout2 = `capitulos/cap_2.aux'.
 
  (./capitulos/cap_2.tex
-<figuras/fetching_a_page.png, id=291, 870.25125pt x 511.9125pt>
+<figuras/fetching_a_page.png, id=260, 870.25125pt x 511.9125pt>
 File: figuras/fetching_a_page.png Graphic file (type png)
 <use figuras/fetching_a_page.png>
 Package pdftex.def Info: figuras/fetching_a_page.png  used on input line 21.
@@ -1565,7 +1565,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 ]
-<figuras/http-layers.png, id=307, 1601.985pt x 1148.29pt>
+<figuras/http-layers.png, id=276, 1601.985pt x 1148.29pt>
 File: figuras/http-layers.png Graphic file (type png)
 <use figuras/http-layers.png>
 Package pdftex.def Info: figuras/http-layers.png  used on input line 33.
@@ -1577,7 +1577,7 @@ LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 43
  (c:/texlive/2024/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-<figuras/rest-api.png, id=332, 818.30719pt x 421.575pt>
+<figuras/rest-api.png, id=300, 818.30719pt x 421.575pt>
 File: figuras/rest-api.png Graphic file (type png)
 <use figuras/rest-api.png>
 Package pdftex.def Info: figuras/rest-api.png  used on input line 65.
@@ -1599,12 +1599,12 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [19 <./figuras/rest-api.png>]
 
 [20]
-<figuras/qr.png, id=384, 201.1515pt x 201.1515pt>
+<figuras/qr.png, id=353, 201.1515pt x 201.1515pt>
 File: figuras/qr.png Graphic file (type png)
 <use figuras/qr.png>
 Package pdftex.def Info: figuras/qr.png  used on input line 104.
 (pdftex.def)             Requested size: 181.99722pt x 182.00458pt.
-<figuras/iot.png, id=391, 702.625pt x 480.79625pt>
+<figuras/iot.png, id=360, 702.625pt x 480.79625pt>
 File: figuras/iot.png Graphic file (type png)
 <use figuras/iot.png>
 Package pdftex.def Info: figuras/iot.png  used on input line 119.
@@ -1643,7 +1643,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [25]
 
 [26]
-<figuras/nodemcu.jpg, id=536, 1003.75pt x 720.6925pt>
+<figuras/nodemcu.jpg, id=505, 1003.75pt x 720.6925pt>
 File: figuras/nodemcu.jpg Graphic file (type jpg)
 <use figuras/nodemcu.jpg>
 Package pdftex.def Info: figuras/nodemcu.jpg  used on input line 259.
@@ -1654,219 +1654,148 @@ Package pdftex.def Info: figuras/nodemcu.jpg  used on input line 259.
 \openout2 = `capitulos/cap_3.aux'.
 
  (./capitulos/cap_3.tex
-<figuras/Arquitetura.png, id=550, 385.6809pt x 201.8742pt>
-File: figuras/Arquitetura.png Graphic file (type png)
-<use figuras/Arquitetura.png>
-Package pdftex.def Info: figuras/Arquitetura.png  used on input line 12.
-(pdftex.def)             Requested size: 455.0pt x 238.16943pt.
-
 
 [28
 
 
 
 
- <./figuras/Arquitetura.png>]
+]
 
 [29]
 
 [30]
-<figuras/database.png, id=577, 446.8695pt x 475.17525pt>
-File: figuras/database.png Graphic file (type png)
-<use figuras/database.png>
-Package pdftex.def Info: figuras/database.png  used on input line 66.
-(pdftex.def)             Requested size: 446.86841pt x 475.17409pt.
-
-
-[31
-
-]
-
-[32 <./figuras/database.png>]
-
-[33]
-<figuras/Diagrama compra.png, id=621, 1023.825pt x 808.01875pt>
-File: figuras/Diagrama compra.png Graphic file (type png)
-<use figuras/Diagrama compra.png>
-Package pdftex.def Info: figuras/Diagrama compra.png  used on input line 132.
-(pdftex.def)             Requested size: 364.00139pt x 287.27403pt.
-<figuras/loja.png, id=622, 641.9985pt x 420.97275pt>
-File: figuras/loja.png Graphic file (type png)
-<use figuras/loja.png>
-Package pdftex.def Info: figuras/loja.png  used on input line 140.
-(pdftex.def)             Requested size: 455.0pt x 298.366pt.
-<figuras/Diagrama administrativo.png, id=624, 966.61125pt x 583.17876pt>
-File: figuras/Diagrama administrativo.png Graphic file (type png)
-<use figuras/Diagrama administrativo.png>
-Package pdftex.def Info: figuras/Diagrama administrativo.png  used on input line 156.
-(pdftex.def)             Requested size: 364.00139pt x 219.60805pt.
-
-
-[34]
-<figuras/Diagrama de controle de loja.png, id=630, 923.45pt x 623.32875pt>
-File: figuras/Diagrama de controle de loja.png Graphic file (type png)
-<use figuras/Diagrama de controle de loja.png>
-Package pdftex.def Info: figuras/Diagrama de controle de loja.png  used on input line 168.
-(pdftex.def)             Requested size: 364.00139pt x 245.70331pt.
-<figuras/tela pontos de vendas.png, id=632, 1132.83224pt x 499.8675pt>
-File: figuras/tela pontos de vendas.png Graphic file (type png)
-<use figuras/tela pontos de vendas.png>
-Package pdftex.def Info: figuras/tela pontos de vendas.png  used on input line 180.
-(pdftex.def)             Requested size: 455.0pt x 200.76721pt.
-
-
-[35 <./figuras/Diagrama compra.png>]
-
-[36 <./figuras/loja.png> <./figuras/Diagrama administrativo.png>]
-
-[37 <./figuras/Diagrama de controle de loja.png> <./figuras/tela pontos de vendas.png>]
-<figuras/adicionar.png, id=653, 1148.49075pt x 528.17325pt>
-File: figuras/adicionar.png Graphic file (type png)
-<use figuras/adicionar.png>
-Package pdftex.def Info: figuras/adicionar.png  used on input line 190.
-(pdftex.def)             Requested size: 455.0pt x 209.25073pt.
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
-[38 <./figuras/adicionar.png>]
+[31]
+
+[32]
+<figuras/Arquitetura.png, id=564, 385.6809pt x 201.8742pt>
+File: figuras/Arquitetura.png Graphic file (type png)
+<use figuras/Arquitetura.png>
+Package pdftex.def Info: figuras/Arquitetura.png  used on input line 203.
+(pdftex.def)             Requested size: 455.0pt x 238.16943pt.
+
+
+[33 <./figuras/Arquitetura.png>]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 240.
+(Font)              <5> on input line 246.
 
-
-[39]
-
-[40]
-<figuras/diagrama nodemcu.png, id=704, 499.26524pt x 331.2375pt>
-File: figuras/diagrama nodemcu.png Graphic file (type png)
-<use figuras/diagrama nodemcu.png>
-Package pdftex.def Info: figuras/diagrama nodemcu.png  used on input line 273.
-(pdftex.def)             Requested size: 455.0pt x 301.87642pt.
-
-
-[41 <./figuras/diagrama nodemcu.png>]
-<figuras/pedidos.png, id=712, 1127.412pt x 514.3215pt>
-File: figuras/pedidos.png Graphic file (type png)
-<use figuras/pedidos.png>
-Package pdftex.def Info: figuras/pedidos.png  used on input line 287.
-(pdftex.def)             Requested size: 364.00139pt x 166.0538pt.
-
-
-[42 <./figuras/pedidos.png>]
-<figuras/qrcodestore.png, id=725, 3011.25pt x 3011.25pt>
-File: figuras/qrcodestore.png Graphic file (type png)
-<use figuras/qrcodestore.png>
-Package pdftex.def Info: figuras/qrcodestore.png  used on input line 307.
-(pdftex.def)             Requested size: 181.99722pt x 181.95375pt.
-<figuras/testeloja.png, id=728, 575.14874pt x 381.8265pt>
-File: figuras/testeloja.png Graphic file (type png)
-<use figuras/testeloja.png>
-Package pdftex.def Info: figuras/testeloja.png  used on input line 317.
-(pdftex.def)             Requested size: 364.00139pt x 241.65894pt.
-<figuras/avisopagamento.png, id=729, 1146.08176pt x 500.46976pt>
-File: figuras/avisopagamento.png Graphic file (type png)
-<use figuras/avisopagamento.png>
-Package pdftex.def Info: figuras/avisopagamento.png  used on input line 325.
-(pdftex.def)             Requested size: 364.00139pt x 158.947pt.
-
-
-[43
-
- <./figuras/qrcodestore.png>]
-
-[44 <./figuras/testeloja.png> <./figuras/avisopagamento.png>]
-<figuras/pagamento.png, id=743, 638.98724pt x 455.90324pt>
-File: figuras/pagamento.png Graphic file (type png)
-<use figuras/pagamento.png>
-Package pdftex.def Info: figuras/pagamento.png  used on input line 335.
-(pdftex.def)             Requested size: 364.00139pt x 259.70753pt.
-<figuras/nodemcunotification.png, id=745, 757.6305pt x 548.64975pt>
-File: figuras/nodemcunotification.png Graphic file (type png)
-<use figuras/nodemcunotification.png>
-Package pdftex.def Info: figuras/nodemcunotification.png  used on input line 347.
-(pdftex.def)             Requested size: 227.5pt x 164.74689pt.
-
-
-[45 <./figuras/pagamento.png>]
-Underfull \hbox (badness 2970) in paragraph at lines 365--366
+Underfull \hbox (badness 2970) in paragraph at lines 249--250
 []|\T1/lmr/m/n/10 (+10) Projetos pes-so-ais ou
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 365--366
+Underfull \hbox (badness 10000) in paragraph at lines 249--250
 \T1/lmr/m/n/10 (+10) não co-mer-ci-ais. De-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 365--366
+Underfull \hbox (badness 10000) in paragraph at lines 249--250
 \T1/lmr/m/n/10 (+10) ou in-te-gra-ções git.
  []
 
 
-Underfull \hbox (badness 1824) in paragraph at lines 365--366
+Underfull \hbox (badness 1824) in paragraph at lines 249--250
 \T1/lmr/m/n/10 (+10) HTTPS/SSL au-to-má-
  []
 
 
-Overfull \hbox (1.84067pt too wide) in paragraph at lines 367--367
+Overfull \hbox (1.84067pt too wide) in paragraph at lines 251--251
 []|\T1/lmr/m/n/10 (-10) Enterprise| 
  []
 
 
-Underfull \hbox (badness 1112) in paragraph at lines 369--370
+Underfull \hbox (badness 1112) in paragraph at lines 253--254
 []|\T1/lmr/m/n/10 (+10) 8 GB de RAM / 8
  []
 
 
-Overfull \hbox (1.84067pt too wide) in paragraph at lines 371--371
+Overfull \hbox (1.84067pt too wide) in paragraph at lines 255--255
 []|\T1/lmr/m/n/10 (-10) Enterprise| 
  []
 
 
-Overfull \hbox (1.39177pt too wide) in paragraph at lines 372--372
+Overfull \hbox (1.39177pt too wide) in paragraph at lines 256--256
 []|\T1/lmr/m/n/10 (-10) ElephantSQL| 
  []
 
 
-Overfull \hbox (1.39177pt too wide) in paragraph at lines 373--373
+Overfull \hbox (1.39177pt too wide) in paragraph at lines 257--257
 []|\T1/lmr/m/n/10 (-10) ElephantSQL| 
  []
 
 
-Overfull \hbox (1.39177pt too wide) in paragraph at lines 374--374
+Overfull \hbox (1.39177pt too wide) in paragraph at lines 258--258
 []|\T1/lmr/m/n/10 (-10) ElephantSQL| 
  []
 
 
-Overfull \hbox (0.9904pt too wide) in paragraph at lines 374--374
+Overfull \hbox (0.9904pt too wide) in paragraph at lines 258--258
 []|\T1/lmr/m/n/10 (-10) Enormous| 
  []
 
-)
 
-[46 <./figuras/nodemcunotification.png>]
+Overfull \hbox (10.53354pt too wide) in paragraph at lines 274--274
+[]|\T1/lmr/m/n/10 (-10) Ultrassônico| 
+ []
 
-[47]
+
+Overfull \hbox (10.53354pt too wide) in paragraph at lines 275--275
+[]|\T1/lmr/m/n/10 (-10) Ultrassônico| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 278--278
+[]|\T1/lmr/m/n/10 (+10) Câmera
+ []
+
+
+
+[34]
+
+[35]
+
+[36
+
+]
+
+[37]
+
+[38]
+
+[39
+
+]
+
+[40
+
+])
+
+[41
+
+]
 \openout2 = `capitulos/cap_4.aux'.
 
  (./capitulos/cap_4.tex)
 
-[48
+[42
 
 
 
 
 ]
 
-[49
+[43
 
 
 
 ]
 
-[50]
+[44]
 \tf@lof=\write6
 \openout6 = `main.lof'.
 
@@ -1886,18 +1815,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 41161 strings out of 473200
- 731564 string characters out of 5720279
- 1962694 words of memory out of 5000000
- 63390 multiletter control sequences out of 15000+600000
- 618345 words of font info for 141 fonts, out of 8000000 for 9000
+ 40959 strings out of 473200
+ 726978 string characters out of 5720279
+ 1961491 words of memory out of 5000000
+ 63253 multiletter control sequences out of 15000+600000
+ 610062 words of font info for 132 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  124i,17n,121p,2655b,4447s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmtt10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmtt12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmtti10.pfb>
-Output written on main.pdf (51 pages, 3364673 bytes).
+<c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmtt10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmtti10.pfb>
+Output written on main.pdf (45 pages, 788890 bytes).
 PDF statistics:
- 1110 PDF objects out of 1200 (max. 8388607)
- 969 compressed objects within 10 object streams
- 317 named destinations out of 1000 (max. 500000)
- 32862 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 934 PDF objects out of 1000 (max. 8388607)
+ 832 compressed objects within 9 object streams
+ 268 named destinations out of 1000 (max. 500000)
+ 30232 words of extra memory for PDF output out of 35830 (max. 10000000)
 

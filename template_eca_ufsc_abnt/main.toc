@@ -33,33 +33,35 @@
 \contentsline {section}{\numberline {2.10}NodeMCU ESP8266}{26}{section.2.10}%
 \contentsline {subsection}{\numberline {2.10.1}C++ e Bibliotecas}{27}{subsection.2.10.1}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase []{Arquitetura do sistema}}{28}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Aplicação Web FullStack}{28}{section.3.1}%
-\contentsline {section}{\numberline {3.2}Servidor de Sockets}{29}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Agente de Distribuição}{30}{section.3.3}%
-\contentsline {section}{\numberline {3.4}Mercado Pago}{30}{section.3.4}%
-\contentsline {section}{\numberline {3.5}Base de Dados}{30}{section.3.5}%
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase []{Escolha dos Sensores}}{28}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Sensores utilizados}{28}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Sensores Ultrassônicos}{28}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}JSN SR04T}{28}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}HC-SR04}{29}{subsection.3.2.2}%
+\contentsline {section}{\numberline {3.3}Sensores LiDAR}{29}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}TF-Luna}{30}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}TF-Nova}{31}{subsection.3.3.2}%
+\contentsline {section}{\numberline {3.4}Câmeras}{33}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}ESP-CAM}{33}{subsection.3.4.1}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase []{Implementação}}{31}{chapter.4}%
-\contentsline {section}{\numberline {4.1}Banco de Dados}{31}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Aplicação Web Full Stack}{34}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}Fluxo de Compras}{34}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.2.2}Fluxo de Administração do Sistema}{34}{subsection.4.2.2}%
-\contentsline {subsection}{\numberline {4.2.3}Fluxo de Administração de Um Ponto de Vendas}{35}{subsection.4.2.3}%
-\contentsline {subsection}{\numberline {4.2.4}\textit {Frontend}}{35}{subsection.4.2.4}%
-\contentsline {subsection}{\numberline {4.2.5}\textit {Backend}}{38}{subsection.4.2.5}%
-\contentsline {section}{\numberline {4.3}Servidor de \textit {Sockets}}{39}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}Configurações iniciais e Criação do servidor \textit {websocket}}{40}{subsection.4.3.1}%
-\contentsline {subsection}{\numberline {4.3.2}Gerenciamento e Atualização de conexões \textit {websocket}}{40}{subsection.4.3.2}%
-\contentsline {subsection}{\numberline {4.3.3}Roteamento HTTP e Socket}{40}{subsection.4.3.3}%
-\contentsline {section}{\numberline {4.4}Agente de distribuição}{41}{section.4.4}%
+\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase []{Metodologia experimental}}{36}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Metodologia Experimental}{36}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Testes em Ambiente Controlado}{36}{subsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.1.1}Procedimentos}{36}{subsubsection.4.1.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Testes em Condições Reais}{36}{subsection.4.1.2}%
+\contentsline {subsubsection}{\numberline {4.1.2.1}Procedimentos}{37}{subsubsection.4.1.2.1}%
+\contentsline {section}{\numberline {4.2}Métricas de Avaliação}{37}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Fluxograma da Metodologia}{37}{section.4.3}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase []{Resultados}}{43}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Resultados e testes da implantação em ambiente de produção}{43}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Hospedagem e custos}{45}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Considerações finais}{46}{section.5.3}%
+\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase []{Arquitetura do sistema}}{39}{chapter.5}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase []{Conclusão}}{48}{chapter.6}%
+\contentsline {chapter}{\chapternumberline {6}\MakeTextUppercase []{Implementação}}{40}{chapter.6}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {7}\MakeTextUppercase []{Resultados}}{41}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Hospedagem e custos}{41}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Considerações finais}{41}{section.7.2}%
+\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
+\contentsline {chapter}{\chapternumberline {8}\MakeTextUppercase []{Conclusão}}{42}{chapter.8}%
 \vspace {\cftbeforechapterskip }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\contentsline {chapter}{REFERÊNCIAS}{49}{section*.43}%
+\contentsline {chapter}{REFERÊNCIAS}{43}{section*.29}%

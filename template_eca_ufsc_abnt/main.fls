@@ -499,7 +499,6 @@ INPUT main.lot
 INPUT ./main.toc
 INPUT ./main.toc
 INPUT main.toc
-INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/lm/ec-lmbxi10.tfm
 INPUT ./capitulos/cap_1.tex
 INPUT ./capitulos/cap_1.tex
 OUTPUT capitulos/cap_1.aux
@@ -567,83 +566,12 @@ INPUT ./figuras/Arquitetura.png
 INPUT ./figuras/Arquitetura.png
 INPUT ./figuras/Arquitetura.png
 INPUT ./figuras/Arquitetura.png
-INPUT ./figuras/database.png
-INPUT ./figuras/database.png
-INPUT ./figuras/database.png
-INPUT ./figuras/database.png
-INPUT ./figuras/database.png
-INPUT ./figuras/Diagrama compra.png
-INPUT ./figuras/Diagrama compra.png
-INPUT ./figuras/Diagrama compra.png
-INPUT ./figuras/Diagrama compra.png
-INPUT ./figuras/Diagrama compra.png
-INPUT ./figuras/loja.png
-INPUT ./figuras/loja.png
-INPUT ./figuras/loja.png
-INPUT ./figuras/loja.png
-INPUT ./figuras/loja.png
-INPUT ./figuras/Diagrama administrativo.png
-INPUT ./figuras/Diagrama administrativo.png
-INPUT ./figuras/Diagrama administrativo.png
-INPUT ./figuras/Diagrama administrativo.png
-INPUT ./figuras/Diagrama administrativo.png
-INPUT ./figuras/Diagrama de controle de loja.png
-INPUT ./figuras/Diagrama de controle de loja.png
-INPUT ./figuras/Diagrama de controle de loja.png
-INPUT ./figuras/Diagrama de controle de loja.png
-INPUT ./figuras/Diagrama de controle de loja.png
-INPUT ./figuras/tela pontos de vendas.png
-INPUT ./figuras/tela pontos de vendas.png
-INPUT ./figuras/tela pontos de vendas.png
-INPUT ./figuras/tela pontos de vendas.png
-INPUT ./figuras/tela pontos de vendas.png
-INPUT ./figuras/adicionar.png
-INPUT ./figuras/adicionar.png
-INPUT ./figuras/adicionar.png
-INPUT ./figuras/adicionar.png
-INPUT ./figuras/adicionar.png
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/lm/rm-lmr5.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/lm/lmmi5.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/lm/lmsy5.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
-INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/lm/ec-lmr7.tfm
-INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/lm/ec-lmtt12.tfm
-INPUT ./figuras/diagrama nodemcu.png
-INPUT ./figuras/diagrama nodemcu.png
-INPUT ./figuras/diagrama nodemcu.png
-INPUT ./figuras/diagrama nodemcu.png
-INPUT ./figuras/diagrama nodemcu.png
-INPUT ./figuras/pedidos.png
-INPUT ./figuras/pedidos.png
-INPUT ./figuras/pedidos.png
-INPUT ./figuras/pedidos.png
-INPUT ./figuras/pedidos.png
-INPUT ./figuras/qrcodestore.png
-INPUT ./figuras/qrcodestore.png
-INPUT ./figuras/qrcodestore.png
-INPUT ./figuras/qrcodestore.png
-INPUT ./figuras/qrcodestore.png
-INPUT ./figuras/testeloja.png
-INPUT ./figuras/testeloja.png
-INPUT ./figuras/testeloja.png
-INPUT ./figuras/testeloja.png
-INPUT ./figuras/testeloja.png
-INPUT ./figuras/avisopagamento.png
-INPUT ./figuras/avisopagamento.png
-INPUT ./figuras/avisopagamento.png
-INPUT ./figuras/avisopagamento.png
-INPUT ./figuras/avisopagamento.png
-INPUT ./figuras/pagamento.png
-INPUT ./figuras/pagamento.png
-INPUT ./figuras/pagamento.png
-INPUT ./figuras/pagamento.png
-INPUT ./figuras/pagamento.png
-INPUT ./figuras/nodemcunotification.png
-INPUT ./figuras/nodemcunotification.png
-INPUT ./figuras/nodemcunotification.png
-INPUT ./figuras/nodemcunotification.png
-INPUT ./figuras/nodemcunotification.png
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/lm/ts1-lmr10.tfm
 INPUT ./capitulos/cap_4.tex
 INPUT ./capitulos/cap_4.tex
 OUTPUT capitulos/cap_4.aux
@@ -670,13 +598,10 @@ INPUT main.run.xml
 OUTPUT main.run.xml
 INPUT c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx10.pfb
 INPUT c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb
-INPUT c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb
 INPUT c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb
 INPUT c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr12.pfb
-INPUT c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr7.pfb
 INPUT c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr8.pfb
 INPUT c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri10.pfb
 INPUT c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri12.pfb
 INPUT c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmtt10.pfb
-INPUT c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmtt12.pfb
 INPUT c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmtti10.pfb
