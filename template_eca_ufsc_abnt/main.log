@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.3.3)  2 APR 2025 20:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.3.3)  3 MAY 2025 18:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/Klaus/Documents/Projetos/Artigo - Avaliação Comparativa de Sensores para Monitoramento do Nível de Rios/template_eca_ufsc_abnt/main.tex"
-(c:/Users/Klaus/Documents/Projetos/Artigo - Avaliação Comparativa de Sensores para Monitoramento do Nível de Rios/template_eca_ufsc_abnt/main.tex
+**"c:/Users/Klaus/Documents/Projetos/Artigo - A Review of Current Sensor Technologies for Environmental Monitoring/template_eca_ufsc_abnt/main.tex"
+(c:/Users/Klaus/Documents/Projetos/Artigo - A Review of Current Sensor Technologies for Environmental Monitoring/template_eca_ufsc_abnt/main.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (c:/texlive/2024/texmf-dist/tex/latex/abntex2/abntex2.cls
@@ -1194,7 +1194,7 @@ Package: blx-case-expl3 2024/03/21 v3.20 expl3 case changing code for biblatex
 \cftquadroindent=\skip297
 \cftquadronumwidth=\skip298
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 206.
+Package hyperref Info: Option `colorlinks' set `true' on input line 203.
  (./pre_textual/siglas_simbolos.tex)
 \main@idxfile=\write5
 \openout5 = `main.idx'.
@@ -1205,31 +1205,31 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'brazil'.
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 222.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 219.
 (c:/texlive/2024/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (./main.aux (./capitulos/cap_1.aux) (./capitulos/cap_2.aux) (./capitulos/cap_3.aux) (./capitulos/cap_4.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 222.
-LaTeX Font Info:    ... okay on input line 222.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 222.
-LaTeX Font Info:    ... okay on input line 222.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 222.
-LaTeX Font Info:    ... okay on input line 222.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 222.
-LaTeX Font Info:    ... okay on input line 222.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 222.
-LaTeX Font Info:    ... okay on input line 222.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 222.
-LaTeX Font Info:    ... okay on input line 222.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 222.
-LaTeX Font Info:    ... okay on input line 222.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 222.
-LaTeX Font Info:    ... okay on input line 222.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 222.
-LaTeX Font Info:    ... okay on input line 222.
-Package hyperref Info: Link coloring ON on input line 222.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 219.
+LaTeX Font Info:    ... okay on input line 219.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 219.
+LaTeX Font Info:    ... okay on input line 219.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 219.
+LaTeX Font Info:    ... okay on input line 219.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 219.
+LaTeX Font Info:    ... okay on input line 219.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 219.
+LaTeX Font Info:    ... okay on input line 219.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 219.
+LaTeX Font Info:    ... okay on input line 219.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 219.
+LaTeX Font Info:    ... okay on input line 219.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 219.
+LaTeX Font Info:    ... okay on input line 219.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 219.
+LaTeX Font Info:    ... okay on input line 219.
+Package hyperref Info: Link coloring ON on input line 219.
 \myptabbox=\box72
 \myptabboxwidth=\skip299
  (c:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -1251,16 +1251,16 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (c:/texlive/2024/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-LaTeX Info: Redefining \microtypecontext on input line 222.
-Package microtype Info: Applying patch `item' on input line 222.
-Package microtype Info: Applying patch `toc' on input line 222.
+LaTeX Info: Redefining \microtypecontext on input line 219.
+Package microtype Info: Applying patch `item' on input line 219.
+Package microtype Info: Applying patch `toc' on input line 219.
 
 
-Package microtype Warning: Unable to apply patch `eqnum' on input line 222.
+Package microtype Warning: Unable to apply patch `eqnum' on input line 219.
 
-Package microtype Info: Applying patch `footnote' on input line 222.
-Package microtype Info: Applying patch `verbatim' on input line 222.
-LaTeX Info: Redefining \microtypesetup on input line 222.
+Package microtype Info: Applying patch `footnote' on input line 219.
+Package microtype Info: Applying patch `verbatim' on input line 219.
+LaTeX Info: Redefining \microtypesetup on input line 219.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2),
 (microtype)             factor: 1100.
@@ -1268,7 +1268,7 @@ Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 10, shrink: 10, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 222.
+LaTeX Info: Redefining \showhyphens on input line 219.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -1388,8 +1388,8 @@ Package biblatex Warning: The following entry could not be found
 (biblatex)                LaTeX afterwards.
 
 )
-Package biblatex Info: Reference section=0 on input line 222.
-Package biblatex Info: Reference segment=0 on input line 222.
+Package biblatex Info: Reference section=0 on input line 219.
+Package biblatex Info: Reference segment=0 on input line 219.
  (./pre_textual/pretextual.tex
 <configs/univali.png, id=4, 431.4519pt x 397.2441pt>
 File: configs/univali.png Graphic file (type png)
@@ -1815,15 +1815,15 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 40959 strings out of 473200
- 726978 string characters out of 5720279
- 1961491 words of memory out of 5000000
+ 40961 strings out of 473200
+ 726988 string characters out of 5720279
+ 1961523 words of memory out of 5000000
  63253 multiletter control sequences out of 15000+600000
- 610062 words of font info for 132 fonts, out of 8000000 for 9000
+ 610159 words of font info for 133 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 124i,17n,121p,2655b,4447s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 124i,17n,121p,2651b,4447s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmtt10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmtti10.pfb>
-Output written on main.pdf (45 pages, 788890 bytes).
+Output written on main.pdf (45 pages, 789168 bytes).
 PDF statistics:
  934 PDF objects out of 1000 (max. 8388607)
  832 compressed objects within 9 object streams

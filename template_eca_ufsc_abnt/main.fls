@@ -1,8 +1,8 @@
-PWD c:/Users/Klaus/Documents/Projetos/Artigo - Avaliação Comparativa de Sensores para Monitoramento do Nível de Rios/template_eca_ufsc_abnt
+PWD c:/Users/Klaus/Documents/Projetos/Artigo - A Review of Current Sensor Technologies for Environmental Monitoring/template_eca_ufsc_abnt
 INPUT c:/texlive/2024/texmf.cnf
 INPUT c:/texlive/2024/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT c:/Users/Klaus/Documents/Projetos/Artigo - Avaliação Comparativa de Sensores para Monitoramento do Nível de Rios/template_eca_ufsc_abnt/main.tex
+INPUT c:/Users/Klaus/Documents/Projetos/Artigo - A Review of Current Sensor Technologies for Environmental Monitoring/template_eca_ufsc_abnt/main.tex
 OUTPUT main.log
 INPUT c:/texlive/2024/texmf-dist/tex/latex/abntex2/abntex2.cls
 INPUT c:/texlive/2024/texmf-dist/tex/latex/abntex2/abntex2.cls
