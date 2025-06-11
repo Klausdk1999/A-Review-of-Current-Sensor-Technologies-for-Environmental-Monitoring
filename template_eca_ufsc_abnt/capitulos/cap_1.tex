@@ -1,39 +1,49 @@
 % ----------------------------------------------------------
 \chapter{Introdução} \label{cap:intro}
 % ----------------------------------------------------------
+% Motivation for environmental monitoring
+% AI Increases the need for data, which can be supplied from sensors etc.
+% Importance of Wireless Sensor Networks (WSNs) in environmental monitoring.
+% Increasing relevance of low-power, long-range technologies like LoRa.
+% Categorization: Water, Soil, and Air/Chemical monitoring.
+% Smart cities?
+% Outline of paper structure.
 
-The increasing severity of climate change, pollution, and ecological degradation has elevated the need for continuous, accurate, and scalable environmental monitoring. Understanding the dynamics of air quality, water purity, soil health, and meteorological conditions is essential for informed decision-making in fields such as public health, agriculture, urban planning, and conservation. Traditional environmental data collection methods—largely manual and periodic—are no longer sufficient to capture the spatial and temporal complexity of these phenomena.
 
-Recent advancements in sensor technology, coupled with the rise of the Internet of Things (IoT) and wireless sensor networks (WSNs), have revolutionized the way environmental data is collected, transmitted, and analyzed. These systems enable real-time, distributed, and often autonomous monitoring across vast geographic areas, even in remote or harsh environments. The convergence of low-power sensors, edge computing, and long-range wireless communication protocols has made it feasible to deploy scalable and cost-effective monitoring infrastructures.
+Floods, particularly flash floods, are among the most impactful natural disasters worldwide, causing substantial economic losses, infrastructure damage, and fatalities \cite{jonkman_2005_global, santos_2014_indstria}. These events are characterized by their sudden onset and rapid development, often occurring at the outlet of small catchments in response to intense localized rainfall, with response times of only a few hours \cite{borga_2014_hydrogeomorphic} . Compounding the issue, climate change is intensifying the global hydrological cycle, leading to an increase in the frequency and severity of extreme weather events, including floods. This reinforces the need for improved flood monitoring, risk management strategies and alert systems to safeguard communities \cite{hall_2014_understanding, bragana_2024_anlise}.
 
-This review aims to provide a comprehensive overview of the current state of sensor technologies used in environmental monitoring. It explores the different types of environmental parameters and the corresponding sensor modalities, examines how these sensors are integrated into modern IoT-based systems, and discusses the challenges related to data quality, calibration, power consumption, and communication. Additionally, it highlights emerging trends in sensor development and identifies research opportunities in this rapidly evolving field.
+Flash floods and debris flows often escape conventional hydrometeorological monitoring due to their spatial and temporal unpredictability \cite{borga_2014_hydrogeomorphic,hall_2014_understanding}. Accurate and real-time data collection becomes essential to calibrate hydrological and hydrodynamic models such as rainfall–runoff systems, flood discharge and water supply volumes which serve as the foundation for effective early warning systems \cite{lin_2020_semantic, lo_2015_visual, iqbal_2021_how}. In addition to instrumental data, combining systematic flood observations with historical and documentary records has been highlighted as a valuable approach to better understand long-term flood regime dynamics, including the detection of flood-rich and flood-poor periods influenced by natural variability \cite{borga_2014_hydrogeomorphic,hall_2014_understanding,iqbal_2021_how, bragana_2024_anlise}.
 
-\section{Objetivo Geral}
+However, monitoring natural disasters presents substantial technical challenges. The vast scales involved, coupled with harsh environmental conditions and the need for real-time data, demand robust, cost-effective, and scalable technological solutions. In this context, Wireless Sensor Networks (WSNs) have emerged as a promising tool, offering significant advantages in terms of deployment flexibility, rapid response capabilities, and affordability compared to traditional monitoring infrastructures. WSNs enable dense spatial sampling and continuous data collection, which are critical for disaster monitoring applications.\cite{chen_2013_natural, ferreira_2023_conception, pule_2017_wireless}
 
-O objetivo geral deste projeto é avaliar o desempenho de sensores ultrassônicos, sensores LiDAR e câmeras na medição do nível de rios, comparando suas capacidades e limitações em diferentes cenários. Com base nos resultados, busca-se determinar qual tecnologia apresenta melhor custo-benefício e maior adequação para essa aplicação específica.
-Foram escolhidos três tipos de sensores para análise: sensores ultrassônicos, sensores LiDAR e câmeras.
+To further enhance WSN capabilities in remote and large-scale environments, Low Power Wide Area Networks (LPWAN) like LoRaWAN have gained prominence. LoRaWAN is specifically designed for transmitting small amounts of data over long distances with extremely low power consumption, enabling sensor nodes to operate autonomously for up to 10 years . This makes it particularly suitable for hydrological monitoring systems in regions with limited infrastructure \cite{pule_2017_wireless, chen_2013_natural,ferreira_2023_conception}. 
 
-\section{Objetivos Específicos}
+This Master's project aims to develop a WSN for river water level monitoring using LoRa technology, focusing on the performance comparison of low-cost LiDAR and ultrasonic sensors. The project will involve designing and implementing a microcontroller-based sensor node capable of interfacing with various sensors, including TF-Luna, TF-Nova, JSN-SR04T, and HC-SR04.
+
+\section{Objectives}
+
+The primary objective of this Master's project is to design, implement, and rigorously evaluate a LoRa-based WSN for river water level monitoring, focusing on a comprehensive performance comparison of selected low-cost LiDAR and ultrasonic sensors.
+
+\section{Specific Objectives}
 
 \begin{enumerate}
-
-    \item Realizar uma revisão bibliográfica sobre as principais tecnologias de sensores utilizadas no monitoramento de níveis de líquidos e corpos d'água.
-    
-    \item Definir um conjunto de critérios para avaliação dos sensores, considerando aspectos como precisão, alcance máximo, resistência a interferências ambientais e custo.
-
-    \item Conduzir testes experimentais com sensores ultrassônicos, sensores LiDAR e câmeras em ambiente controlado.
-
-    \item Realizar testes em um cenário real, avaliando o impacto de fatores como variação climática, presença de detritos e mudanças no fluxo da água.
-
-    \item Comparar os resultados obtidos e identificar as aplicações mais adequadas para cada tipo de sensor.
-
-    \item Determinar a tecnologia mais eficiente para o monitoramento do nível de rios, considerando aspectos de viabilidade técnica e econômica.
-
-    \item Elaborar recomendações para a implementação de sistemas de medição baseados nos sensores analisados.
-
+    \item To develop a microcontroller-based sensor node capable of interfacing with TF-Luna, TF-Nova, JSN-SR04T, and HC-SR04 sensors;
+    \item To implement robust firmware for synchronized data acquisition, local data processing, and efficient LoRa/LoRaWAN data transmission.
+    \item To conduct laboratory experiments to quantify and compare the accuracy, precision, range, resolution, and susceptibility to common interferences (e.g., temperature shifts, target surface variations, water conditions) of each sensor;
+    \item To deploy the developed sensor nodes in a real environment, assessing their performance, data integrity, and operational resilience against ambient environmental conditions;
+    \item To analyze the collected field and lab data to provide a assessment of the sensors, identifying their respective strengths, weaknesses, and optimal operational conditions for river stage monitoring;
+    \item To offer evidence-based recommendations for sensor selection, node design, and LoRa network deployment strategies for scalable and cost-effective hydrological monitoring systems in similar regional contexts;
 \end{enumerate}
 
-\section{Estrutura do documento}
+\section{Structure of the Work}
 
-Este trabalho está dividido em seis capítulos. O Capítulo \ref{cap:intro} apresenta a introdução e os objetivos da pesquisa. O Capítulo \ref{cap:fundamentacao} trata da fundamentação teórica, abordando os princípios de funcionamento dos sensores analisados. O Capítulo \ref{cap:arquitetura} descreve a metodologia e os critérios adotados para a realização dos testes. O Capítulo \ref{cap:desenvolvimento} apresenta os experimentos conduzidos e as tecnologias utilizadas. O Capítulo \ref{cap:resultados} discute os resultados obtidos e compara as diferentes abordagens. Por fim, o Capítulo \ref{cap:conclusao} traz as considerações finais e sugestões para trabalhos futuros.
+This thesis is structured as follows:
+\begin{itemize}
+    \item \textbf{Chapter 2: Literature Review} - A comprehensive review of existing literature on WSNs, LoRa technology, and sensor technologies for hydrological monitoring.
+    \item \textbf{Chapter 3: Materials and Methods} - Detailed description of the hardware and software design, sensor selection criteria, experimental setup, and data analysis methods.
+    \item \textbf{Chapter 4: Laboratory Experiments} - Presentation and analysis of laboratory results comparing the selected sensors under controlled conditions.
+    \item \textbf{Chapter 5: Field Deployment} - Description of the field deployment process, network setup, and performance evaluation in a real riverine environment.
+    \item \textbf{Chapter 6: Discussion and Conclusion} - Summary of findings, implications for future research, and recommendations for practical applications in water level monitoring.
+\end{itemize}
+
 

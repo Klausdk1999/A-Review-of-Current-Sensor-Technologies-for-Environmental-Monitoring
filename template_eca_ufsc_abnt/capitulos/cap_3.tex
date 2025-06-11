@@ -1,441 +1,120 @@
-\chapter{Escolha dos Sensores}\label{cap:sensores}
-% Revisão de estudos sobre precisão, limitações e condições ambientais que afetam os sensores
+\chapter{Theoretical Framework} \label{cap:theoretical}
 
-%     Precisão dos sensores em diferentes condições ambientais (chuva, neblina, iluminação, etc.).
+% 3. Wireless Sensor Networks (WSN) and Communication Technologies
+% Focus on how WSN enables data collection, data transmission, and real-time monitoring.
+% Discussion on technologies like LoRa, LPWAN, Zigbee, bt, web.
+% LoRa and LPWAN dominance in environmental WSN
+% Architectures? Mesh vs. star topologies. Use of gateways, cloud services, and edge computing nodes etc
 
-%     Limitações de cada tecnologia: reflexões, interferências e variações de leitura.
+% Relevant Articles:
+% "Long Battery Life IoT Sensing by Beat Sensors" — Communication based on timing intervals. (Observation: Alternative low-power communication model.)
+% "Exploiting hardware vulnerabilities to attack embedded system devices" — Security challenges in WSN. (Observation: Survey of microarchitectural attacks.)
+% "Conception and Design of WSN Sensor Nodes Based on Soil Moisture Monitoring" — Also relevant here for its WSN node design discussion.
 
-%     Comparação entre sensores e suas aplicações em diferentes cenários.
-% - Sensores Ultrassônicos  
-%   - Interferência em superfícies irregulares  
-%   - Sensibilidade a temperatura e umidade  
-%   - Melhor para curtas distâncias  
-% - Sensores LiDAR  
-%   - Alta precisão e longo alcance  
-%   - Interferência em névoa e chuva  
-%   - Custo mais elevado  
-% - Câmeras com IA  
-%   - Depende da iluminação do ambiente  
-%   - Requer processamento computacional  
-%   - Pode ser treinado para diferentes cenários  
+% "LoRa provided reliable communication over 5km in rural tests."
+% "Battery life extended to 5 years using beat sensors."
+% Mention the use of AI/ML for sensor data analysis, anomaly detection, or pattern recognition. Some articles on water monitoring use CNN-based object detection for water level estimation.
 
-\section{Sensores utilizados}
-Os sensores utilizados neste trabalho foram selecionados com base em suas características técnicas, custo e aplicabilidade no monitoramento do nível de rios. Os sensores analisados são:
-\begin{itemize}
-    \item \textbf{Sensores LiDAR:} TF-Luna, TF-Nova.
-    \item \textbf{Sensores Ultrassônicos:} JSN SR04T, HC-SR04.
-    \item \textbf{Sensor com Câmera e IA:} ESP-CAM com modelo de inteligência artificial para medição de nível d'água.
-\end{itemize}
-Neste capítulo, serão apresentados os três tipos de sensores que foram analisados neste trabalho. A escolha dos sensores foi baseada em suas características técnicas, custo e aplicabilidade no monitoramento do nível de rios. Os sensores selecionados são: sensores ultrassônicos, sensores LiDAR e câmeras. A seguir, serão descritas as principais características de cada um deles.
 
-% Definição dos sensores que serão testados (marcas, modelos e especificações técnicas)
+This chapter presents the theoretical foundation underpinning the development of the proposed water level monitoring system. It discusses the essential technologies and concepts, including the \glsxtrfull{IoT}, long-range wireless communication (\glsxtrfull{LoRa}/\gls{LoRaWAN}), distance measurement methods such as \glsxtrfull{LiDAR} and ultrasonic sensors, and embedded systems. These topics establish the context and technical justification for the architecture adopted in this work.
 
-% Descrição detalhada de cada sensor, incluindo:
+\section{\glsxtrfull{IoT}}
 
-% 	Tecnologia utilizada.
+The \gls{IoT} encompasses a network of interconnected physical objects that are equipped with sensors, processors, and communication interfaces, allowing them to collect, process, and transmit data without human intervention . The proliferation of \gls{IoT} has enabled the deployment of intelligent systems in areas such as agriculture, industrial monitoring, and environmental surveillance. \cite{Madakam:2015,javaid_2021_sensors}
 
-% 	Alcance mínimo e máximo.
-
-% 	Precisão e taxa de atualização.
-
-% 	Influência de fatores ambientais.
-\section{Sensores Ultrassônicos}
-Os sensores ultrassônicos são dispositivos que utilizam ondas sonoras para medir distâncias. Eles emitem um pulso de som e medem o tempo que leva para o eco retornar ao sensor. Essa tecnologia é amplamente utilizada em aplicações de automação e robótica, devido à sua precisão e baixo custo.
-
-\subsection{JSN SR04T}
-O JSN SR04T é um sensor ultrassônico de alta precisão, projetado para medir distâncias em ambientes externos. Ele possui um alcance de até 4 metros e é resistente à água, o que o torna ideal para aplicações em ambientes úmidos. O sensor é fácil de instalar e pode ser integrado a microcontroladores como Arduino e Raspberry Pi.
-Ficha técnica:
-\begin{itemize}
-	\item Alcance: 20 cm a 4 m
-	\item Precisão: ±1 cm
-	\item Tensão de operação: 5 V
-	\item Consumo de corrente: 15 mA
-	\item Temperatura de operação: -20 °C a +70 °C
-	\item Umidade de operação: 0\% a 100\%
-	\item Resistência à água: IP67
-	\item Taxa de atualização: 10 Hz
-	\item Dimensões: 45 mm x 20 mm x 15 mm
-	\item Peso: 20 g
-\end{itemize}
-
-\subsection{HC-SR04}
-O HC-SR04 é um sensor ultrassônico amplamente utilizado em projetos de robótica e automação. Ele possui um alcance de até 4 metros e é conhecido por sua precisão e baixo custo. O sensor é fácil de usar e pode ser conectado a microcontroladores como Arduino e Raspberry Pi. No entanto, o HC-SR04 não é resistente à água, o que limita sua aplicação em ambientes úmidos.
-Ficha técnica:
-\begin{itemize}
-	\item Alcance: 2 cm a 4 m
-	\item Precisão: ±3 mm
-	\item Tensão de operação: 5 V
-	\item Consumo de corrente: 15 mA
-	\item Temperatura de operação: -15 °C a +70 °C
-	\item Umidade de operação: 0\% a 90\%
-	\item Resistência à água: Não
-	\item Taxa de atualização: 40 Hz
-	\item Dimensões: 45 mm x 20 mm x 15 mm
-	\item Peso: 20 g
-\end{itemize}
-\section{Sensores LiDAR}
-Os sensores LiDAR (Light Detection and Ranging) utilizam luz laser para medir distâncias. Eles emitem pulsos de luz e medem o tempo que leva para o eco retornar ao sensor. Essa tecnologia é amplamente utilizada em aplicações de mapeamento e monitoramento ambiental, devido à sua alta precisão e capacidade de gerar dados tridimensionais.
-Ficha técnica:
-\begin{itemize}
-	\item Alcance: 0,1 m a 12 m
-	\item Precisão: ±1 cm
-	\item Tensão de operação: 5 V
-	\item Consumo de corrente: 100 mA
-	\item Temperatura de operação: -10 °C a +50 °C
-	\item Umidade de operação: 0\% a 95\%
-	\item Resistência à água: Não
-	\item Taxa de atualização: 100 Hz
-	\item Dimensões: 45 mm x 20 mm x 15 mm
-	\item Peso: 20 g
-	\item Tecnologia: Laser de pulso
-	\item Tipo de saída: Serial TTL
-	\item Protocolo: UART
-	\item Interface: UART
-	\item Ângulo de visão: 270°
-	\item Resolução: 1 cm
-	\item Precisão: ±1 cm
-	\item Taxa de amostragem: 100 Hz
-	\item Distância mínima: 0,1 m
-	\item Distância máxima: 12 m
-	\item Temperatura de operação: -10 °C a +50 °C
-	\item Umidade de operação: 0\% a 95\%
-	\item Resistência à água: Não	
-	\item Dimensões: 45 mm x 20 mm x 15 mm
-	\item Peso: 20 g
-\end{itemize}
-\subsection{TF-Luna}
-O TF-Luna é um sensor LiDAR de baixo custo, projetado para aplicações de medição de distância. Ele possui um alcance de até 8 metros e é conhecido por sua precisão e facilidade de uso. O sensor pode ser integrado a microcontroladores como Arduino e Raspberry Pi, tornando-o uma opção popular para projetos de robótica e automação.
-Ficha técnica:
-\begin{itemize}
-	\item Alcance: 0,2 m a 8 m
-	\item Precisão: ±1 cm
-	\item Tensão de operação: 5 V
-	\item Consumo de corrente: 100 mA
-	\item Temperatura de operação: -10 °C a +50 °C
-	\item Umidade de operação: 0\% a 95\%
-	\item Resistência à água: Não
-	\item Taxa de atualização: 100 Hz
-	\item Dimensões: 45 mm x 20 mm x 15 mm
-	\item Peso: 20 g
-	\item Tecnologia: Laser de pulso
-	\item Tipo de saída: Serial TTL
-	\item Protocolo: UART
-	\item Interface: UART
-	\item Ângulo de visão: 270°
-	\item Resolução: 1 cm
-	\item Precisão: ±1 cm
-	\item Taxa de amostragem: 100 Hz
-	\item Distância mínima: 0,2 m
-	\item Distância máxima: 8 m
-	\item Temperatura de operação: -10 °C a +50 °C
-	\item Umidade de operação: 0\% a 95\%
-	\item Resistência à água: Não	
-	\item Dimensões: 45 mm x 20 mm x 15 mm
-	\item Peso: 20 g
-	\item Tipo de saída: Serial TTL
-\end{itemize}
-\begin{figure}[h]
-	\begin{lstlisting}[caption={Exemplo de um schema no Prisma.}, label={code:prisma}]
-	generator client {
-		provider = "prisma-client-js"
-	}
-	
-	datasource db {
-		provider = "postgresql"
-		url      = env("DATABASE_URL")
-	}
-	
-	model User {
-		id        String        @id @unique @default(uuid())
-		email     String        
-		password  String
-		cpf_cnpj  String        @unique
-		name      String
-		role      RoleEnumType? @default(user)
-		createdAt DateTime      @default(now())
-		updatedAt DateTime      @updatedAt
-	}
-	
-	enum RoleEnumType {
-		user
-		admin
-	}
-		
-	\end{lstlisting}
-	
-	\fonte{Criado pelo autor.}
-	\end{figure}
-\subsection{TF-Nova}
-O TF-Nova é um sensor LiDAR de alta precisão, projetado para aplicações de mapeamento e monitoramento ambiental. Ele possui um alcance de até 12 metros e é conhecido por sua capacidade de gerar dados tridimensionais. O sensor pode ser integrado a microcontroladores como Arduino e Raspberry Pi, tornando-o uma opção popular para projetos de robótica e automação.
-Ficha técnica:
-\begin{itemize}
-	\item Alcance: 0,1 m a 12 m
-	\item Precisão: ±1 cm
-	\item Tensão de operação: 5 V
-	\item Consumo de corrente: 100 mA
-	\item Temperatura de operação: -10 °C a +50 °C
-	\item Umidade de operação: 0\% a 95\%
-	\item Resistência à água: Não
-	\item Taxa de atualização: 100 Hz
-	\item Dimensões: 45 mm x 20 mm x 15 mm
-	\item Peso: 20 g
-	\item Tecnologia: Laser de pulso
-	\item Tipo de saída: Serial TTL
-	\item Protocolo: UART
-	\item Interface: UART
-	\item Ângulo de visão: 270°
-	\item Resolução: 1 cm
-	\item Precisão: ±1 cm
-	\item Taxa de amostragem: 100 Hz
-	\item Distância mínima: 0,1 m
-	\item Distância máxima: 12 m
-	\item Temperatura de operação: -10 °C a +50 °C
-	\item Umidade de operação: 0\% a 95\%
-	\item Resistência à água: Não	
-	\item Dimensões: 45 mm x 20 mm x 15 mm
-	\item Peso: 20 g
-	\item Tipo de saída: Serial TTL
-\end{itemize}
+In this project, \gls{IoT} concepts are applied to create an autonomous and distributed sensor network capable of collecting hydrological data and transmitting it remotely for analysis and visualization. The figure \ref{fig:iot} illustrates how various devices connect to the internet through \gls{IoT}, enabling data exchange and interaction between the physical and digital worlds. \cite{javaid_2021_sensors}
 
 \begin{figure}[h]
-	\centering
-	\caption{Arquitetura do Sistema.}
-	\includegraphics[width=1\textwidth]{figuras/Arquitetura.png}
-	\fonte{Criado pelo autor.}
-	\label{fig:system_architecture}
+    \centering
+    \caption{Internet of Things.}
+    \includegraphics[width=0.8\textwidth]{figuras/iot.png}
+    \fonte{\cite{iot123}.}
+    \label{fig:iot}
 \end{figure}
 
-\section{Câmeras}
-As câmeras são dispositivos que capturam imagens e vídeos. Elas podem ser utilizadas em diversas aplicações, incluindo monitoramento ambiental e reconhecimento de padrões. As câmeras modernas são equipadas com tecnologia de inteligência artificial, permitindo a análise de imagens em tempo real.
-\subsection{ESP-CAM}
-A ESP-CAM é uma câmera de baixo custo, projetada para aplicações de monitoramento e reconhecimento de padrões. Ela possui um módulo Wi-Fi integrado, permitindo a transmissão de imagens em tempo real. A câmera pode ser programada para realizar tarefas específicas, como detecção de movimento e reconhecimento facial, utilizando modelos de inteligência artificial.
-A ESP-CAM é uma opção popular para projetos de automação e monitoramento ambiental, devido ao seu baixo custo e facilidade de uso. Ela pode ser integrada a microcontroladores como Arduino e Raspberry Pi, tornando-a uma opção versátil para diversas aplicações.
-Ficha técnica:
-\begin{itemize}
-	\item Resolução: 640 x 480 pixels
-	\item Tensão de operação: 5 V
-	\item Consumo de corrente: 200 mA
-	\item Temperatura de operação: -20 °C a +70 °C
-	\item Umidade de operação: 0\% a 100\%
-	\item Resistência à água: Não
-	\item Taxa de atualização: 30 fps
-	\item Dimensões: 45 mm x 20 mm x 15 mm
-	\item Peso: 20 g
-	\item Tecnologia: Câmera com IA
-	\item Tipo de saída: Serial TTL
-	\item Protocolo: UART
-	\item Interface: UART
-	\item Ângulo de visão: 90°
-	\item Resolução: 640 x 480 pixels
-	\item Precisão: ±1 cm
-	\item Taxa de amostragem: 30 fps
-	\item Distância mínima: 0,1 m
-	\item Distância máxima: 12 m
-	\item Temperatura de operação: -20 °C a +70 °C
-	\item Umidade de operação: 0\% a 100\%
-	\item Resistência à água: Não	
-	\item Dimensões: 45 mm x 20 mm x 15 mm
-	\item Peso: 20 g
-	\item Tipo de saída: Serial TTL
-\end{itemize}
+\section{LoRa and LoRaWAN}
 
-\begin{table}[htb]
-	\ABNTEXfontereduzida
-	\caption{\label{tab:Tab_1}Preços dos planos de hospedagem em nuvem.}
- \begin{center}
-	\begin{tabular}{@{}p{2.0cm}p{1.5cm}p{3.0cm}p{3.5cm}@{}}
-		\toprule
-		\textbf{Plataforma} & \textbf{Plano} & \textbf{Preço} & \textbf{Limites} \\ \midrule
-		Vercel & Hobby & \ Gratuito & Projetos pessoais ou não comerciais. Deploy a partir do CLI ou integrações git. HTTPS/SSL automático. \\
-		Vercel & Pro & \$20 por membro da equipe por mês. & 1TB de banda. 1000 GB/horas de execução. \\
-		Vercel & Enterprise & Personalizado. & Infraestrutura de build isolada, em hardware melhor, sem filas. \\
-		Railway & Starter & Gratuito & \$5.00 em créditos de recursos todos os meses com tempo de execução de 500 horas. \\
-		Railway & Hobby & \$10 em créditos por mês & 8 GB de RAM / 8 vCPU por serviço \\
-		Railway & Pro & \$20 por mês & Acesso compartilhado ao espaço de trabalho para equipes. \\
-		Railway & Enterprise & Personalizado & Personalizado \\
-		ElephantSQL & Tiny & Gratuito & 20 MB, 5 conexões concorrentes \\
-		ElephantSQL & Simple & \$5 por mês & 500 MB, 10 conexões concorrentes \\
-            ElephantSQL & Enormous & \$199 por mês & 250 GB, centenas de conexões concorrentes \\
-  \bottomrule
-	\end{tabular}
- \end{center}
-	\fonte{Sites das respectivas plataformas.}
-\end{table}
+\glsxtrfull{LoRa} is a proprietary spread spectrum modulation technique on the basis of \glsxtrfull{CSS}, which is resilient and robust against interference and noise, it also provides a solution for long-range and ultra-low power-consumption transmission, using unlicensed radio bands such as 868 MHz (Europe) and 915 MHz (Americas) \cite{sun_2022_recent}.
 
-% Tabela comparativa entre os sensores
+\glsxtrfull{LoRaWAN} is the \glsxtrfull{MAC} protocol built on top of \gls{LoRa}, specifying how end-devices communicate with central gateways and application servers,  defining a typical star-topology network architecture and its bi-directional communication protocol. The technology has been designed for applications that need to send small amounts of data over long distances a few times per day. Its low power features offers the capability to achieve autonomy of up to 10 years. \cite{pule_2017_wireless,sun_2022_recent}. Such long-range and energy-efficient communication demands have inspired the emergence of Low Power Wide Area Networks (LPWANs) as a new \gls{IoT} paradigm, which fills the gap of legacy wireless communication technologies shown in Figure \ref{fig:lora}. 
 
-\begin{table}
-	\ABNTEXfontereduzida
-	\caption{\label{tab:Tab_2}Tabela comparativa entre os sensores.}
- \begin{center}
-	\begin{tabular}{@{}p{2.0cm}p{1.5cm}p{3.0cm}p{3.5cm}@{}}
-		\toprule
-		\textbf{Sensor} & \textbf{Tipo} & \textbf{Alcance} & \textbf{Precisão} \\ \midrule
-		JNS SR04T & Ultrassônico & 20 cm a 4 m & ±1 cm \\
-		HC-SR04 & Ultrassônico & 2 cm a 4 m & ±3 mm \\
-		TF-Luna & LiDAR & 0,2 m a 8 m & ±1 cm \\
-		TF-Nova & LiDAR & 0,1 m a 12 m & ±1 cm \\
-		ESP-CAM & Câmera com IA & 0,1 m a 12 m & ±1 cm \\ 
-  \bottomrule
-	\end{tabular}
- \end{center}
-	\fonte{Criado pelo autor.}
-	\label{tab:comparativo}
-\end{table}
+\begin{figure}[h]
+    \centering
+    \caption{Comparison with legacy wireless communication technologies.}
+    \includegraphics[width=0.8\textwidth]{figuras/Lora-comparison.png}
+    \fonte{\cite{sun_2022_recent}.}
+    \label{fig:lora}
+\end{figure}
 
+\section{Microcontroller ESP8266}
 
-\chapter{Metodologia experimental}\label{cap:metodologia}
-% Ambiente de testes: Escolha de locais representativos, como trechos de rios na região de Itajaí e Vale.
+Embedded systems are specialized computing systems designed to perform dedicated functions within larger systems, often under real-time constraints. The NodeMCU ESP8266 is a microcontroller based on the ESP8266 platform, which features integrated Wi-Fi connectivity. It is widely used in \gls{IoT} projects due to its ease of programming, low cost, and advanced features. The ESP8266, shown in Figure \ref{fig:node}, is particularly suitable for such applications due to its ability to operate at low power, which is crucial for battery-powered devices, and its capability to connect to Wi-Fi networks, enabling communication with the internet and other devices on the network \cite{Kolban2016}.\cite{datasheet_2023_esp8266ex}
 
-% Procedimento de testes:
+\begin{figure}[h]
+    \centering
+    \caption{ESP8266 NodeMcu.}
+    \includegraphics[width=0.5\textwidth]{figuras/nodemcu.jpg}
+    \fonte{\cite{nodemcu}.}
+    \label{fig:node}
+\end{figure}
 
-% Instalar os sensores em diferentes condições (alturas, distâncias e superfícies).
+\section{LiDAR}
 
-% Medir a variação das leituras em diferentes condições climáticas.
+\glsxtrfull{LiDAR} technology enables the accurate determination of an object's distance (and velocity) information. LiDAR technology is widely used in metrology, environment monitoring, archaeology, and robotics. Compared with more mature \glsxtrfull{RADAR} technology, LiDAR makes use of optical wave, which is at shorter wavelength regime compared with radio wave, and hence has potential to achieve higher precision in 3D sensing.\cite{li_2022_a, lednev_2013_remote,behroozpour_2017_lidar,javaid_2021_sensors}.
 
-% Comparar resultados entre sensores para verificar a confiabilidade.
+The principle of lidar ranging relies on the rugosity of the reflective surface to generate nonspecular reflection (i.e., scattering) of the incipient laser beam. As with radar, lidar ranging measures time of flight, but it uses higher frequency waves for greater pulse intensities. Near-infrared (NIR) light is most commonly used for this purpose, typically over wavelengths of 900–1,100 nm (270–330 THz) due to the low cost of lasers operating in this wavelength range and lower energy density than the visible spectrum.\cite{li_2022_a, fernandezdiaz_2014_early, smart_2009_river, behroozpour_2017_lidar}. The laser wavelength is a critical factor in determining the sensor's performance, as it influences the interaction with water and suspended particles. Figure \ref{fig:laser-wavelength-graphs} illustrates the spectral character of clear still water as a function of laser wavelength and the influence of suspended sediment concentration on reflectance in rivers \cite{lednev_2013_remote,milan_2010_mapping,paul_2020_a}.
 
-% Métricas de avaliação:
+\begin{figure}[h]
+    \centering
+    \caption{(a) Spectral character of clear still water as a function of laser wavelength \cite{lednev_2013_remote,milan_2010_mapping}. (b) Influence of suspended sediment concentration (curves: units of mg L(-1)) in river upon reflectance \cite{paul_2020_a, milan_2010_mapping}}
+    \includegraphics[width=0.8\textwidth]{figuras/light-absorption.png}
+    \fonte{\cite{lednev_2013_remote,milan_2010_mapping,paul_2020_a}.}
+    \label{fig:laser-wavelength-graphs}
+\end{figure}
 
-% Precisão da medição em comparação com referência manual.
+The three sensing schemes most commonly used in LiDAR sensors are: pulsed \glsxtrfull{TOF}, AMCW \gls{TOF}, and FMCW. \cite{li_2022_a,behroozpour_2017_lidar}. For this work the most important ones are the pulsed \gls{TOF} and AMCW \gls{TOF}, which are described below.
 
-% Estabilidade da leitura em diferentes condições ambientais.
+\subsection{Pulsed Time of Flight (TOF)}
+The pulsed TOF LiDAR works based on the time delay of an optical pulse emitted by the TX, reflected from the sensing object, and received by the RX. The sensing distance can be expressed using the following equation \cite{li_2022_a}.
 
-% Tempo de resposta dos sensores.
-% Estruturação da metodologia experimental
+\begin{equation}
+    d = \frac{c \cdot \Delta t}{2}
+\end{equation}
 
-% Ambiente de testes: Escolha de locais representativos, como trechos de rios na região de Itajaí e Vale.
+where \(d\) is the distance to the object in meters, \(c\) is the speed of light, and \( \Delta t\) is the time delay between emission and reception of the optical pulse in seconds.
 
-% Procedimento de testes:
+\subsection{Amplitude Modulated Continuous Wave (AMCW) Time of Flight (TOF)}
+AMCW TOF LiDAR uses a continuous wave laser that is modulated in amplitude. The phase difference between the transmitted and received signals is measured to determine the distance to the object. The distance can be calculated using the following equation \cite{li_2022_a}.
 
-% 	Instalar os sensores em diferentes condições (alturas, distâncias e superfícies).
+\begin{equation}
+    d = \frac{c \cdot \Delta \phi}{4\pi f}
+\end{equation}
 
-% 	Medir a variação das leituras em diferentes condições climáticas.
+where \(d\) is the distance to the object in meters, \(c\) is the speed of light, \(\Delta \phi\) is the phase difference between the transmitted and received signals, and \(f\) is the modulation frequency in Hz.
 
-% 	Comparar resultados entre sensores para verificar a confiabilidade.
+\section{Ultrasonic Sensors}
 
-% Métricas de avaliação:
+Ultrasonic sensors estimate distance by transmitting high-frequency acoustic waves and measuring the echo delay. Common models like the HC-SR04 and JSN-SR04T are widely used in academic and industrial applications due to their low cost and simplicity \cite{bresnahan_2023_a,akhileshnagpure_2022_water,mohammadrezamasoudimoghaddam_2024_a}.
 
-% 	Precisão da medição em comparação com referência manual.
+The basic principle of ultrasonic distance measurement is based on the time of flight (\gls{TOF}) of sound waves. The sensor emits a high-frequency sound wave, which travels through the air, reflects off an object, and returns to the sensor.
 
-% 	Estabilidade da leitura em diferentes condições ambientais.
+\section{Wireless Sensor Network (WSN)}
 
-% % 	Tempo de resposta dos sensores.
-% 1. Seleção dos sensores  
-% 2. Definição do local de testes  
-% 3. Instalação dos sensores  
-% 4. Coleta de dados em diferentes condições  
-% 5. Comparação dos resultados  
-% 6. Análise da viabilidade de cada sensor  
+\glsxtrfull{WSN} are considered a promising alternative to complement conventional monitoring processes. These networks are relatively affordable and allow measurements to be taken remotely, in real-time and with minimal human intervention \cite{pule_2017_wireless}. A \gls{WSN} is composed of spatially distributed autonomous nodes that monitor physical or environmental conditions. These nodes typically consist of a sensing unit, processing unit, communication interface, and power source. Natural disaster monitoring is very complex and imposes a number of challenges mainly due to huge scales,uncertainties, and harsh environments.
 
-% Precisao e acuracia dos sensores
+Each such sensor network node typically has many parts: a radio transceiver with an internal antenna or connection to an external antenna, a microcontroller, an electronic circuit for interfacing with the sensors and an energy source, usually a battery or an embedded form of energy harvesting \cite{yellampalli_2021_wireless}. An example architecture of a WSN is shown in Figure \ref{fig:wsn-graphs}. The nodes are capable of collecting data from the environment, processing it, and transmitting it wirelessly to a base station or gateway for further analysis and visualization. A \gls{WSN} can be single hop, where the nodes connect directly to the base station, or multi-hop, where the nodes can send information between themselves before reaching the base station \cite{yellampalli_2021_wireless}.
 
-\section{Metodologia Experimental}
-O estudo será conduzido em duas etapas principais: \textbf{testes em ambiente controlado} e \textbf{testes em condições reais}. O objetivo é comparar a precisão e acurácia dos sensores, verificar se suas especificações técnicas estão corretas e analisar seu desempenho em diferentes condições ambientais.
+\begin{figure}[h]
+    \centering
+    \caption{Wireless Sensor Network architecture.}
+    \includegraphics[width=0.8\textwidth]{figuras/WSN_architecture.png}
+    \fonte{\cite{yellampalli_2021_wireless}.}
+    \label{fig:wsn-graphs}
+\end{figure}
 
-\subsection{Testes em Ambiente Controlado}
-Nesta etapa, os sensores serão avaliados em um ambiente estável e previsível, com iluminação adequada e sem interferências externas.
+WSN-based natural disaster monitoring systems excel in terms of cost, speed of response, scalability and flexibility in contrast to conventional approaches. In general, disaster monitoring with WSN manifests a typical paradigm of data-intensive application upon low-cost scalable system \cite{chen_2013_natural, pule_2017_wireless, ferreira_2023_conception}. In this work, the \gls{WSN} architecture facilitates distributed hydrological data collection and centralized data aggregation through \gls{LoRa} communication.
 
-\subsubsection{Procedimentos}
-\begin{enumerate}
-    \item \textbf{Configuração e Calibração}
-    \begin{itemize}
-        \item Instalar cada sensor em um suporte fixo a uma altura conhecida.
-        \item Calibrar os sensores conforme as especificações do fabricante.
-        \item Definir uma referência de medição utilizando instrumentos de alta precisão.
-    \end{itemize}
-    \item \textbf{Teste de Precisão e Acurácia}
-    \begin{itemize}
-        \item Medir distâncias conhecidas e comparar com os valores obtidos.
-        \item Repetir medições múltiplas vezes e calcular média e desvio padrão.
-        \item Determinar a acurácia comparando com a referência.
-    \end{itemize}
-    \item \textbf{Teste de Limite de Alcance}
-    \begin{itemize}
-        \item Posicionar alvos em diferentes distâncias dentro do alcance especificado.
-        \item Verificar até que ponto cada sensor fornece medições estáveis.
-    \end{itemize}
-    \item \textbf{Teste de Sensibilidade a Condições Variáveis}
-    \begin{itemize}
-        \item Testar os sensores com diferentes superfícies de medição (água limpa, água com impurezas, materiais reflexivos, etc.).
-        \item Alterar a inclinação do sensor para verificar variações nas leituras.
-    \end{itemize}
-\end{enumerate}
+\section{Time-Series Data and Environmental Monitoring}
 
-\subsection{Testes em Condições Reais}
-Os sensores serão instalados em corpos d’água reais para avaliar seu desempenho em longo prazo, considerando fatores ambientais como variações climáticas e interferências externas.
-
-\subsubsection{Procedimentos}
-\begin{enumerate}
-    \item \textbf{Instalação dos Sensores}
-    \begin{itemize}
-        \item Fixar os sensores em estruturas adequadas na margem ou sobre a superfície da água.
-        \item Garantir posicionamento adequado para evitar interferências externas.
-    \end{itemize}
-    \item \textbf{Coleta de Dados em Diferentes Condições}
-    \begin{itemize}
-        \item Realizar medições em diferentes horários do dia.
-        \item Comparar medições em diferentes condições climáticas.
-        \item Monitorar a estabilidade das leituras ao longo do tempo.
-    \end{itemize}
-    \item \textbf{Validação com Medições de Referência}
-    \begin{itemize}
-        \item Utilizar uma régua linimétrica ou outro método manual para comparação.
-        \item Analisar variações e discrepâncias entre os sensores.
-    \end{itemize}
-    \item \textbf{Análise da Durabilidade e Confiabilidade}
-    \begin{itemize}
-        \item Avaliar possíveis degradações no desempenho devido a sujeira, umidade ou variações ambientais.
-        \item Medir o consumo de energia ao longo do tempo.
-    \end{itemize}
-\end{enumerate}
-
-\section{Métricas de Avaliação}
-Os sensores serão comparados com base nos seguintes critérios:
-\begin{itemize}
-    \item \textbf{Precisão:} Variação das medições em relação ao valor real.
-    \item \textbf{Acurácia:} Diferença entre o valor medido e a referência.
-    \item \textbf{Estabilidade:} Consistência das medições ao longo do tempo.
-    \item \textbf{Interferência Ambiental:} Impacto de fatores externos como iluminação, vento e temperatura.
-    \item \textbf{Limite de Alcance:} Distância máxima em que o sensor fornece leituras confiáveis.
-    \item \textbf{Confiabilidade:} Desempenho após longo período de operação.
-\end{itemize}
-
-\section{Fluxograma da Metodologia}
-
-\begin{itemize}
-    \item \textbf{Testes em Ambiente Controlado}
-    \begin{itemize}
-        \item Configuração e calibração
-        \item Teste de precisão e acurácia
-        \item Teste de limite de alcance
-        \item Teste com diferentes superfícies
-    \end{itemize}
-    \item \textbf{Testes em Condições Reais}
-    \begin{itemize}
-        \item Instalação dos sensores em corpos d'água
-        \item Coleta de dados em diferentes condições ambientais
-        \item Comparação com medições de referência
-        \item Análise da durabilidade e confiabilidade
-    \end{itemize}
-    \item \textbf{Análise e Comparação dos Resultados}
-    \begin{itemize}
-        \item Comparação entre sensores
-        \item Identificação de limitações e recomendações
-        \item Conclusões sobre a melhor tecnologia para monitoramento
-    \end{itemize}
-\end{itemize}
-
-
-\chapter{Arquitetura do sistema}\label{cap:arquitetura}
-
-
-\chapter{Implementação}\label{cap:desenvolvimento}
-
-\chapter{Resultados}\label{cap:resultados}
-
-\section{Hospedagem e custos}\label{cap:host}
-
-\section{Considerações finais} \label{cap:final}
-
+Time-series data represent sequential observations over time. In the context of water level monitoring, time-series analysis enables the detection of trends, anomalies, and correlations between environmental factors \cite{lozano_2017_sensors}. Basic statistical techniques—such as moving averages, root mean square error (\glsxtrfull{RMSE}), and filtering—are applied to improve data reliability and reduce noise\cite{santana_2024_development}. 
 
