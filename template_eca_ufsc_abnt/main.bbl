@@ -1,0 +1,2263 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{akhileshnagpure_2022_water}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=bcdf9edd9ec5095f5d8dfc8033c36eed}{%
+           family={Akhilesh},
+           familyi={A\bibinitperiod},
+           given={Nagpure},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fdd3c6ef682e178365f5183fa79b606e}{%
+           family={Reddy},
+           familyi={R\bibinitperiod},
+           given={Guda},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ac42921e409d2f6af5b5c9ad32956dfb}{%
+           family={Naidu},
+           familyi={N\bibinitperiod},
+           given={Santosh},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{2}{%
+        {International Journal for Research in Applied Science}%
+        {Engineering Technology (IJRASET)}%
+      }
+      \strng{namehash}{0b726a8a441656af90c8bb01c9a4d0dd}
+      \strng{fullhash}{0b726a8a441656af90c8bb01c9a4d0dd}
+      \strng{fullhashraw}{0b726a8a441656af90c8bb01c9a4d0dd}
+      \strng{bibnamehash}{0b726a8a441656af90c8bb01c9a4d0dd}
+      \strng{authorbibnamehash}{0b726a8a441656af90c8bb01c9a4d0dd}
+      \strng{authornamehash}{0b726a8a441656af90c8bb01c9a4d0dd}
+      \strng{authorfullhash}{0b726a8a441656af90c8bb01c9a4d0dd}
+      \strng{authorfullhashraw}{0b726a8a441656af90c8bb01c9a4d0dd}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal for Research in Applied Science and Engineering Technology}
+      \field{month}{12}
+      \field{title}{Water Level Controller Using Ultrasonic Sensor}
+      \field{volume}{10}
+      \field{year}{2022}
+      \field{pages}{242\bibrangedash 257}
+      \range{pages}{16}
+    \endentry
+    \entry{ali_2020_saw}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=a653dc6ef76f36bb6fd47bf8a8ec1b47}{%
+           family={Ali},
+           familyi={A\bibinitperiod},
+           given={Sayyed\bibnamedelima Faizan},
+           giveni={S\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a202f8602b446fbef984ace92455eaec}{%
+           family={Mandal},
+           familyi={M\bibinitperiod},
+           given={Nirupama},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fc7f3fb4a2adeba831158cf520590887}{%
+           family={Maurya},
+           familyi={M\bibinitperiod},
+           given={Praveen},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0d522955582f38a8ee37726ba1955f21}{%
+           family={Lata},
+           familyi={L\bibinitperiod},
+           given={Anamika},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5bf02a764a095248b057005d25194ffe}
+      \strng{fullhash}{a946b048d7be8fd34c37b7549674703c}
+      \strng{fullhashraw}{a946b048d7be8fd34c37b7549674703c}
+      \strng{bibnamehash}{a946b048d7be8fd34c37b7549674703c}
+      \strng{authorbibnamehash}{a946b048d7be8fd34c37b7549674703c}
+      \strng{authornamehash}{5bf02a764a095248b057005d25194ffe}
+      \strng{authorfullhash}{a946b048d7be8fd34c37b7549674703c}
+      \strng{authorfullhashraw}{a946b048d7be8fd34c37b7549674703c}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IECON 2020 The 46th Annual Conference of the IEEE Industrial Electronics Society}
+      \field{month}{10}
+      \field{title}{SAW Sensor based a Novel Hydrostatic Liquid Level Measurement}
+      \field{year}{2020}
+      \field{pages}{724\bibrangedash 729}
+      \range{pages}{6}
+    \endentry
+    \entry{behroozpour_2017_lidar}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=757b7bfc3947083d464f717b40e3105d}{%
+           family={Behroozpour},
+           familyi={B\bibinitperiod},
+           given={Behnam},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=67d7ffa8a7f115d90366c9155f1ebfcf}{%
+           family={Sandborn},
+           familyi={S\bibinitperiod},
+           given={Phillip\bibnamedelimb A.\bibnamedelimi M.},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f645b417830f106aa5532cdfb8b67031}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Ming\bibnamedelima C.},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5144f9b0b0cb5276c5c4e682227daba7}{%
+           family={Boser},
+           familyi={B\bibinitperiod},
+           given={Bernhard\bibnamedelima E.},
+           giveni={B\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4d672c516b5785c2f1a481527edd884c}
+      \strng{fullhash}{5e8f643b8a11bfffcbcf21e8c29bf0a1}
+      \strng{fullhashraw}{5e8f643b8a11bfffcbcf21e8c29bf0a1}
+      \strng{bibnamehash}{5e8f643b8a11bfffcbcf21e8c29bf0a1}
+      \strng{authorbibnamehash}{5e8f643b8a11bfffcbcf21e8c29bf0a1}
+      \strng{authornamehash}{4d672c516b5785c2f1a481527edd884c}
+      \strng{authorfullhash}{5e8f643b8a11bfffcbcf21e8c29bf0a1}
+      \strng{authorfullhashraw}{5e8f643b8a11bfffcbcf21e8c29bf0a1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Communications Magazine}
+      \field{month}{10}
+      \field{title}{Lidar System Architectures and Circuits}
+      \field{volume}{55}
+      \field{year}{2017}
+      \field{pages}{135\bibrangedash 142}
+      \range{pages}{8}
+    \endentry
+    \entry{borga_2014_hydrogeomorphic}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=63b9d9614bbdcc6e6ca7608911597bc3}{%
+           family={Borga},
+           familyi={B\bibinitperiod},
+           given={Marco},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=178915d50522c2a92140a30201f0ea29}{%
+           family={Stoffel},
+           familyi={S\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1933aad2b3b116f878994e098c54f0ad}{%
+           family={Marchi},
+           familyi={M\bibinitperiod},
+           given={Lorenzo},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c61ce1badf7ef53cf2350ee77f537c0e}{%
+           family={Marra},
+           familyi={M\bibinitperiod},
+           given={Francesco},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0921dbd186ddcc0ee6c4a07771bfcf9b}{%
+           family={Jakob},
+           familyi={J\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{729adb08c4267ced44b9368f52a39fde}
+      \strng{fullhash}{698609b80198300bd3974d41b35107f7}
+      \strng{fullhashraw}{698609b80198300bd3974d41b35107f7}
+      \strng{bibnamehash}{698609b80198300bd3974d41b35107f7}
+      \strng{authorbibnamehash}{698609b80198300bd3974d41b35107f7}
+      \strng{authornamehash}{729adb08c4267ced44b9368f52a39fde}
+      \strng{authorfullhash}{698609b80198300bd3974d41b35107f7}
+      \strng{authorfullhashraw}{698609b80198300bd3974d41b35107f7}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Hydrology}
+      \field{month}{10}
+      \field{title}{Hydrogeomorphic response to extreme rainfall in headwater systems: Flash floods and debris flows}
+      \field{volume}{518}
+      \field{year}{2014}
+      \field{pages}{194\bibrangedash 205}
+      \range{pages}{12}
+    \endentry
+    \entry{bragana_2024_anlise}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=dd037b52a2d53c1a5a9680adee54ace7}{%
+           family={Bragança},
+           familyi={B\bibinitperiod},
+           given={Cassiano\bibnamedelimb Gustavo\bibnamedelimb Juan\bibnamedelimb Franco\bibnamedelima Neves},
+           giveni={C\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dd037b52a2d53c1a5a9680adee54ace7}
+      \strng{fullhash}{dd037b52a2d53c1a5a9680adee54ace7}
+      \strng{fullhashraw}{dd037b52a2d53c1a5a9680adee54ace7}
+      \strng{bibnamehash}{dd037b52a2d53c1a5a9680adee54ace7}
+      \strng{authorbibnamehash}{dd037b52a2d53c1a5a9680adee54ace7}
+      \strng{authornamehash}{dd037b52a2d53c1a5a9680adee54ace7}
+      \strng{authorfullhash}{dd037b52a2d53c1a5a9680adee54ace7}
+      \strng{authorfullhashraw}{dd037b52a2d53c1a5a9680adee54ace7}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Análise da influência dos fenômenos el niño e la niña na ocorrência de eventos climáticos de seca e enchente}
+      \field{year}{2024}
+    \endentry
+    \entry{bresnahan_2023_a}{article}{}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=2847b082ab2508829a36bf896b796aaf}{%
+           family={Bresnahan},
+           familyi={B\bibinitperiod},
+           given={Philip},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=10fadb9df53fb696453df130f08b073f}{%
+           family={Briggs},
+           familyi={B\bibinitperiod},
+           given={Ellen},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=48b170450aa83a494b508932b522a4f4}{%
+           family={Davis},
+           familyi={D\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=359f61f98f887464f224e2b53f5855b7}{%
+           family={Rodriguez},
+           familyi={R\bibinitperiod},
+           given={Angelica},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fa53554fcdd094c8d77d7cfc0bc9a904}{%
+           family={Edwards},
+           familyi={E\bibinitperiod},
+           given={Luke},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=53fb408afd59415e7c4d388bac93ac58}{%
+           family={Peach},
+           familyi={P\bibinitperiod},
+           given={Cheryl},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=91175544da6f17c662484fd787a1d43d}{%
+           family={Renner},
+           familyi={R\bibinitperiod},
+           given={Nan},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=243caef668566879befb2c92cb2cde02}{%
+           family={Helling},
+           familyi={H\bibinitperiod},
+           given={Harry},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=61db486b41299d80c4f55d434b52e3fc}{%
+           family={Merrifield},
+           familyi={M\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ca53bd2770e7e65a69c46833e6c093b4}
+      \strng{fullhash}{811a0fc9bf3462f9e50be7ba3e5a71e9}
+      \strng{fullhashraw}{811a0fc9bf3462f9e50be7ba3e5a71e9}
+      \strng{bibnamehash}{811a0fc9bf3462f9e50be7ba3e5a71e9}
+      \strng{authorbibnamehash}{811a0fc9bf3462f9e50be7ba3e5a71e9}
+      \strng{authornamehash}{ca53bd2770e7e65a69c46833e6c093b4}
+      \strng{authorfullhash}{811a0fc9bf3462f9e50be7ba3e5a71e9}
+      \strng{authorfullhashraw}{811a0fc9bf3462f9e50be7ba3e5a71e9}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Oceanography}
+      \field{title}{A Low-Cost, DIY Ultrasonic Water Level Sensor for Education, Citizen Science, and Research}
+      \field{volume}{36}
+      \field{year}{2023}
+    \endentry
+    \entry{chen_2013_natural}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=595c81490ca8c33be12b388a7d8f0f38}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f5a1a98ed32219c4754c1b2ce9c81a73}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Zhixin},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=facf1d664610e22890a03b915592dc57}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Lizhe},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f4d6fdc61bd8c6dcfbfa6915a76b1997}{%
+           family={Dou},
+           familyi={D\bibinitperiod},
+           given={Minggang},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=de12352bb75d0f2f66d63ab85f0617f6}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Jingying},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9b1528d0b6c9bc88bfd8c569f290bcec}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Hui},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c0325900fe09fe4c8d2e8f215cd143d4}
+      \strng{fullhash}{167d441a1283509659075942fdbe6d97}
+      \strng{fullhashraw}{167d441a1283509659075942fdbe6d97}
+      \strng{bibnamehash}{167d441a1283509659075942fdbe6d97}
+      \strng{authorbibnamehash}{167d441a1283509659075942fdbe6d97}
+      \strng{authornamehash}{c0325900fe09fe4c8d2e8f215cd143d4}
+      \strng{authorfullhash}{167d441a1283509659075942fdbe6d97}
+      \strng{authorfullhashraw}{167d441a1283509659075942fdbe6d97}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mobile Networks and Applications}
+      \field{month}{08}
+      \field{title}{{Natural Disaster Monitoring with Wireless Sensor Networks: A Case Study of Data-intensive Applications upon Low-Cost Scalable Systems}}
+      \field{volume}{18}
+      \field{year}{2013}
+      \field{pages}{651\bibrangedash 663}
+      \range{pages}{13}
+    \endentry
+    \entry{datasheet_2023_esp8266ex}{misc}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=66a33f99107f9c20d54e3cb3e0b2ce0c}{%
+           family={ESP},
+           familyi={E\bibinitperiod},
+           given={Espressif},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{66a33f99107f9c20d54e3cb3e0b2ce0c}
+      \strng{fullhash}{66a33f99107f9c20d54e3cb3e0b2ce0c}
+      \strng{fullhashraw}{66a33f99107f9c20d54e3cb3e0b2ce0c}
+      \strng{bibnamehash}{66a33f99107f9c20d54e3cb3e0b2ce0c}
+      \strng{authorbibnamehash}{66a33f99107f9c20d54e3cb3e0b2ce0c}
+      \strng{authornamehash}{66a33f99107f9c20d54e3cb3e0b2ce0c}
+      \strng{authorfullhash}{66a33f99107f9c20d54e3cb3e0b2ce0c}
+      \strng{authorfullhashraw}{66a33f99107f9c20d54e3cb3e0b2ce0c}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{06}
+      \field{title}{ESP8266EX Datasheet}
+      \field{year}{2023}
+      \verb{urlraw}
+      \verb https://www.espressif.com/sites/default/files/documentation/0a-esp8266ex_datasheet_en.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.espressif.com/sites/default/files/documentation/0a-esp8266ex_datasheet_en.pdf
+      \endverb
+    \endentry
+    \entry{fernandezdiaz_2014_early}{article}{}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=e32ddb4e0db0bf21e02615a0973bcb69}{%
+           family={Fernandez-Diaz},
+           familyi={F\bibinithyphendelim D\bibinitperiod},
+           given={Juan\bibnamedelima Carlos},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a3d962a33412976232e3850693f75cdc}{%
+           family={Glennie},
+           familyi={G\bibinitperiod},
+           given={Craig\bibnamedelima L.},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1d8e85ecbbf3fdb957bffd14ca36205a}{%
+           family={Carter},
+           familyi={C\bibinitperiod},
+           given={William\bibnamedelima E.},
+           giveni={W\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=50a2d933915b2b5c93e8e81d1c253d7c}{%
+           family={Shrestha},
+           familyi={S\bibinitperiod},
+           given={Ramesh\bibnamedelima L.},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dcb907cddfe63490e84bff36780179db}{%
+           family={Sartori},
+           familyi={S\bibinitperiod},
+           given={Michael\bibnamedelima P.},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d473d3dae12b0415b8c2e19746a22ab9}{%
+           family={Singhania},
+           familyi={S\bibinitperiod},
+           given={Abhinav},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1e741a6e4f4ec6cef148cd548aaef729}{%
+           family={Legleiter},
+           familyi={L\bibinitperiod},
+           given={Carl\bibnamedelima J.},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=483ef1f06fa498caa08fb307b86ae824}{%
+           family={Overstreet},
+           familyi={O\bibinitperiod},
+           given={Brandon\bibnamedelima T.},
+           giveni={B\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7f70965aec455ea840b2b8a463b361c7}
+      \strng{fullhash}{1874560bfbec624baa345e2844c2e064}
+      \strng{fullhashraw}{1874560bfbec624baa345e2844c2e064}
+      \strng{bibnamehash}{1874560bfbec624baa345e2844c2e064}
+      \strng{authorbibnamehash}{1874560bfbec624baa345e2844c2e064}
+      \strng{authornamehash}{7f70965aec455ea840b2b8a463b361c7}
+      \strng{authorfullhash}{1874560bfbec624baa345e2844c2e064}
+      \strng{authorfullhashraw}{1874560bfbec624baa345e2844c2e064}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}
+      \field{month}{02}
+      \field{title}{Early Results of Simultaneous Terrain and Shallow Water Bathymetry Mapping Using a Single-Wavelength Airborne LiDAR Sensor}
+      \field{volume}{7}
+      \field{year}{2014}
+      \field{pages}{623\bibrangedash 635}
+      \range{pages}{13}
+    \endentry
+    \entry{ferreira_2023_conception}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=1694f90a9a5af9cb357546db2a418785}{%
+           family={Ferreira},
+           familyi={F\bibinitperiod},
+           given={Yan},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7d8cc24a327255d6fd999c29580049cb}{%
+           family={Silvério},
+           familyi={S\bibinitperiod},
+           given={Carlos},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=161a0ce0f04cd61cfa06ef22ce0cece7}{%
+           family={Viana},
+           familyi={V\bibinitperiod},
+           given={João},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers}%
+      }
+      \strng{namehash}{e99fb2d01fd43d9dda9a902a9c7ab226}
+      \strng{fullhash}{e99fb2d01fd43d9dda9a902a9c7ab226}
+      \strng{fullhashraw}{e99fb2d01fd43d9dda9a902a9c7ab226}
+      \strng{bibnamehash}{e99fb2d01fd43d9dda9a902a9c7ab226}
+      \strng{authorbibnamehash}{e99fb2d01fd43d9dda9a902a9c7ab226}
+      \strng{authornamehash}{e99fb2d01fd43d9dda9a902a9c7ab226}
+      \strng{authorfullhash}{e99fb2d01fd43d9dda9a902a9c7ab226}
+      \strng{authorfullhashraw}{e99fb2d01fd43d9dda9a902a9c7ab226}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE access}
+      \field{month}{01}
+      \field{title}{Conception and Design of WSN Sensor Nodes Based on Machine Learning, Embedded Systems and IoT Approaches for Pollutant Detection in Aquatic Environments}
+      \field{volume}{11}
+      \field{year}{2023}
+      \field{pages}{117040\bibrangedash 117052}
+      \range{pages}{13}
+    \endentry
+    \entry{hall_2014_understanding}{article}{}{}
+      \name{author}{29}{}{%
+        {{un=0,uniquepart=base,hash=c90885d8fbb509d706191ecfed90e34c}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=caf87849be5c9eab95df87ef29832a00}{%
+           family={Arheimer},
+           familyi={A\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e990f4f8e18f748c0b2a069788e5a49c}{%
+           family={Borga},
+           familyi={B\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2f22104dbd14d7c33fb7f8529528a8eb}{%
+           family={Brázdil},
+           familyi={B\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=48550520ecffba0c397c1d79ec7f7235}{%
+           family={Claps},
+           familyi={C\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dd3b32d0c3292cd6eadd0cbc4d14208a}{%
+           family={Kiss},
+           familyi={K\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=156d04bf3a2fa88b195c82d432136f39}{%
+           family={Kjeldsen},
+           familyi={K\bibinitperiod},
+           given={T.\bibnamedelimi R.},
+           giveni={T\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a78c6265801fa4b829882d63d3443973}{%
+           family={Kriaučiūnienė},
+           familyi={K\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=55b0eb377eca44524f414d18a1a47ac4}{%
+           family={Kundzewicz},
+           familyi={K\bibinitperiod},
+           given={Z.\bibnamedelimi W.},
+           giveni={Z\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f9809d78dfe5e6129453365bf4ecb0dc}{%
+           family={Lang},
+           familyi={L\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4cfe3332db67a62adf1808823f322ee5}{%
+           family={Llasat},
+           familyi={L\bibinitperiod},
+           given={M.\bibnamedelimi C.},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c1a0c13e986a206a98f2ad61543d0217}{%
+           family={Macdonald},
+           familyi={M\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=df92a396a24a7539bc297f35017422f9}{%
+           family={McIntyre},
+           familyi={M\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8d8804a90d6471dbb0489dc7273bfbce}{%
+           family={Mediero},
+           familyi={M\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=81b643247fa97bc56a36a0ab05d4f0d0}{%
+           family={Merz},
+           familyi={M\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=acccea81328f32527aeee4521298949a}{%
+           family={Merz},
+           familyi={M\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a10891ebb8fbbd5c1e912aadbae443ae}{%
+           family={Molnar},
+           familyi={M\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4538ece41151895b42d75f37ed9ec2db}{%
+           family={Montanari},
+           familyi={M\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=159e3937b1cb82ddc4abe6602b16b808}{%
+           family={Neuhold},
+           familyi={N\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=99600264231b0096ad2ae2fb77fdf658}{%
+           family={Parajka},
+           familyi={P\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0ed49ec09eeb435f0f58caec009428a0}{%
+           family={Perdigão},
+           familyi={P\bibinitperiod},
+           given={R.\bibnamedelimi A.\bibnamedelimi P.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2670ddebead5c967557125f2293e9bee}{%
+           family={Plavcová},
+           familyi={P\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b04f6f50a32fe8c80dd74452ffeedb7c}{%
+           family={Rogger},
+           familyi={R\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=75b4d6abf7d073d23ca5a9a0033e06d5}{%
+           family={Salinas},
+           familyi={S\bibinitperiod},
+           given={J.\bibnamedelimi L.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5da1c59011842f36c075da914a255a26}{%
+           family={Sauquet},
+           familyi={S\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f100aada6d5b6bfda0f329c9f18b4e27}{%
+           family={Schär},
+           familyi={S\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1a3128aef45742c3c19c8eadd301e573}{%
+           family={Szolgay},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=84996e5e34a4442b6bda9391660b9788}{%
+           family={Viglione},
+           familyi={V\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c838a093f44798c829cca748fd61bcd}{%
+           family={Blöschl},
+           familyi={B\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{af049882582b313bb2b522d2e5f6de61}
+      \strng{fullhash}{370d5fbcdf322fbeeab0f5679d2a6c34}
+      \strng{fullhashraw}{370d5fbcdf322fbeeab0f5679d2a6c34}
+      \strng{bibnamehash}{af049882582b313bb2b522d2e5f6de61}
+      \strng{authorbibnamehash}{af049882582b313bb2b522d2e5f6de61}
+      \strng{authornamehash}{af049882582b313bb2b522d2e5f6de61}
+      \strng{authorfullhash}{370d5fbcdf322fbeeab0f5679d2a6c34}
+      \strng{authorfullhashraw}{370d5fbcdf322fbeeab0f5679d2a6c34}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Hydrology and Earth System Sciences}
+      \field{month}{07}
+      \field{title}{Understanding flood regime changes in Europe: a state-of-the-art assessment}
+      \field{volume}{18}
+      \field{year}{2014}
+      \field{pages}{2735\bibrangedash 2772}
+      \range{pages}{38}
+    \endentry
+    \entry{iot123}{misc}{}{}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.zibtek.com/blog/iot-architecture}}
+      \field{note}{Acessado em: 26 de junho de 2023}
+      \field{title}{IOT Architecture}
+      \field{year}{2023}
+    \endentry
+    \entry{iqbal_2021_how}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=ca70c075250131570d8487845ca3df81}{%
+           family={Iqbal},
+           familyi={I\bibinitperiod},
+           given={Umair},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7fbbfc3a8430876e441db42e9ada65d5}{%
+           family={Perez},
+           familyi={P\bibinitperiod},
+           given={Pascal},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=edbea64263380c842e29ae1884776ba5}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Wanqing},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2a386f76532c5a988d7c96dd8812d8a6}{%
+           family={Barthelemy},
+           familyi={B\bibinitperiod},
+           given={Johan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5eceaee3f288f68eb6f3bfb98309e810}
+      \strng{fullhash}{242bbeae4db353daece2b543824ceea8}
+      \strng{fullhashraw}{242bbeae4db353daece2b543824ceea8}
+      \strng{bibnamehash}{242bbeae4db353daece2b543824ceea8}
+      \strng{authorbibnamehash}{242bbeae4db353daece2b543824ceea8}
+      \strng{authornamehash}{5eceaee3f288f68eb6f3bfb98309e810}
+      \strng{authorfullhash}{242bbeae4db353daece2b543824ceea8}
+      \strng{authorfullhashraw}{242bbeae4db353daece2b543824ceea8}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{International Journal of Disaster Risk Reduction}
+      \field{month}{02}
+      \field{title}{How computer vision can facilitate flood management: A systematic review}
+      \field{volume}{53}
+      \field{year}{2021}
+      \field{pages}{102030}
+      \range{pages}{1}
+    \endentry
+    \entry{javaid_2021_sensors}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=1e9e80fb5bc43df028d06eb40fe68a21}{%
+           family={Javaid},
+           familyi={J\bibinitperiod},
+           given={Mohd},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ac64f478d5bbd373bdb223b8547d13de}{%
+           family={Haleem},
+           familyi={H\bibinitperiod},
+           given={Abid},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bdea3b1a4dd215f268474c41762736e5}{%
+           family={Rab},
+           familyi={R\bibinitperiod},
+           given={Shanay},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cf6b2f3e7c1ca1e38ba1bcd6ce4f5b34}{%
+           family={Pratap\bibnamedelima Singh},
+           familyi={P\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Ravi},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7fc6d2201e1460e83153ebd28815a882}{%
+           family={Suman},
+           familyi={S\bibinitperiod},
+           given={Rajiv},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b204d82021ad47d15867539a3b220f06}
+      \strng{fullhash}{dc3c7ae1d7d44e97173562249427c3c3}
+      \strng{fullhashraw}{dc3c7ae1d7d44e97173562249427c3c3}
+      \strng{bibnamehash}{dc3c7ae1d7d44e97173562249427c3c3}
+      \strng{authorbibnamehash}{dc3c7ae1d7d44e97173562249427c3c3}
+      \strng{authornamehash}{b204d82021ad47d15867539a3b220f06}
+      \strng{authorfullhash}{dc3c7ae1d7d44e97173562249427c3c3}
+      \strng{authorfullhashraw}{dc3c7ae1d7d44e97173562249427c3c3}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sensors International}
+      \field{title}{Sensors for daily life: A review}
+      \field{volume}{2}
+      \field{year}{2021}
+      \field{pages}{100121}
+      \range{pages}{1}
+    \endentry
+    \entry{jonkman_2005_global}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=13aba858a4b3bfc73c6a20352472503a}{%
+           family={Jonkman},
+           familyi={J\bibinitperiod},
+           given={S.\bibnamedelimi N.},
+           giveni={S\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{13aba858a4b3bfc73c6a20352472503a}
+      \strng{fullhash}{13aba858a4b3bfc73c6a20352472503a}
+      \strng{fullhashraw}{13aba858a4b3bfc73c6a20352472503a}
+      \strng{bibnamehash}{13aba858a4b3bfc73c6a20352472503a}
+      \strng{authorbibnamehash}{13aba858a4b3bfc73c6a20352472503a}
+      \strng{authornamehash}{13aba858a4b3bfc73c6a20352472503a}
+      \strng{authorfullhash}{13aba858a4b3bfc73c6a20352472503a}
+      \strng{authorfullhashraw}{13aba858a4b3bfc73c6a20352472503a}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Natural Hazards}
+      \field{month}{02}
+      \field{title}{Global Perspectives on Loss of Human Life Caused by Floods}
+      \field{volume}{34}
+      \field{year}{2005}
+      \field{pages}{151\bibrangedash 175}
+      \range{pages}{25}
+    \endentry
+    \entry{Kolban2016}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f9da803b9898a6828b5cbabd58709ead}{%
+           family={Kolban},
+           familyi={K\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Leanpub}%
+      }
+      \strng{namehash}{f9da803b9898a6828b5cbabd58709ead}
+      \strng{fullhash}{f9da803b9898a6828b5cbabd58709ead}
+      \strng{fullhashraw}{f9da803b9898a6828b5cbabd58709ead}
+      \strng{bibnamehash}{f9da803b9898a6828b5cbabd58709ead}
+      \strng{authorbibnamehash}{f9da803b9898a6828b5cbabd58709ead}
+      \strng{authornamehash}{f9da803b9898a6828b5cbabd58709ead}
+      \strng{authorfullhash}{f9da803b9898a6828b5cbabd58709ead}
+      \strng{authorfullhashraw}{f9da803b9898a6828b5cbabd58709ead}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Kolban's book on ESP8266}
+      \field{year}{2016}
+    \endentry
+    \entry{lednev_2013_remote}{misc}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=fd9ac9d335c3d23509abbe1b7b6c7f8b}{%
+           family={Lednev},
+           familyi={L\bibinitperiod},
+           given={Vasily\bibnamedelima N},
+           giveni={V\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=63f09f1b7a964ba08067c6cc4ea68162}{%
+           family={Pershin},
+           familyi={P\bibinitperiod},
+           given={Sergey},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=28f8b0af1b224f2a8bad07b5b8ef5365}{%
+           family={Yulmetov},
+           familyi={Y\bibinitperiod},
+           given={Renat},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=81e7f22a0687ccfffe364e15e07ff11c}{%
+           family={Bunkin},
+           familyi={B\bibinitperiod},
+           given={Alexey\bibnamedelima Fedorovich},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {ResearchGate}%
+      }
+      \list{publisher}{1}{%
+        {unknown}%
+      }
+      \strng{namehash}{1a8f8dba91d56acb626f7f824265b98e}
+      \strng{fullhash}{624e5e0b4829cac3ba4628aa87fa0ef2}
+      \strng{fullhashraw}{624e5e0b4829cac3ba4628aa87fa0ef2}
+      \strng{bibnamehash}{624e5e0b4829cac3ba4628aa87fa0ef2}
+      \strng{authorbibnamehash}{624e5e0b4829cac3ba4628aa87fa0ef2}
+      \strng{authornamehash}{1a8f8dba91d56acb626f7f824265b98e}
+      \strng{authorfullhash}{624e5e0b4829cac3ba4628aa87fa0ef2}
+      \strng{authorfullhashraw}{624e5e0b4829cac3ba4628aa87fa0ef2}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Remote sensing of ice and snow by compact Raman LIDAR}
+      \field{urlday}{9}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{year}{2013}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.researchgate.net/publication/289372097_Remote_sensing_of_ice_and_snow_by_compact_Raman_LIDAR
+      \endverb
+      \verb{url}
+      \verb https://www.researchgate.net/publication/289372097_Remote_sensing_of_ice_and_snow_by_compact_Raman_LIDAR
+      \endverb
+    \endentry
+    \entry{li_2022_a}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=20913336e810d43d539e1f03121eb9df}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Nanxi},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6ca0e4606f4beaf9b0038311d25f8252}{%
+           family={Ho},
+           familyi={H\bibinitperiod},
+           given={Chong\bibnamedelima Pei},
+           giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=95015c46fd4ba6e76de6929945169b50}{%
+           family={Xue},
+           familyi={X\bibinitperiod},
+           given={Jin},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ee0aa599ffa5e57e2eeaff88a108e159}{%
+           family={Lim},
+           familyi={L\bibinitperiod},
+           given={Leh\bibnamedelima Woon},
+           giveni={L\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bc94a3b21d3d78c307c1ecddcd37ea8f}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Guanyu},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ad88871b2150a4ee47267a8c23e79209}{%
+           family={Fu},
+           familyi={F\bibinitperiod},
+           given={Yuan\bibnamedelima Hsing},
+           giveni={Y\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5e4b754bf3d13d84d9ad9c915441115f}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Lennon\bibnamedelimb Yao\bibnamedelima Ting},
+           giveni={L\bibinitperiod\bibinitdelim Y\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3f9723a56acd6fed3619506c806e711b}
+      \strng{fullhash}{f2eceb29297f3a6be804be1ddf67b500}
+      \strng{fullhashraw}{f2eceb29297f3a6be804be1ddf67b500}
+      \strng{bibnamehash}{f2eceb29297f3a6be804be1ddf67b500}
+      \strng{authorbibnamehash}{f2eceb29297f3a6be804be1ddf67b500}
+      \strng{authornamehash}{3f9723a56acd6fed3619506c806e711b}
+      \strng{authorfullhash}{f2eceb29297f3a6be804be1ddf67b500}
+      \strng{authorfullhashraw}{f2eceb29297f3a6be804be1ddf67b500}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Laser and Photonics Reviews}
+      \field{month}{08}
+      \field{title}{A Progress Review on Solid‐State LiDAR and Nanophotonics‐Based LiDAR Sensors}
+      \field{volume}{16}
+      \field{year}{2022}
+      \field{pages}{2100511}
+      \range{pages}{1}
+    \endentry
+    \entry{lin_2020_semantic}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=37177639f418a6c6c34ed11f1d8ee99c}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Feng},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=475571681512c0f7438e3f7a6f929ebb}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Zhentao},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=faf6e28b3b2e6b4495bcd26800033e92}{%
+           family={Jin},
+           familyi={J\bibinitperiod},
+           given={Qiannan},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9239c6c1ab34c099ea11efe09a35d2d8}{%
+           family={You},
+           familyi={Y\bibinitperiod},
+           given={Aiju},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{527559f6c8dd6b8dc8a091f2d68b9bc1}
+      \strng{fullhash}{6eb33b558b5048960741600c2324a357}
+      \strng{fullhashraw}{6eb33b558b5048960741600c2324a357}
+      \strng{bibnamehash}{6eb33b558b5048960741600c2324a357}
+      \strng{authorbibnamehash}{6eb33b558b5048960741600c2324a357}
+      \strng{authornamehash}{527559f6c8dd6b8dc8a091f2d68b9bc1}
+      \strng{authorfullhash}{6eb33b558b5048960741600c2324a357}
+      \strng{authorfullhashraw}{6eb33b558b5048960741600c2324a357}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Coastal Research}
+      \field{month}{12}
+      \field{title}{Semantic Segmentation and Scale Recognition–Based Water-Level Monitoring Algorithm}
+      \field{volume}{105}
+      \field{year}{2020}
+    \endentry
+    \entry{lo_2015_visual}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=25bdf9bb36aa3c0e396d1018cd72f90e}{%
+           family={Lo},
+           familyi={L\bibinitperiod},
+           given={Shi-Wei},
+           giveni={S\bibinithyphendelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e3eaedcb4644b94615b2aa1a08f1ce14}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Jyh-Horng},
+           giveni={J\bibinithyphendelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eddef10cbdae14315bd176cc7a4556ec}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Fang-Pang},
+           giveni={F\bibinithyphendelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d4aacf9c734c634a36042737b58e1c87}{%
+           family={Hsu},
+           familyi={H\bibinitperiod},
+           given={Ching-Han},
+           giveni={C\bibinithyphendelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8e09a6f1a66b1d63e0955e0f3503048f}
+      \strng{fullhash}{7e9866f54498b90c2dcd02e3d30331eb}
+      \strng{fullhashraw}{7e9866f54498b90c2dcd02e3d30331eb}
+      \strng{bibnamehash}{7e9866f54498b90c2dcd02e3d30331eb}
+      \strng{authorbibnamehash}{7e9866f54498b90c2dcd02e3d30331eb}
+      \strng{authornamehash}{8e09a6f1a66b1d63e0955e0f3503048f}
+      \strng{authorfullhash}{7e9866f54498b90c2dcd02e3d30331eb}
+      \strng{authorfullhashraw}{7e9866f54498b90c2dcd02e3d30331eb}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sensors}
+      \field{month}{08}
+      \field{title}{Visual Sensing for Urban Flood Monitoring}
+      \field{volume}{15}
+      \field{year}{2015}
+      \field{pages}{20006\bibrangedash 20029}
+      \range{pages}{24}
+    \endentry
+    \entry{lozano_2017_sensors}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=61973d3fb6075a26c68c950c611b6fab}{%
+           family={Lozano},
+           familyi={L\bibinitperiod},
+           given={Jesús},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=89127dc60fb08e8a5106575f18722096}{%
+           family={Apetrei},
+           familyi={A\bibinitperiod},
+           given={Constantin},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d6502748bb7564e3b05b87a34b0a8f26}{%
+           family={Ghasemi-Varnamkhasti},
+           familyi={G\bibinithyphendelim V\bibinitperiod},
+           given={Mahdi},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=61eb2e6813cc909ae50e40dbdee0a068}{%
+           family={Matatagui},
+           familyi={M\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3d56422748b81806af38aafed0278dcd}{%
+           family={Santos},
+           familyi={S\bibinitperiod},
+           given={José\bibnamedelima Pedro},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Hindawi Publishing Corporation}%
+      }
+      \strng{namehash}{9a9ba3631296795b962838bb123ca2a0}
+      \strng{fullhash}{e36004c4d8e080ad098918614f628430}
+      \strng{fullhashraw}{e36004c4d8e080ad098918614f628430}
+      \strng{bibnamehash}{e36004c4d8e080ad098918614f628430}
+      \strng{authorbibnamehash}{e36004c4d8e080ad098918614f628430}
+      \strng{authornamehash}{9a9ba3631296795b962838bb123ca2a0}
+      \strng{authorfullhash}{e36004c4d8e080ad098918614f628430}
+      \strng{authorfullhashraw}{e36004c4d8e080ad098918614f628430}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Sensors}
+      \field{month}{01}
+      \field{title}{Sensors and Systems for Environmental Monitoring and Control}
+      \field{volume}{2017}
+      \field{year}{2017}
+      \field{pages}{1\bibrangedash 2}
+      \range{pages}{2}
+    \endentry
+    \entry{Madakam:2015}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=112d163cb942045ccebb8bad571708fb}{%
+           family={Madakam},
+           familyi={M\bibinitperiod},
+           given={Somayya},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bd5eabcf96eeaf46954bde7128d7b86c}{%
+           family={Ramaswamy},
+           familyi={R\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9a0953371f5d5d7159c9cfde03031950}{%
+           family={Tripathi},
+           familyi={T\bibinitperiod},
+           given={Siddharth},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Scientific Research Publishing}%
+      }
+      \strng{namehash}{805b9f8bb75de8cc536672993d968d72}
+      \strng{fullhash}{805b9f8bb75de8cc536672993d968d72}
+      \strng{fullhashraw}{805b9f8bb75de8cc536672993d968d72}
+      \strng{bibnamehash}{805b9f8bb75de8cc536672993d968d72}
+      \strng{authorbibnamehash}{805b9f8bb75de8cc536672993d968d72}
+      \strng{authornamehash}{805b9f8bb75de8cc536672993d968d72}
+      \strng{authorfullhash}{805b9f8bb75de8cc536672993d968d72}
+      \strng{authorfullhashraw}{805b9f8bb75de8cc536672993d968d72}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Computer and Communications}
+      \field{number}{5}
+      \field{title}{Internet of Things (IoT): A Literature Review}
+      \field{volume}{3}
+      \field{year}{2015}
+      \field{pages}{164\bibrangedash 173}
+      \range{pages}{10}
+    \endentry
+    \entry{mohammadrezamasoudimoghaddam_2024_a}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=37fd379d3dd95496410868f28aefc56e}{%
+           family={MasoudiMoghaddam},
+           familyi={M\bibinitperiod},
+           given={Mohammadreza},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dfb1b373b7d8ea7244c57077e0e094f0}{%
+           family={Yazdi},
+           familyi={Y\bibinitperiod},
+           given={Jafar},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=62b42851628bb3821175ba904afdcd12}{%
+           family={Shahsavandi},
+           familyi={S\bibinitperiod},
+           given={Mohammad},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier BV}%
+      }
+      \strng{namehash}{083450054e820b738d50edfabab8bd62}
+      \strng{fullhash}{083450054e820b738d50edfabab8bd62}
+      \strng{fullhashraw}{083450054e820b738d50edfabab8bd62}
+      \strng{bibnamehash}{083450054e820b738d50edfabab8bd62}
+      \strng{authorbibnamehash}{083450054e820b738d50edfabab8bd62}
+      \strng{authornamehash}{083450054e820b738d50edfabab8bd62}
+      \strng{authorfullhash}{083450054e820b738d50edfabab8bd62}
+      \strng{authorfullhashraw}{083450054e820b738d50edfabab8bd62}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Flow Measurement and Instrumentation}
+      \field{month}{12}
+      \field{title}{A Low-Cost Ultrasonic Sensor for Online Monitoring of Water Levels in Rivers and Channels}
+      \field{volume}{102}
+      \field{year}{2024}
+      \field{pages}{102777\bibrangedash 102777}
+      \range{pages}{1}
+    \endentry
+    \entry{milan_2010_mapping}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=f97a1034cc5951202ab3f5adbfb8bfa6}{%
+           family={Milan},
+           familyi={M\bibinitperiod},
+           given={D.J.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=85910af450f664a11f22b508652cb9fb}{%
+           family={Heritage},
+           familyi={H\bibinitperiod},
+           given={G.L.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c39817349f2dc80ab3ff1829f1917d6d}{%
+           family={Large},
+           familyi={L\bibinitperiod},
+           given={A.R.G.},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ba0020c70a69feaf354e0f8445e528cf}{%
+           family={Entwistle},
+           familyi={E\bibinitperiod},
+           given={N.S.},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f6b4154892844ff4f5161cee131f274b}
+      \strng{fullhash}{99441b983fc34c52ec6315836638730e}
+      \strng{fullhashraw}{99441b983fc34c52ec6315836638730e}
+      \strng{bibnamehash}{99441b983fc34c52ec6315836638730e}
+      \strng{authorbibnamehash}{99441b983fc34c52ec6315836638730e}
+      \strng{authornamehash}{f6b4154892844ff4f5161cee131f274b}
+      \strng{authorfullhash}{99441b983fc34c52ec6315836638730e}
+      \strng{authorfullhashraw}{99441b983fc34c52ec6315836638730e}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Earth Surface Processes and Landforms}
+      \field{month}{01}
+      \field{title}{Mapping hydraulic biotopes using terrestrial laser scan data of water surface properties}
+      \field{volume}{35}
+      \field{year}{2010}
+      \field{pages}{918\bibrangedash 931}
+      \range{pages}{14}
+    \endentry
+    \entry{mohindru_2023_development}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a6cf380d36d5cf8ca7b87feeaa5e350c}{%
+           family={Mohindru},
+           familyi={M\bibinitperiod},
+           given={Pankaj},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a6cf380d36d5cf8ca7b87feeaa5e350c}
+      \strng{fullhash}{a6cf380d36d5cf8ca7b87feeaa5e350c}
+      \strng{fullhashraw}{a6cf380d36d5cf8ca7b87feeaa5e350c}
+      \strng{bibnamehash}{a6cf380d36d5cf8ca7b87feeaa5e350c}
+      \strng{authorbibnamehash}{a6cf380d36d5cf8ca7b87feeaa5e350c}
+      \strng{authornamehash}{a6cf380d36d5cf8ca7b87feeaa5e350c}
+      \strng{authorfullhash}{a6cf380d36d5cf8ca7b87feeaa5e350c}
+      \strng{authorfullhashraw}{a6cf380d36d5cf8ca7b87feeaa5e350c}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Flow Measurement and Instrumentation}
+      \field{month}{03}
+      \field{title}{Development of liquid level measurement technology: A review}
+      \field{volume}{89}
+      \field{year}{2023}
+      \field{pages}{102295}
+      \range{pages}{1}
+    \endentry
+    \entry{mukhopadhyay_2021_artificial}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=9afe33131a7de7de186a2ae3741d6cda}{%
+           family={Mukhopadhyay},
+           familyi={M\bibinitperiod},
+           given={Subhas\bibnamedelima Chandra},
+           giveni={S\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=161a51fcda1924543427dc6c77ae649c}{%
+           family={Tyagi},
+           familyi={T\bibinitperiod},
+           given={Sumarga\bibnamedelimb Kumar\bibnamedelima Sah},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=440f89d5db3dfd8df8cd0341f20c4970}{%
+           family={Suryadevara},
+           familyi={S\bibinitperiod},
+           given={Nagender\bibnamedelima Kumar},
+           giveni={N\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=16a8f9082cc16debc86ff186ce5d236f}{%
+           family={Piuri},
+           familyi={P\bibinitperiod},
+           given={Vincenzo},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ef8578104deeb7b10340aeeb4a8fc5a3}{%
+           family={Scotti},
+           familyi={S\bibinitperiod},
+           given={Fabio},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=293aa951928de5b545b038b510c6e434}{%
+           family={Zeadally},
+           familyi={Z\bibinitperiod},
+           given={Sherali},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ef49a64bb26417a9bd245d647364fc12}
+      \strng{fullhash}{321eae76f39ba23a182d8846fc68aa13}
+      \strng{fullhashraw}{321eae76f39ba23a182d8846fc68aa13}
+      \strng{bibnamehash}{321eae76f39ba23a182d8846fc68aa13}
+      \strng{authorbibnamehash}{321eae76f39ba23a182d8846fc68aa13}
+      \strng{authornamehash}{ef49a64bb26417a9bd245d647364fc12}
+      \strng{authorfullhash}{321eae76f39ba23a182d8846fc68aa13}
+      \strng{authorfullhashraw}{321eae76f39ba23a182d8846fc68aa13}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Sensors Journal}
+      \field{title}{Artificial Intelligence-based Sensors for Next Generation IoT Applications: A Review}
+      \field{volume}{21}
+      \field{year}{2021}
+      \field{pages}{1\bibrangedash 1}
+      \range{pages}{1}
+    \endentry
+    \entry{nr_2025_ai}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=511f63a0b5df135041417928ba64aa4a}{%
+           family={N.R},
+           familyi={N\bibinitperiod},
+           given={Wilfred\bibnamedelima Blessing},
+           giveni={W\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=49092a25bd7cc7b9e354ef28dc750150}{%
+           family={Palarimath},
+           familyi={P\bibinitperiod},
+           given={Suresh},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5aed72ea35c34b025854c6ca02a467fd}{%
+           family={Gunasekaran},
+           familyi={G\bibinitperiod},
+           given={Hemalatha},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cdafbc77809b9c859ab05d8227673497}{%
+           family={Haidar},
+           familyi={H\bibinitperiod},
+           given={Sk\bibnamedelima Wasim},
+           giveni={S\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1616072182dcc4eb2855f7b29e5ed80d}{%
+           family={G},
+           familyi={G\bibinitperiod},
+           given={Sutherlin\bibnamedelima Subitha},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4543e441ee6913b312151d1603658f0b}{%
+           family={J},
+           familyi={J\bibinitperiod},
+           given={Sarmila},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bb949ec9d798377d7c60d3f7b741706e}
+      \strng{fullhash}{dc260d44c08ceb9ef042b0443342b928}
+      \strng{fullhashraw}{dc260d44c08ceb9ef042b0443342b928}
+      \strng{bibnamehash}{dc260d44c08ceb9ef042b0443342b928}
+      \strng{authorbibnamehash}{dc260d44c08ceb9ef042b0443342b928}
+      \strng{authornamehash}{bb949ec9d798377d7c60d3f7b741706e}
+      \strng{authorfullhash}{dc260d44c08ceb9ef042b0443342b928}
+      \strng{authorfullhashraw}{dc260d44c08ceb9ef042b0443342b928}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2022 International Conference on Electronics and Renewable Systems (ICEARS)}
+      \field{month}{02}
+      \field{title}{AI Modeling and Water Quality Sensing Technique Proffers Water Security: An Open Review}
+      \field{year}{2025}
+      \field{pages}{1028\bibrangedash 1034}
+      \range{pages}{7}
+    \endentry
+    \entry{nodemcu}{misc}{}{}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.amazon.com.br/ESP8266-CH340G-NodeMcu-desenvolvimento-Internet/dp/B08H26NY16}}
+      \field{note}{Acessado em: 26 de junho de 2023}
+      \field{title}{Node MCU}
+      \field{year}{2023}
+    \endentry
+    \entry{paul_2020_a}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=4795811182bde4d2827a36409fd9bffe}{%
+           family={Paul},
+           familyi={P\bibinitperiod},
+           given={Jonathan\bibnamedelima D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9e07802d822c2221f8565118311e4311}{%
+           family={Buytaert},
+           familyi={B\bibinitperiod},
+           given={Wouter},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=af1041d8059beb83664164a684a2223b}{%
+           family={Sah},
+           familyi={S\bibinitperiod},
+           given={Neeraj},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{08f3bd18a43451a967b83561ad9a3113}
+      \strng{fullhash}{08f3bd18a43451a967b83561ad9a3113}
+      \strng{fullhashraw}{08f3bd18a43451a967b83561ad9a3113}
+      \strng{bibnamehash}{08f3bd18a43451a967b83561ad9a3113}
+      \strng{authorbibnamehash}{08f3bd18a43451a967b83561ad9a3113}
+      \strng{authornamehash}{08f3bd18a43451a967b83561ad9a3113}
+      \strng{authorfullhash}{08f3bd18a43451a967b83561ad9a3113}
+      \strng{authorfullhashraw}{08f3bd18a43451a967b83561ad9a3113}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Water Resources Research}
+      \field{month}{04}
+      \field{title}{A Technical Evaluation of Lidar‐Based Measurement of River Water Levels}
+      \field{volume}{56}
+      \field{year}{2020}
+    \endentry
+    \entry{pereira_2022_evaluation}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=001a058d3681f01524bdbf4217feb0df}{%
+           family={Pereira},
+           familyi={P\bibinitperiod},
+           given={Tatiane\bibnamedelimb Souza\bibnamedelima Rodrigues},
+           giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=211c35b8d5d3f07c26a6dbb0aad749b4}{%
+           family={Carvalho},
+           familyi={C\bibinitperiod},
+           given={Thiago\bibnamedelima Pires},
+           giveni={T\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=4d655455f241ae775fa7af56231cfd21}{%
+           family={Mendes},
+           familyi={M\bibinitperiod},
+           given={Thiago\bibnamedelima Augusto},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c04078298db299e76a36aa3100973c36}{%
+           family={Formiga},
+           familyi={F\bibinitperiod},
+           given={Klebber\bibnamedelimb Teodomiro\bibnamedelima Martins},
+           giveni={K\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cb89cb96c67890ae85b559018a20a59c}
+      \strng{fullhash}{0e60e8b1a4430a44a02d443f1373108e}
+      \strng{fullhashraw}{0e60e8b1a4430a44a02d443f1373108e}
+      \strng{bibnamehash}{0e60e8b1a4430a44a02d443f1373108e}
+      \strng{authorbibnamehash}{0e60e8b1a4430a44a02d443f1373108e}
+      \strng{authornamehash}{cb89cb96c67890ae85b559018a20a59c}
+      \strng{authorfullhash}{0e60e8b1a4430a44a02d443f1373108e}
+      \strng{authorfullhashraw}{0e60e8b1a4430a44a02d443f1373108e}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sustainability}
+      \field{month}{05}
+      \field{title}{Evaluation of Water Level in Flowing Channels Using Ultrasonic Sensors}
+      \field{volume}{14}
+      \field{year}{2022}
+      \field{pages}{5512}
+      \range{pages}{1}
+    \endentry
+    \entry{pule_2017_wireless}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e4beaff25462b6e3e9e1c35138df8622}{%
+           family={Pule},
+           familyi={P\bibinitperiod},
+           given={Mompoloki},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=91a5d8b34274a4169f4563fb4e5e8f52}{%
+           family={Yahya},
+           familyi={Y\bibinitperiod},
+           given={Abid},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6dca4b93e847f71166323754a5ce0aff}{%
+           family={Chuma},
+           familyi={C\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a340b035c4350f4191db6c9a17958901}
+      \strng{fullhash}{a340b035c4350f4191db6c9a17958901}
+      \strng{fullhashraw}{a340b035c4350f4191db6c9a17958901}
+      \strng{bibnamehash}{a340b035c4350f4191db6c9a17958901}
+      \strng{authorbibnamehash}{a340b035c4350f4191db6c9a17958901}
+      \strng{authornamehash}{a340b035c4350f4191db6c9a17958901}
+      \strng{authorfullhash}{a340b035c4350f4191db6c9a17958901}
+      \strng{authorfullhashraw}{a340b035c4350f4191db6c9a17958901}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Applied Research and Technology}
+      \field{month}{12}
+      \field{title}{Wireless sensor networks: A survey on monitoring water quality}
+      \field{volume}{15}
+      \field{year}{2017}
+      \field{pages}{562\bibrangedash 570}
+      \range{pages}{9}
+    \endentry
+    \entry{queiroz_2020_sensors}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=cfc71193036ba7ab26861a0e16f6db25}{%
+           family={Queiroz},
+           familyi={Q\bibinitperiod},
+           given={Daniel\bibnamedelimb Marçal\bibnamedelima de},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim d\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3c9870c34ad7277a10ecfcb930b19d4b}{%
+           family={Coelho},
+           familyi={C\bibinitperiod},
+           given={Andre\bibnamedelimb Luiz\bibnamedelimb de\bibnamedelima Freitas},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c9cbf9d19982cff3bfbdaae235b4798a}{%
+           family={Valente},
+           familyi={V\bibinitperiod},
+           given={Domingos\bibnamedelimb Sárvio\bibnamedelima Magalhães},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8005dd97006fa897962fe28713f1e097}{%
+           family={Schueller},
+           familyi={S\bibinitperiod},
+           given={John\bibnamedelima Kenneth},
+           giveni={J\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b265362161f6259a97aa3a79e34b64c8}
+      \strng{fullhash}{dfecded6cebd794c460c13ded91bcb62}
+      \strng{fullhashraw}{dfecded6cebd794c460c13ded91bcb62}
+      \strng{bibnamehash}{dfecded6cebd794c460c13ded91bcb62}
+      \strng{authorbibnamehash}{dfecded6cebd794c460c13ded91bcb62}
+      \strng{authornamehash}{b265362161f6259a97aa3a79e34b64c8}
+      \strng{authorfullhash}{dfecded6cebd794c460c13ded91bcb62}
+      \strng{authorfullhashraw}{dfecded6cebd794c460c13ded91bcb62}
+      \field{sortinit}{Q}
+      \field{sortinithash}{ce69a400a872ddd02ee7fdb3b38c6abd}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{REVISTA CIÊNCIA AGRONÔMICA}
+      \field{title}{Sensors Applied to Digital Agriculture: A Review}
+      \field{volume}{51}
+      \field{year}{2020}
+    \endentry
+    \entry{ramos_2025_high}{article}{}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=74fe9c8cb8331e62ec939a497259d474}{%
+           family={Ramos},
+           familyi={R\bibinitperiod},
+           given={Cláudio\bibnamedelima C},
+           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=045b35bcff5b894ea73c4214f96dabfd}{%
+           family={Preizal},
+           familyi={P\bibinitperiod},
+           given={João},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bf0ffad545e5fb72a058bb99dc59c1a4}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Xuehao},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7a55f279b041b3bbf17f6586d0addae7}{%
+           family={Caucheteur},
+           familyi={C\bibinitperiod},
+           given={Christophe},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=55c0f37a96b666e2635a121e469ca016}{%
+           family={Woyessa},
+           familyi={W\bibinitperiod},
+           given={Getinet},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=10bead0ad3e8f2c8c57bcaf56b252255}{%
+           family={Bang},
+           familyi={B\bibinitperiod},
+           given={Ole},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e075ecd7ebcfb22864d1e7659551d671}{%
+           family={Rocha},
+           familyi={R\bibinitperiod},
+           given={Ana\bibnamedelima M},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=87aa3d206936cbe9e206671c258689f2}{%
+           family={Oliveira},
+           familyi={O\bibinitperiod},
+           given={Ricardo},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier BV}%
+      }
+      \strng{namehash}{8045d7b0ee0d032ab2e2874d99d9d132}
+      \strng{fullhash}{6698a2865d04b41da2a31581c5a9a5ec}
+      \strng{fullhashraw}{6698a2865d04b41da2a31581c5a9a5ec}
+      \strng{bibnamehash}{6698a2865d04b41da2a31581c5a9a5ec}
+      \strng{authorbibnamehash}{6698a2865d04b41da2a31581c5a9a5ec}
+      \strng{authornamehash}{8045d7b0ee0d032ab2e2874d99d9d132}
+      \strng{authorfullhash}{6698a2865d04b41da2a31581c5a9a5ec}
+      \strng{authorfullhashraw}{6698a2865d04b41da2a31581c5a9a5ec}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Measurement}
+      \field{month}{03}
+      \field{title}{High resolution liquid level sensor based on Archimedes’ law of buoyancy using polymer optical fiber Bragg gratings}
+      \field{volume}{252}
+      \field{year}{2025}
+      \field{pages}{117368\bibrangedash 117368}
+      \range{pages}{1}
+    \endentry
+    \entry{santana_2024_development}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=a870d0a9cfc5124cebf61f75af8c9d7a}{%
+           family={Santana},
+           familyi={S\bibinitperiod},
+           given={Vinicius},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=763decf047bdeb903adba4d139bbd083}{%
+           family={Salustiano},
+           familyi={S\bibinitperiod},
+           given={Rogério\bibnamedelima Esteves},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=edc5454d997de68b65956b0f69501f0c}{%
+           family={Tiezzi},
+           familyi={T\bibinitperiod},
+           given={Rafael},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier BV}%
+      }
+      \strng{namehash}{4703284e74fb3813111c3e351e7877be}
+      \strng{fullhash}{4703284e74fb3813111c3e351e7877be}
+      \strng{fullhashraw}{4703284e74fb3813111c3e351e7877be}
+      \strng{bibnamehash}{4703284e74fb3813111c3e351e7877be}
+      \strng{authorbibnamehash}{4703284e74fb3813111c3e351e7877be}
+      \strng{authornamehash}{4703284e74fb3813111c3e351e7877be}
+      \strng{authorfullhash}{4703284e74fb3813111c3e351e7877be}
+      \strng{authorfullhashraw}{4703284e74fb3813111c3e351e7877be}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Flow Measurement and Instrumentation}
+      \field{month}{10}
+      \field{title}{Development and Calibration of a Low-Cost LIDAR Sensor for Water Level Measurements}
+      \field{year}{2024}
+      \field{pages}{102729\bibrangedash 102729}
+      \range{pages}{1}
+    \endentry
+    \entry{smart_2009_river}{misc}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e4c75c3054be1149b4e7aa408d9038d2}{%
+           family={Smart},
+           familyi={S\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9f30c0b8717f9f3a7a432eb51032d6a8}{%
+           family={Bind},
+           familyi={B\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1af3fb0a9860a4ebdd267c453542d8c5}{%
+           family={Duncan},
+           familyi={D\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {18 th World IMACS / MODSIM}%
+      }
+      \strng{namehash}{0b8919983f3f10dd56936f68fadb55d4}
+      \strng{fullhash}{0b8919983f3f10dd56936f68fadb55d4}
+      \strng{fullhashraw}{0b8919983f3f10dd56936f68fadb55d4}
+      \strng{bibnamehash}{0b8919983f3f10dd56936f68fadb55d4}
+      \strng{authorbibnamehash}{0b8919983f3f10dd56936f68fadb55d4}
+      \strng{authornamehash}{0b8919983f3f10dd56936f68fadb55d4}
+      \strng{authorfullhash}{0b8919983f3f10dd56936f68fadb55d4}
+      \strng{authorfullhashraw}{0b8919983f3f10dd56936f68fadb55d4}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{River bathymetry from conventional LiDAR using water surface returns}
+      \field{urlday}{9}
+      \field{urlmonth}{6}
+      \field{urlyear}{2025}
+      \field{year}{2009}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://mssanz.org.au/modsim09/F13/smart.pdf
+      \endverb
+      \verb{url}
+      \verb https://mssanz.org.au/modsim09/F13/smart.pdf
+      \endverb
+    \endentry
+    \entry{sreejith_2024_modeling}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=9befbb51c015596aeedcda3a99c5f2f9}{%
+           family={Sreejith},
+           familyi={S\bibinitperiod},
+           given={Vattaparambil\bibnamedelima Sreedharan},
+           giveni={V\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a0484cb7d05509640954429962ad4a56}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Haifeng},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1c48abd136da56e47fc6ba3235065dad}
+      \strng{fullhash}{1c48abd136da56e47fc6ba3235065dad}
+      \strng{fullhashraw}{1c48abd136da56e47fc6ba3235065dad}
+      \strng{bibnamehash}{1c48abd136da56e47fc6ba3235065dad}
+      \strng{authorbibnamehash}{1c48abd136da56e47fc6ba3235065dad}
+      \strng{authornamehash}{1c48abd136da56e47fc6ba3235065dad}
+      \strng{authorfullhash}{1c48abd136da56e47fc6ba3235065dad}
+      \strng{authorfullhashraw}{1c48abd136da56e47fc6ba3235065dad}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sensors and Actuators A: Physical}
+      \field{month}{07}
+      \field{title}{Modeling and testing of a highly sensitive surface acoustic wave pressure sensor for liquid depth measurements}
+      \field{volume}{372}
+      \field{year}{2024}
+      \field{pages}{115377}
+      \range{pages}{1}
+    \endentry
+    \entry{sun_2022_recent}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=1eb54dffd12287e68d5495c22e4cabbc}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Zehua},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dcf70335e486e2383a037bfac1e244fd}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Huanqi},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=25b9f35fc4e73c25450ef97e7c37b292}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Kai},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8cb6c268bc06be2fc218dab420ab9300}{%
+           family={Yin},
+           familyi={Y\bibinitperiod},
+           given={Zhimeng},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a040618addb54cb53a2362a85a00a018}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Zhenjiang},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0d1714a6f4696251e5cdf5de8aadb237}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Weitao},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{72b9f899d5d00b0e52b2ea016aa0b5fd}
+      \strng{fullhash}{b76c644aa29dcb0fc38f5adcd7bce0d3}
+      \strng{fullhashraw}{b76c644aa29dcb0fc38f5adcd7bce0d3}
+      \strng{bibnamehash}{b76c644aa29dcb0fc38f5adcd7bce0d3}
+      \strng{authorbibnamehash}{b76c644aa29dcb0fc38f5adcd7bce0d3}
+      \strng{authornamehash}{72b9f899d5d00b0e52b2ea016aa0b5fd}
+      \strng{authorfullhash}{b76c644aa29dcb0fc38f5adcd7bce0d3}
+      \strng{authorfullhashraw}{b76c644aa29dcb0fc38f5adcd7bce0d3}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ACM Transactions on Sensor Networks}
+      \field{month}{06}
+      \field{title}{Recent Advances in LoRa: A Comprehensive Survey}
+      \field{volume}{18}
+      \field{year}{2022}
+    \endentry
+    \entry{tamari_2016_flash}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=8d736c52fb0e2c6adad52cbfc48ec881}{%
+           family={Tamari},
+           familyi={T\bibinitperiod},
+           given={Serge},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b2c989427031443709a2795e7e5bdb9f}{%
+           family={Guerrero-Meza},
+           familyi={G\bibinithyphendelim M\bibinitperiod},
+           given={Vicente},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8d80717f954e50ab606848473702338a}
+      \strng{fullhash}{8d80717f954e50ab606848473702338a}
+      \strng{fullhashraw}{8d80717f954e50ab606848473702338a}
+      \strng{bibnamehash}{8d80717f954e50ab606848473702338a}
+      \strng{authorbibnamehash}{8d80717f954e50ab606848473702338a}
+      \strng{authornamehash}{8d80717f954e50ab606848473702338a}
+      \strng{authorfullhash}{8d80717f954e50ab606848473702338a}
+      \strng{authorfullhashraw}{8d80717f954e50ab606848473702338a}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Remote Sensing}
+      \field{month}{10}
+      \field{title}{Flash Flood Monitoring with an Inclined Lidar Installed at a River Bank: Proof of Concept}
+      \field{volume}{8}
+      \field{year}{2016}
+      \field{pages}{834}
+      \range{pages}{1}
+    \endentry
+    \entry{teng_2014_soil}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=6acdc803e6d65b602007a65e8efec418}{%
+           family={Teng},
+           familyi={T\bibinitperiod},
+           given={Yanguo},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bd07e45e871c662f4bb28aeb35bcf14f}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Jin},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0967f3a46952cf14e1847944778ea39d}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Sijin},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fb7ec11199e69f7b18153d20e89369ac}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yeyao},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ab3eec6d5448631533e92f0070a703c0}{%
+           family={Jiao},
+           familyi={J\bibinitperiod},
+           given={Xudong},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e10f463668903502860858b531b86a6a}{%
+           family={Song},
+           familyi={S\bibinitperiod},
+           given={Liuting},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d0d7688c69a29d513245fa3c6ff96d0d}
+      \strng{fullhash}{19bfdb273c22bf78dee615d49bd6ef24}
+      \strng{fullhashraw}{19bfdb273c22bf78dee615d49bd6ef24}
+      \strng{bibnamehash}{19bfdb273c22bf78dee615d49bd6ef24}
+      \strng{authorbibnamehash}{19bfdb273c22bf78dee615d49bd6ef24}
+      \strng{authornamehash}{d0d7688c69a29d513245fa3c6ff96d0d}
+      \strng{authorfullhash}{19bfdb273c22bf78dee615d49bd6ef24}
+      \strng{authorfullhashraw}{19bfdb273c22bf78dee615d49bd6ef24}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Environment International}
+      \field{month}{08}
+      \field{title}{Soil and soil environmental quality monitoring in China: A review}
+      \field{volume}{69}
+      \field{year}{2014}
+      \field{pages}{177\bibrangedash 199}
+      \range{pages}{23}
+    \endentry
+    \entry{wu_2023_a}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=5b37b79b35679ea6677bf09a949b1781}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Zeheng},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dc6b5e453107942fba466f6dd9f9bf05}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Yu},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8f31e0fa859161b1ba75d899a7d1ffc7}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Kailin},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=603d27958f5e5dda9001ce14eb77ae2f}{%
+           family={Yan},
+           familyi={Y\bibinitperiod},
+           given={Kang},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=829eea973bbe5e8092364f82ffab169e}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Hua},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bd6c7729d94897ce8884acf837fc8524}
+      \strng{fullhash}{9af7da8f1b61cb0ba40d1c60cee9e88c}
+      \strng{fullhashraw}{9af7da8f1b61cb0ba40d1c60cee9e88c}
+      \strng{bibnamehash}{9af7da8f1b61cb0ba40d1c60cee9e88c}
+      \strng{authorbibnamehash}{9af7da8f1b61cb0ba40d1c60cee9e88c}
+      \strng{authornamehash}{bd6c7729d94897ce8884acf837fc8524}
+      \strng{authorfullhash}{9af7da8f1b61cb0ba40d1c60cee9e88c}
+      \strng{authorfullhashraw}{9af7da8f1b61cb0ba40d1c60cee9e88c}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Water}
+      \field{month}{01}
+      \field{title}{A Review of Non-Contact Water Level Measurement Based on Computer Vision and Radar Technology}
+      \field{volume}{15}
+      \field{year}{2023}
+      \field{pages}{3233}
+      \range{pages}{1}
+    \endentry
+    \entry{yellampalli_2021_wireless}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=80ae811217d96fdcdeecf0c08801e9c0}{%
+           family={Yellampalli},
+           familyi={Y\bibinitperiod},
+           given={Siva},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=80ae811217d96fdcdeecf0c08801e9c0}{%
+           family={Yellampalli},
+           familyi={Y\bibinitperiod},
+           given={Siva},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IntechOpen}%
+      }
+      \strng{namehash}{80ae811217d96fdcdeecf0c08801e9c0}
+      \strng{fullhash}{80ae811217d96fdcdeecf0c08801e9c0}
+      \strng{fullhashraw}{80ae811217d96fdcdeecf0c08801e9c0}
+      \strng{bibnamehash}{80ae811217d96fdcdeecf0c08801e9c0}
+      \strng{authorbibnamehash}{80ae811217d96fdcdeecf0c08801e9c0}
+      \strng{authornamehash}{80ae811217d96fdcdeecf0c08801e9c0}
+      \strng{authorfullhash}{80ae811217d96fdcdeecf0c08801e9c0}
+      \strng{authorfullhashraw}{80ae811217d96fdcdeecf0c08801e9c0}
+      \strng{editorbibnamehash}{80ae811217d96fdcdeecf0c08801e9c0}
+      \strng{editornamehash}{80ae811217d96fdcdeecf0c08801e9c0}
+      \strng{editorfullhash}{80ae811217d96fdcdeecf0c08801e9c0}
+      \strng{editorfullhashraw}{80ae811217d96fdcdeecf0c08801e9c0}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{09}
+      \field{title}{Wireless Sensor Networks - Design, Deployment and Applications}
+      \field{year}{2021}
+    \endentry
+    \entry{yin_2021_smart}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=682f5669a1bbbb019cd86e63612215ad}{%
+           family={Yin},
+           familyi={Y\bibinitperiod},
+           given={Heyu},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c0f5c0b89a55dc2d13def02e8f38fdcf}{%
+           family={Cao},
+           familyi={C\bibinitperiod},
+           given={Yunteng},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=13082ce56621388bcdc062b78b2ad1f1}{%
+           family={Marelli},
+           familyi={M\bibinitperiod},
+           given={Benedetto},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8991872cc2df25ed79d2644823675040}{%
+           family={Zeng},
+           familyi={Z\bibinitperiod},
+           given={Xiangqun},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=065dc7d392e2148d1e7e48d11a1651e2}{%
+           family={Mason},
+           familyi={M\bibinitperiod},
+           given={Andrew\bibnamedelima J.},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d0e6f2e38c2e190351bcf1f8b9dc8036}{%
+           family={Cao},
+           familyi={C\bibinitperiod},
+           given={Changyong},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3e3fdfcede7652fdbebdbd22959e8b2e}
+      \strng{fullhash}{4e410bf74678ba6b54a0b369dcb20fa9}
+      \strng{fullhashraw}{4e410bf74678ba6b54a0b369dcb20fa9}
+      \strng{bibnamehash}{4e410bf74678ba6b54a0b369dcb20fa9}
+      \strng{authorbibnamehash}{4e410bf74678ba6b54a0b369dcb20fa9}
+      \strng{authornamehash}{3e3fdfcede7652fdbebdbd22959e8b2e}
+      \strng{authorfullhash}{4e410bf74678ba6b54a0b369dcb20fa9}
+      \strng{authorfullhashraw}{4e410bf74678ba6b54a0b369dcb20fa9}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advanced Materials}
+      \field{month}{05}
+      \field{title}{Smart Agriculture Systems: Soil Sensors and Plant Wearables for Smart and Precision Agriculture (Adv. Mater. 20/2021)}
+      \field{volume}{33}
+      \field{year}{2021}
+      \field{pages}{2170156}
+      \range{pages}{1}
+    \endentry
+    \entry{yukawa_2025_an}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=117b1482928165f6312e89824b313496}{%
+           family={Yukawa},
+           familyi={Y\bibinitperiod},
+           given={Chihiro},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ac95827edfdec36e73e583754de49399}{%
+           family={Oda},
+           familyi={O\bibinitperiod},
+           given={Tetsuya},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=87ef4898b3ec7cf1fee661ad89ee7ce6}{%
+           family={Sato},
+           familyi={S\bibinitperiod},
+           given={Takeharu},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=23650ebfa6bca33105145633971fd4aa}{%
+           family={Hirota},
+           familyi={H\bibinitperiod},
+           given={Masaharu},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d929f764dec2624efe84198c5732013b}{%
+           family={Katayama},
+           familyi={K\bibinitperiod},
+           given={Kengo},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3349cc7f2eb505daba5932f95cc339c2}{%
+           family={Barolli},
+           familyi={B\bibinitperiod},
+           given={Leonard},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f832f46f8ea31f34669ccd5e7c04e2ab}
+      \strng{fullhash}{3b3aecbd1ff4235d58576f86b49452a0}
+      \strng{fullhashraw}{3b3aecbd1ff4235d58576f86b49452a0}
+      \strng{bibnamehash}{3b3aecbd1ff4235d58576f86b49452a0}
+      \strng{authorbibnamehash}{3b3aecbd1ff4235d58576f86b49452a0}
+      \strng{authornamehash}{f832f46f8ea31f34669ccd5e7c04e2ab}
+      \strng{authorfullhash}{3b3aecbd1ff4235d58576f86b49452a0}
+      \strng{authorfullhashraw}{3b3aecbd1ff4235d58576f86b49452a0}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Sensor and Actuator Networks}
+      \field{month}{01}
+      \field{title}{An Intelligent Water Level Estimation System Considering Water Level Device Gauge Image Recognition and Wireless Sensor Networks}
+      \field{volume}{14}
+      \field{year}{2025}
+      \field{pages}{13}
+      \range{pages}{1}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
