@@ -1,18 +1,18 @@
 # Fdb version 4
-["biber main"] 1750381556.27484 "main.bcf" "main.bbl" "main" 1750381580.46893 0
-  "main.bcf" 1750381580 126414 9e756fcd6a57a510f2d6aef93877f7ed "pdflatex"
+["biber main"] 1750381556.27484 "main.bcf" "main.bbl" "main" 1750381721.88395 0
+  "main.bcf" 1750381721 126414 9e756fcd6a57a510f2d6aef93877f7ed "pdflatex"
   "pos_textual/referencias.bib" 1750380631 25352 1f2aeef375c3d7e4e25790ac3666dff1 ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["makeindex main.idx"] 1750381548.76288 "main.idx" "main.ind" "main" 1750381580.46855 0
-  "main.idx" 1750381576 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+["makeindex main.idx"] 1750381548.76288 "main.idx" "main.ind" "main" 1750381721.88353 0
+  "main.idx" 1750381717 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
   "main.ilg"
   "main.ind"
   (rewritten before read)
-["pdflatex"] 1750381575.05803 "c:/Users/Klaus/Documents/Projetos/Artigo - revisao wsn monitoramento ambiental/template_eca_ufsc_abnt/main.tex" "main.pdf" "main" 1750381580.46957 0
+["pdflatex"] 1750381716.58964 "c:/Users/Klaus/Documents/Projetos/Artigo - revisao wsn monitoramento ambiental/template_eca_ufsc_abnt/main.tex" "main.pdf" "main" 1750381721.8847 0
   "c:/Users/Klaus/Documents/Projetos/Artigo - revisao wsn monitoramento ambiental/template_eca_ufsc_abnt/main.tex" 1750278093 14412 33d027804d5b5f7164583c7cb00102a4 ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1741050624 2375 baa924870cfb487815765f9094cf3728 ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc" 1741050624 2405 5dcf2c1b967ee25cc46c58cd52244aed ""
@@ -232,15 +232,15 @@
   "c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1741055342 5512713 1e2df2d1e914a8052c604db674da6db6 ""
   "c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1741055527 3352824 127e4e119ca57e98101e0f88a5295980 ""
   "c:/texlive/2024/texmf.cnf" 1741055327 713 e69b156964470283e0530f5060668171 ""
-  "capitulos/cap_1.aux" 1750381577 5713 bc1ade7e46df6283072483198d5b1ea3 "pdflatex"
+  "capitulos/cap_1.aux" 1750381719 5713 bc1ade7e46df6283072483198d5b1ea3 "pdflatex"
   "capitulos/cap_1.tex" 1750285390 5174 1ec4ee0fe26a42b8580eecd0bf74431d ""
-  "capitulos/cap_2.aux" 1750381578 7020 4b593e0afa7ad32a15c8864e13eb9480 "pdflatex"
-  "capitulos/cap_2.tex" 1750381574 20295 7bbed4f0df52f06dbc17330c38295851 ""
-  "capitulos/cap_3.aux" 1750381578 10695 03af5745ecb7de0b27e9b8282dadb8c0 "pdflatex"
+  "capitulos/cap_2.aux" 1750381719 7030 a15d51fa719bb1383b729ede4d19a6e9 "pdflatex"
+  "capitulos/cap_2.tex" 1750381710 20298 11c0f01ea72532b09eb74130b732efd6 ""
+  "capitulos/cap_3.aux" 1750381720 10695 03af5745ecb7de0b27e9b8282dadb8c0 "pdflatex"
   "capitulos/cap_3.tex" 1750279483 12011 18bab5819a5e323b6fcf067aaea5656f ""
-  "capitulos/cap_4.aux" 1750381579 9645 2334480a35d257aa99367df38ab3aba0 "pdflatex"
+  "capitulos/cap_4.aux" 1750381720 9645 2334480a35d257aa99367df38ab3aba0 "pdflatex"
   "capitulos/cap_4.tex" 1749602879 10833 c3c144f905cf7248bcbe3f0bb3271a3a ""
-  "capitulos/cap_5.aux" 1750381579 5719 fcc22a8c44c25ed50af4325048bf7849 "pdflatex"
+  "capitulos/cap_5.aux" 1750381720 5719 fcc22a8c44c25ed50af4325048bf7849 "pdflatex"
   "capitulos/cap_5.tex" 1749602893 2249 bda0b9171f8a7e6b802bc08cb2916c20 ""
   "configs/eca_ufsc_bnu.sty" 1742774688 13779 96f869e6b43b47f852eea1cb987459fd ""
   "configs/univali.png" 1742774343 79477 f3cad462da647ca29aed9cdd190d0137 ""
@@ -251,14 +251,14 @@
   "figuras/lora_nodes_and_receiver.PNG" 1749422530 85737 fce2dd33c72373b3f3f4e2d853ca6e28 ""
   "figuras/nodemcu.jpg" 1741483726 116716 10624904ce10bbd5d5745999e5ebc64d ""
   "figuras/sensor_node_software_diagram.PNG" 1749411937 66504 cd512735c7562bf9b37de256dc41a74a ""
-  "main.aux" 1750381580 35616 2d76ad8301531bc41d385c6a4769e519 "pdflatex"
+  "main.aux" 1750381721 35626 0a0730387fb8aa6f1c3a5e6664c1bbf4 "pdflatex"
   "main.bbl" 1750381558 114552 da96a771012da28e7cff78e2104cdc1e "biber main"
   "main.ind" 1750381549 0 d41d8cd98f00b204e9800998ecf8427e "makeindex main.idx"
-  "main.lof" 1750381580 1242 ba4928dff4929f7c387406e053b75078 "pdflatex"
-  "main.lot" 1750381580 276 25f0633bc96a848d290494e620a9687e "pdflatex"
-  "main.run.xml" 1750381580 2523 7b6223e3edd4df164b5b7c64d8f51fe0 "pdflatex"
+  "main.lof" 1750381721 1242 ba4928dff4929f7c387406e053b75078 "pdflatex"
+  "main.lot" 1750381721 276 25f0633bc96a848d290494e620a9687e "pdflatex"
+  "main.run.xml" 1750381721 2523 7b6223e3edd4df164b5b7c64d8f51fe0 "pdflatex"
   "main.tex" 1750278093 14412 33d027804d5b5f7164583c7cb00102a4 ""
-  "main.toc" 1750381580 4401 04b762ad13f232fa88f502882855b314 "pdflatex"
+  "main.toc" 1750381721 4411 68ad151e519f74242300bb05bebb5205 "pdflatex"
   "pre_textual/pretextual.tex" 1750280916 2707 c3c8727b061cbe18cb44e0cd4dff9374 ""
   "pre_textual/siglas_simbolos.tex" 1749491485 2157 2853887decc0bda916a548414b949b27 ""
   (generated)
