@@ -11,36 +11,42 @@
 \contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase []{Sensores e Tecnologias para Monitoramento Ambiental}}{10}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Monitoramento de Água}{10}{section.2.1}%
 \contentsline {subsection}{\numberline {2.1.1}Sensores de Nível de Água}{10}{subsection.2.1.1}%
+\contentsline {section}{\numberline {2.2}Qualidade da Água}{12}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Monitoramento do Solo}{12}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}SAW sensors, RFID-based systems, and nanotechnology}{13}{subsection.2.3.1}%
+\contentsline {section}{\numberline {2.4}Monitoramento do Ar e Composição Química do Ar}{14}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Detecção de Elementos Químicos}{14}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Poluição e Qualidade do Ar}{14}{subsection.2.4.2}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase []{Theoretical Framework}}{13}{chapter.3}%
-\contentsline {section}{\numberline {3.1}IoT}{13}{section.3.1}%
-\contentsline {section}{\numberline {3.2}LoRa and LoRaWAN}{14}{section.3.2}%
-\contentsline {section}{\numberline {3.3}Microcontroller ESP8266}{14}{section.3.3}%
-\contentsline {section}{\numberline {3.4}LiDAR}{15}{section.3.4}%
-\contentsline {subsection}{\numberline {3.4.1}Pulsed Time of Flight (TOF)}{16}{subsection.3.4.1}%
-\contentsline {subsection}{\numberline {3.4.2}Amplitude Modulated Continuous Wave (AMCW) Time of Flight (TOF)}{17}{subsection.3.4.2}%
-\contentsline {section}{\numberline {3.5}Ultrasonic Sensors}{17}{section.3.5}%
-\contentsline {section}{\numberline {3.6}Wireless Sensor Network (WSN)}{17}{section.3.6}%
-\contentsline {section}{\numberline {3.7}Time-Series Data and Environmental Monitoring}{18}{section.3.7}%
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase []{Theoretical Framework}}{15}{chapter.3}%
+\contentsline {section}{\numberline {3.1}IoT}{15}{section.3.1}%
+\contentsline {section}{\numberline {3.2}LoRa and LoRaWAN}{16}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Microcontroller ESP8266}{16}{section.3.3}%
+\contentsline {section}{\numberline {3.4}LiDAR}{17}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Pulsed Time of Flight (TOF)}{18}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Amplitude Modulated Continuous Wave (AMCW) Time of Flight (TOF)}{19}{subsection.3.4.2}%
+\contentsline {section}{\numberline {3.5}Ultrasonic Sensors}{19}{section.3.5}%
+\contentsline {section}{\numberline {3.6}Wireless Sensor Network (WSN)}{19}{section.3.6}%
+\contentsline {section}{\numberline {3.7}Time-Series Data and Environmental Monitoring}{20}{section.3.7}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase []{Materials and Methods}}{19}{chapter.4}%
-\contentsline {section}{\numberline {4.1}System Architecture}{19}{section.4.1}%
-\contentsline {section}{\numberline {4.2}First Phase: Sensor Testing and Calibration}{20}{section.4.2}%
-\contentsline {subsection}{\numberline {4.2.1}Microcontroller Unit}{20}{subsection.4.2.1}%
-\contentsline {subsection}{\numberline {4.2.2}Sensors}{20}{subsection.4.2.2}%
-\contentsline {section}{\numberline {4.3}Second Phase: System Integration and Communication}{21}{section.4.3}%
-\contentsline {subsection}{\numberline {4.3.1}Communication Module}{21}{subsection.4.3.1}%
-\contentsline {section}{\numberline {4.4}Third Phase: Field Deployment and Evaluation}{21}{section.4.4}%
-\contentsline {subsection}{\numberline {4.4.1}Field Deployment}{21}{subsection.4.4.1}%
-\contentsline {subsection}{\numberline {4.4.2}Node Software Architecture}{21}{subsection.4.4.2}%
-\contentsline {subsection}{\numberline {4.4.3}Data Communication and Network Topology}{22}{subsection.4.4.3}%
-\contentsline {section}{\numberline {4.5}Data Processing and Storage}{22}{section.4.5}%
-\contentsline {section}{\numberline {4.6}Expected Outcomes}{22}{section.4.6}%
+\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase []{Materials and Methods}}{21}{chapter.4}%
+\contentsline {section}{\numberline {4.1}System Architecture}{21}{section.4.1}%
+\contentsline {section}{\numberline {4.2}First Phase: Sensor Testing and Calibration}{22}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Microcontroller Unit}{22}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Sensors}{22}{subsection.4.2.2}%
+\contentsline {section}{\numberline {4.3}Second Phase: System Integration and Communication}{23}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Communication Module}{23}{subsection.4.3.1}%
+\contentsline {section}{\numberline {4.4}Third Phase: Field Deployment and Evaluation}{23}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Field Deployment}{23}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Node Software Architecture}{23}{subsection.4.4.2}%
+\contentsline {subsection}{\numberline {4.4.3}Data Communication and Network Topology}{24}{subsection.4.4.3}%
+\contentsline {section}{\numberline {4.5}Data Processing and Storage}{24}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Expected Outcomes}{24}{section.4.6}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase []{Conclusion}}{25}{chapter.5}%
+\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase []{Conclusion}}{27}{chapter.5}%
 \vspace {\cftbeforechapterskip }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\contentsline {chapter}{REFERENCES}{26}{section*.20}%
+\contentsline {chapter}{REFERENCES}{28}{section*.20}%
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 
 \babel@toc {brazil}{}\relax 

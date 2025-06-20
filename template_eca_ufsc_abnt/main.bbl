@@ -68,12 +68,12 @@
     \endentry
     \entry{ali_2020_saw}{article}{}{}
       \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=a653dc6ef76f36bb6fd47bf8a8ec1b47}{%
+        {{un=1,uniquepart=given,hash=a653dc6ef76f36bb6fd47bf8a8ec1b47}{%
            family={Ali},
            familyi={A\bibinitperiod},
            given={Sayyed\bibnamedelima Faizan},
            giveni={S\bibinitperiod\bibinitdelim F\bibinitperiod},
-           givenun=0}}%
+           givenun=1}}%
         {{un=0,uniquepart=base,hash=a202f8602b446fbef984ace92455eaec}{%
            family={Mandal},
            familyi={M\bibinitperiod},
@@ -113,6 +113,67 @@
       \field{year}{2020}
       \field{pages}{724\bibrangedash 729}
       \range{pages}{6}
+    \endentry
+    \entry{ali_2024_satellite}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=1,uniquepart=given,hash=67b39c5ecab0530659e9ecdcc6e27429}{%
+           family={Ali},
+           familyi={A\bibinitperiod},
+           given={Tauqeer},
+           giveni={T\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=5346f34a4097ec3264e839aa53592e90}{%
+           family={Zaidi},
+           familyi={Z\bibinitperiod},
+           given={Arjumand},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=36eb4628208d6e78c805cafd03f1c2ec}{%
+           family={Rehman},
+           familyi={R\bibinitperiod},
+           given={Jasra},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3ea897eb8e776b4fe167a5250e7df7df}{%
+           family={Noor},
+           familyi={N\bibinitperiod},
+           given={Farkhanda},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c82bc384b5da20b8fc0c7f03666f7102}{%
+           family={Naz},
+           familyi={N\bibinitperiod},
+           given={Falak},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a91b5d4f50b39269d6be91266646c5ed}{%
+           family={Jamali},
+           familyi={J\bibinitperiod},
+           given={Shahryar},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{85502db5ae6876bc5eb2e297a7304fb6}
+      \strng{fullhash}{7832a96442d25ad01ad86728f0d1e9bf}
+      \strng{fullhashraw}{7832a96442d25ad01ad86728f0d1e9bf}
+      \strng{bibnamehash}{7832a96442d25ad01ad86728f0d1e9bf}
+      \strng{authorbibnamehash}{7832a96442d25ad01ad86728f0d1e9bf}
+      \strng{authornamehash}{85502db5ae6876bc5eb2e297a7304fb6}
+      \strng{authorfullhash}{7832a96442d25ad01ad86728f0d1e9bf}
+      \strng{authorfullhashraw}{7832a96442d25ad01ad86728f0d1e9bf}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IGARSS 2022 - 2022 IEEE International Geoscience and Remote Sensing Symposium}
+      \field{month}{07}
+      \field{title}{Satellite Radar Altimetry Insights into Dam-Induced Changes and Accuracy of Water Level Estimation for the Mekong River}
+      \field{volume}{570}
+      \field{year}{2024}
+      \field{pages}{5063\bibrangedash 5066}
+      \range{pages}{4}
     \endentry
     \entry{behroozpour_2017_lidar}{article}{}{}
       \name{author}{4}{}{%
@@ -380,6 +441,55 @@
       \field{year}{2013}
       \field{pages}{651\bibrangedash 663}
       \range{pages}{13}
+    \endentry
+    \entry{deng_2020_novel}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=739864f91dce89603df8f8a98c2ec8ee}{%
+           family={Deng},
+           familyi={D\bibinitperiod},
+           given={Fangming},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1e545c560a9acb8f13c43ad9f726481f}{%
+           family={Zuo},
+           familyi={Z\bibinitperiod},
+           given={Pengqi},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5d817616c765b05b5711fcee84670384}{%
+           family={Wen},
+           familyi={W\bibinitperiod},
+           given={Kaiyun},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d10544341ce8ddd630dfb919f63ca296}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Xiang},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3f5f33155df2290fc18a6be10cea06a1}
+      \strng{fullhash}{a6d87e60f9dba783ffd4f5459ac51ea3}
+      \strng{fullhashraw}{a6d87e60f9dba783ffd4f5459ac51ea3}
+      \strng{bibnamehash}{a6d87e60f9dba783ffd4f5459ac51ea3}
+      \strng{authorbibnamehash}{a6d87e60f9dba783ffd4f5459ac51ea3}
+      \strng{authornamehash}{3f5f33155df2290fc18a6be10cea06a1}
+      \strng{authorfullhash}{a6d87e60f9dba783ffd4f5459ac51ea3}
+      \strng{authorfullhashraw}{a6d87e60f9dba783ffd4f5459ac51ea3}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Computers and Electronics in Agriculture}
+      \field{month}{02}
+      \field{title}{Novel soil environment monitoring system based on RFID sensor and LoRa}
+      \field{volume}{169}
+      \field{year}{2020}
+      \field{pages}{105169}
+      \range{pages}{1}
     \endentry
     \entry{datasheet_2023_esp8266ex}{misc}{}{}
       \name{author}{1}{}{%
@@ -846,6 +956,45 @@
       \field{year}{2021}
       \field{pages}{100121}
       \range{pages}{1}
+    \endentry
+    \entry{jiang_2024_monitoring}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=aeceff5439b9ecc408963f8465861b3c}{%
+           family={Jiang},
+           familyi={J\bibinitperiod},
+           given={Zhiyu},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=22f12e4c48a5fb57c2754ebdbcdc682d}{%
+           family={Hong},
+           familyi={H\bibinitperiod},
+           given={Liang},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{20533d3543578400e24f4e86a0e1204d}
+      \strng{fullhash}{20533d3543578400e24f4e86a0e1204d}
+      \strng{fullhashraw}{20533d3543578400e24f4e86a0e1204d}
+      \strng{bibnamehash}{20533d3543578400e24f4e86a0e1204d}
+      \strng{authorbibnamehash}{20533d3543578400e24f4e86a0e1204d}
+      \strng{authornamehash}{20533d3543578400e24f4e86a0e1204d}
+      \strng{authorfullhash}{20533d3543578400e24f4e86a0e1204d}
+      \strng{authorfullhashraw}{20533d3543578400e24f4e86a0e1204d}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{2024 IEEE 6th Advanced Information Management, Communicates, Electronic and Automation Control Conference (IMCEC)}
+      \field{month}{05}
+      \field{title}{Monitoring of Surface Water Area and Water Level Changes in Nine Plateau Lakes in Yunnan and Analysis of Influencing Factors}
+      \field{year}{2024}
+      \field{pages}{1027\bibrangedash 1031}
+      \range{pages}{5}
     \endentry
     \entry{jonkman_2005_global}{article}{}{}
       \name{author}{1}{}{%
@@ -2038,6 +2187,43 @@
       \field{year}{2014}
       \field{pages}{177\bibrangedash 199}
       \range{pages}{23}
+    \endentry
+    \entry{viscarrarossel_2016_soil}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=834321fffa753bc9a0dd8e19b232f37e}{%
+           family={Viscarra\bibnamedelima Rossel},
+           familyi={V\bibinitperiod\bibinitdelim R\bibinitperiod},
+           given={Raphael\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5872c09eddcd0c9afc949633bde49cc9}{%
+           family={Bouma},
+           familyi={B\bibinitperiod},
+           given={Johan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3ea383457b5f10ac4e6033618f8a0f3d}
+      \strng{fullhash}{3ea383457b5f10ac4e6033618f8a0f3d}
+      \strng{fullhashraw}{3ea383457b5f10ac4e6033618f8a0f3d}
+      \strng{bibnamehash}{3ea383457b5f10ac4e6033618f8a0f3d}
+      \strng{authorbibnamehash}{3ea383457b5f10ac4e6033618f8a0f3d}
+      \strng{authornamehash}{3ea383457b5f10ac4e6033618f8a0f3d}
+      \strng{authorfullhash}{3ea383457b5f10ac4e6033618f8a0f3d}
+      \strng{authorfullhashraw}{3ea383457b5f10ac4e6033618f8a0f3d}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Agricultural Systems}
+      \field{month}{10}
+      \field{title}{Soil sensing: A new paradigm for agriculture}
+      \field{volume}{148}
+      \field{year}{2016}
+      \field{pages}{71\bibrangedash 74}
+      \range{pages}{4}
     \endentry
     \entry{wu_2023_a}{article}{}{}
       \name{author}{5}{}{%

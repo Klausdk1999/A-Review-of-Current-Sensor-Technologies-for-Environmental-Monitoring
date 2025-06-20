@@ -1,18 +1,18 @@
 # Fdb version 4
-["biber main"] 1750288070.00381 "main.bcf" "main.bbl" "main" 1750288083.23683 0
-  "main.bcf" 1750288082 124327 0f478e6b251f2240347d6b6241a8bfc1 "pdflatex"
-  "pos_textual/referencias.bib" 1750286992 22299 c6bfaf41b1de7e5bc6fd60c9b230376a ""
+["biber main"] 0 "main.bcf" "main.bbl" "main" 0 -1
+  "main.bcf" 1750379341 125860 560d85ccde19fb7e560bb0cf73033843 "pdflatex"
+  "pos_textual/referencias.bib" 1750379089 24489 cbb7598496f1010d4efccd6b7859d621 ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["makeindex main.idx"] 1750288004.16141 "main.idx" "main.ind" "main" 1750288083.23643 0
-  "main.idx" 1750288079 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+["makeindex main.idx"] 0 "main.idx" "main.ind" "main" 0 -1
+  "main.idx" 1750379338 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
   "main.ilg"
   "main.ind"
   (rewritten before read)
-["pdflatex"] 1750288077.6795 "c:/Users/Klaus/Documents/Projetos/Artigo - revisao wsn monitoramento ambiental/template_eca_ufsc_abnt/main.tex" "main.pdf" "main" 1750288083.23751 0
+["pdflatex"] 1750379336.92932 "c:/Users/Klaus/Documents/Projetos/Artigo - revisao wsn monitoramento ambiental/template_eca_ufsc_abnt/main.tex" "main.pdf" "main" 1750379341.92679 2
   "c:/Users/Klaus/Documents/Projetos/Artigo - revisao wsn monitoramento ambiental/template_eca_ufsc_abnt/main.tex" 1750278093 14412 33d027804d5b5f7164583c7cb00102a4 ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1741050624 2375 baa924870cfb487815765f9094cf3728 ""
   "c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc" 1741050624 2405 5dcf2c1b967ee25cc46c58cd52244aed ""
@@ -54,6 +54,7 @@
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/lm/ts1-lmr12.tfm" 1741050624 1596 1d4548788e389ded56d0b01b28377882 ""
   "c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx10.pfb" 1741050624 121021 836464b5fe0c782d94085eb083550ccc ""
   "c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb" 1741050624 116908 9a7a12d1e4df280ea0ab4aad83cdef88 ""
+  "c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmmi10.pfb" 1741050624 30388 702fae6a5f0e6e9c48a1d872b442ffcf ""
   "c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmmi12.pfb" 1741050624 30696 3da7e46ecf5615eedebd9f27dab4d9d7 ""
   "c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb" 1741050624 119235 05e5c8d6d60439433e50047898c2c0e0 ""
   "c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr12.pfb" 1741050624 113634 9384aebdf26f9881e046a4b5574566db ""
@@ -231,15 +232,15 @@
   "c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1741055342 5512713 1e2df2d1e914a8052c604db674da6db6 ""
   "c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1741055527 3352824 127e4e119ca57e98101e0f88a5295980 ""
   "c:/texlive/2024/texmf.cnf" 1741055327 713 e69b156964470283e0530f5060668171 ""
-  "capitulos/cap_1.aux" 1750288080 5713 7d64cbaed04abeeff2c760bc44d62eef "pdflatex"
+  "capitulos/cap_1.aux" 1750379339 5711 991da03c151f1af70f2b234484ee69c2 "pdflatex"
   "capitulos/cap_1.tex" 1750285390 5174 1ec4ee0fe26a42b8580eecd0bf74431d ""
-  "capitulos/cap_2.aux" 1750288080 6201 eca59da5163c7cff9081052b9f6ae332 "pdflatex"
-  "capitulos/cap_2.tex" 1750288062 12782 d089bf4deadfe12d11d953d7c4b4e785 ""
-  "capitulos/cap_3.aux" 1750288081 10695 2016245ba85e956fb86239695f0b9441 "pdflatex"
+  "capitulos/cap_2.aux" 1750379339 7041 f69105bca42f49a9a1d823f17600b942 "pdflatex"
+  "capitulos/cap_2.tex" 1750379325 19136 881c42cc3f9c33619de1b99bfe7f3b73 ""
+  "capitulos/cap_3.aux" 1750379340 10693 7ab425ea8944749765188c8def876a9c "pdflatex"
   "capitulos/cap_3.tex" 1750279483 12011 18bab5819a5e323b6fcf067aaea5656f ""
-  "capitulos/cap_4.aux" 1750288081 9645 c28b97d2b23cbb72578c16becbab739e "pdflatex"
+  "capitulos/cap_4.aux" 1750379340 9643 83dd94413ba217f32bc8b88c305db115 "pdflatex"
   "capitulos/cap_4.tex" 1749602879 10833 c3c144f905cf7248bcbe3f0bb3271a3a ""
-  "capitulos/cap_5.aux" 1750288081 5719 a247d66bef049a90dbefddce414481c8 "pdflatex"
+  "capitulos/cap_5.aux" 1750379340 5717 761c5761ab8ad8a54aa3fdf53e02630a "pdflatex"
   "capitulos/cap_5.tex" 1749602893 2249 bda0b9171f8a7e6b802bc08cb2916c20 ""
   "configs/eca_ufsc_bnu.sty" 1742774688 13779 96f869e6b43b47f852eea1cb987459fd ""
   "configs/univali.png" 1742774343 79477 f3cad462da647ca29aed9cdd190d0137 ""
@@ -250,14 +251,13 @@
   "figuras/lora_nodes_and_receiver.PNG" 1749422530 85737 fce2dd33c72373b3f3f4e2d853ca6e28 ""
   "figuras/nodemcu.jpg" 1741483726 116716 10624904ce10bbd5d5745999e5ebc64d ""
   "figuras/sensor_node_software_diagram.PNG" 1749411937 66504 cd512735c7562bf9b37de256dc41a74a ""
-  "main.aux" 1750288082 29823 6aa4262581e99d908f0f87b7ebf3d091 "pdflatex"
-  "main.bbl" 1750288071 96901 6cca937ad83b10ac28a0db1b40b0064d "biber main"
-  "main.ind" 1750288004 0 d41d8cd98f00b204e9800998ecf8427e "makeindex main.idx"
-  "main.lof" 1750288082 1242 25f2ed39cba37cc790aa4f55507747cc "pdflatex"
-  "main.lot" 1750288082 276 2218ce7dd24ddc498b0adac9101ea89e "pdflatex"
-  "main.run.xml" 1750288082 2523 7b6223e3edd4df164b5b7c64d8f51fe0 "pdflatex"
+  "main.aux" 1750379341 34714 ca3a3bb6374d693981e3a31e5d21745a "pdflatex"
+  "main.bbl" 1750379330 105002 e055b57f29df7cdbcdafb26f817d064e "biber main"
+  "main.ind" 0 -1 0 "makeindex main.idx"
+  "main.lof" 1750379341 1242 23ee81a8d94bcbae51e98819bd6281fa "pdflatex"
+  "main.lot" 1750379341 276 425ea71a226da790dd6032b3f38bbfdf "pdflatex"
   "main.tex" 1750278093 14412 33d027804d5b5f7164583c7cb00102a4 ""
-  "main.toc" 1750288082 3829 ab751acb4b52d10e1e3b76c73be2a7d5 "pdflatex"
+  "main.toc" 1750379341 4425 9e906b6acd7952be00a23c0103c02e1e "pdflatex"
   "pre_textual/pretextual.tex" 1750280916 2707 c3c8727b061cbe18cb44e0cd4dff9374 ""
   "pre_textual/siglas_simbolos.tex" 1749491485 2157 2853887decc0bda916a548414b949b27 ""
   (generated)

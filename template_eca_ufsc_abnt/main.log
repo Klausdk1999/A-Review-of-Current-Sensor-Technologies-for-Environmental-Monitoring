@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.3.3)  18 JUN 2025 20:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2025.3.3)  19 JUN 2025 21:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1208,7 +1208,7 @@ Package csquotes Info: Redefining alias 'default' -> 'brazil'.
 LaTeX Font Info:    Trying to load font information for T1+lmr on input line 241.
 (c:/texlive/2024/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) (./main.aux (./capitulos/cap_1.aux) (./capitulos/cap_2.aux) (./capitulos/cap_3.aux) (./capitulos/cap_4.aux) (./capitulos/cap_5.aux))
+) (./main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 241.
@@ -1419,57 +1419,31 @@ l.8
 
 [3
 
-] (./main.lof
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 3.
- (c:/texlive/2024/texmf-dist/tex/latex/lm/ot1lmr.fd
-File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 3.
- (c:/texlive/2024/texmf-dist/tex/latex/lm/omllmm.fd
-File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 3.
- (c:/texlive/2024/texmf-dist/tex/latex/lm/omslmsy.fd
-File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 3.
- (c:/texlive/2024/texmf-dist/tex/latex/lm/omxlmex.fd
-File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 3.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 3.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 3.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 3.
- (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-) (c:/texlive/2024/texmf-dist/tex/latex/microtype/mt-msa.cfg
-File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 3.
- (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) (c:/texlive/2024/texmf-dist/tex/latex/microtype/mt-msb.cfg
-File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
-))
+]
+No file main.lof.
+
 
 [4
 
-] (./main.lot)
+]
+No file main.lot.
+
 
 [5
 
 ]
-Using TeX to sort glossary entries---this may take a while
+
+Package glossaries Warning: Empty glossary for \printnoidxglossary[type={acronym}]. Rerun may be required (or you may have forgotten to use commands like \gls) on input line 112.
+
 
 
 [6
 
 
 
-] (./main.toc)
+]
+No file main.toc.
+
 
 [7
 
@@ -1496,67 +1470,137 @@ Using TeX to sort glossary entries---this may take a while
 
 ]
 
-[11])
+[11]
+./capitulos/cap_2.tex:58: Missing $ inserted.
+<inserted text> 
+                $
+l.58 ferreira_
+              2023_conception
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
-[12]
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 58.
+(c:/texlive/2024/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 58.
+ (c:/texlive/2024/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 58.
+ (c:/texlive/2024/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 58.
+ (c:/texlive/2024/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 58.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 58.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 58.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 58.
+ (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+) (c:/texlive/2024/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 58.
+ (c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) (c:/texlive/2024/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+./capitulos/cap_2.tex:59: Missing $ inserted.
+<inserted text> 
+                $
+l.59 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+
+[12{c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}]
+
+[13])
+
+[14]
 \openout2 = `capitulos/cap_3.aux'.
 
  (./capitulos/cap_3.tex
-<figuras/iot.png, id=351, 702.625pt x 480.79625pt>
+
+LaTeX Warning: Reference `fig:iot' on page 15 undefined on input line 25.
+
+<figuras/iot.png, id=301, 702.625pt x 480.79625pt>
 File: figuras/iot.png Graphic file (type png)
 <use figuras/iot.png>
 Package pdftex.def Info: figuras/iot.png  used on input line 30.
 (pdftex.def)             Requested size: 364.00139pt x 249.0911pt.
 
 
-[13
+[15
 
 
 
 
  <./figuras/iot.png>]
-<figuras/Lora-comparison.png, id=377, 490.2315pt x 293.29575pt>
+
+LaTeX Warning: Reference `fig:lora' on page 16 undefined on input line 39.
+
+<figuras/Lora-comparison.png, id=333, 490.2315pt x 293.29575pt>
 File: figuras/Lora-comparison.png Graphic file (type png)
 <use figuras/Lora-comparison.png>
 Package pdftex.def Info: figuras/Lora-comparison.png  used on input line 44.
 (pdftex.def)             Requested size: 364.00139pt x 217.77834pt.
 
+LaTeX Warning: Reference `fig:node' on page 16 undefined on input line 51.
 
-[14 <./figuras/Lora-comparison.png>]
-<figuras/nodemcu.jpg, id=393, 1003.75pt x 720.6925pt>
+
+
+[16 <./figuras/Lora-comparison.png>]
+<figuras/nodemcu.jpg, id=353, 1003.75pt x 720.6925pt>
 File: figuras/nodemcu.jpg Graphic file (type jpg)
 <use figuras/nodemcu.jpg>
 Package pdftex.def Info: figuras/nodemcu.jpg  used on input line 56.
 (pdftex.def)             Requested size: 227.5pt x 163.33647pt.
-<figuras/light-absorption.png, id=439, 102.3825pt x 126.35205pt>
+
+
+LaTeX Warning: Reference `fig:laser-wavelength-graphs' on page 17 undefined on input line 65.
+
+<figuras/light-absorption.png, id=398, 102.3825pt x 126.35205pt>
 File: figuras/light-absorption.png Graphic file (type png)
 <use figuras/light-absorption.png>
 Package pdftex.def Info: figuras/light-absorption.png  used on input line 70.
 (pdftex.def)             Requested size: 364.00139pt x 449.25081pt.
 
-
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
-[15 <./figuras/nodemcu.jpg>]
+[17 <./figuras/nodemcu.jpg>]
 
-[16 <./figuras/light-absorption.png>]
+[18 <./figuras/light-absorption.png>]
 Overfull \hbox (2.11456pt too wide) in paragraph at lines 86--86
 []\T1/lmr/bx/n/12 (-10) Amplitude Mo-du-la-ted Con-ti-nu-ous Wave (AMCW) Time of Flight (TOF) 
  []
 
 
+LaTeX Warning: Reference `fig:wsn-graphs' on page 19 undefined on input line 105.
 
-[17{c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}]
-<figuras/WSN_architecture.png, id=508, 313.17pt x 134.904pt>
+
+
+[19{c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}]
+<figuras/WSN_architecture.png, id=476, 313.17pt x 134.904pt>
 File: figuras/WSN_architecture.png Graphic file (type png)
 <use figuras/WSN_architecture.png>
 Package pdftex.def Info: figuras/WSN_architecture.png  used on input line 110.
 (pdftex.def)             Requested size: 364.00139pt x 156.80576pt.
 )
 
-[18 <./figuras/WSN_architecture.png>]
+[20 <./figuras/WSN_architecture.png>]
 \openout2 = `capitulos/cap_4.aux'.
 
  (./capitulos/cap_4.tex
@@ -1565,27 +1609,32 @@ LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 28
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 
-[19
+[21
 
 
 
 
 {c:/texlive/2024/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}]
 
-[20]
-<figuras/lora_nodes_and_receiver.PNG, id=565, 547.04375pt x 519.9425pt>
+[22]
+
+LaTeX Warning: Reference `fig:node_integration_diagram' on page 23 undefined on input line 71.
+
+<figuras/lora_nodes_and_receiver.PNG, id=539, 547.04375pt x 519.9425pt>
 File: figuras/lora_nodes_and_receiver.PNG Graphic file (type png)
 <use figuras/lora_nodes_and_receiver.PNG>
 Package pdftex.def Info: figuras/lora_nodes_and_receiver.PNG  used on input line 76.
 (pdftex.def)             Requested size: 295.74722pt x 281.09799pt.
 
-
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
+LaTeX Warning: Reference `fig:sensor_node_software_diagram' on page 23 undefined on input line 91.
 
-[21]
-<figuras/sensor_node_software_diagram.PNG, id=571, 612.2875pt x 811.03pt>
+
+
+[23]
+<figuras/sensor_node_software_diagram.PNG, id=549, 612.2875pt x 811.03pt>
 File: figuras/sensor_node_software_diagram.PNG Graphic file (type png)
 <use figuras/sensor_node_software_diagram.PNG>
 Package pdftex.def Info: figuras/sensor_node_software_diagram.PNG  used on input line 96.
@@ -1610,7 +1659,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 
 
-[22 <./figuras/lora_nodes_and_receiver.PNG>]
+[24 <./figuras/lora_nodes_and_receiver.PNG>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -1618,33 +1667,33 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 147.
 )
 
-[23 <./figuras/sensor_node_software_diagram.PNG>]
+[25 <./figuras/sensor_node_software_diagram.PNG>]
 
-[24]
+[26]
 \openout2 = `capitulos/cap_5.aux'.
 
  (./capitulos/cap_5.tex)
 
-[25
+[27
 
 
 
 
 ]
 
-[26
+[28
 
 
 
 ]
-
-[27]
-
-[28]
 
 [29]
 
 [30]
+
+[31]
+
+[32]
 \tf@lof=\write6
 \openout6 = `main.lof'.
 
@@ -1659,23 +1708,65 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2020/03/25>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 41399 strings out of 473200
- 737428 string characters out of 5720279
- 1901646 words of memory out of 5000000
- 63795 multiletter control sequences out of 15000+600000
+ 41254 strings out of 473200
+ 736084 string characters out of 5720279
+ 1877726 words of memory out of 5000000
+ 63655 multiletter control sequences out of 15000+600000
  609062 words of font info for 126 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  124i,13n,121p,2618b,4447s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmmi12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on main.pdf (31 pages, 1029699 bytes).
+
+pdfTeX warning (dest): name{glo:RMSE} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{glo:WSN} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{glo:TOF} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{glo:RADAR} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{glo:MAC} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{glo:CSS} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{glo:LiDAR} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{glo:LoRaWAN} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{glo:LoRa} has been referenced but does not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{glo:IoT} has been referenced but does not exist, replaced by a fixed one
+
+<c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmmi10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmmi12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmr8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmri12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
+Output written on main.pdf (33 pages, 1039917 bytes).
 PDF statistics:
- 856 PDF objects out of 1000 (max. 8388607)
- 757 compressed objects within 8 object streams
- 167 named destinations out of 1000 (max. 500000)
- 29513 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 868 PDF objects out of 1000 (max. 8388607)
+ 764 compressed objects within 8 object streams
+ 178 named destinations out of 1000 (max. 500000)
+ 29561 words of extra memory for PDF output out of 29859 (max. 10000000)
 
