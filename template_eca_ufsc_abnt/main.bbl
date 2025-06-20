@@ -224,6 +224,55 @@
       \field{pages}{135\bibrangedash 142}
       \range{pages}{8}
     \endentry
+    \entry{boada_2018_batteryless}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=140bca699a2daec26628295a17d73c14}{%
+           family={Boada},
+           familyi={B\bibinitperiod},
+           given={Marti},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ae54426c3dc26d6a3d69e5f8d2ce6920}{%
+           family={Lazaro},
+           familyi={L\bibinitperiod},
+           given={Antonio},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3a8ed522bf507b75784ce42876221388}{%
+           family={Villarino},
+           familyi={V\bibinitperiod},
+           given={Ramon},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6f5dc6004ecab6fbff03191fbe7b9126}{%
+           family={Girbau},
+           familyi={G\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{114948ffeb1033314522ff643a9d9c1a}
+      \strng{fullhash}{91b24380f92798169afc53b7e1c0b188}
+      \strng{fullhashraw}{91b24380f92798169afc53b7e1c0b188}
+      \strng{bibnamehash}{91b24380f92798169afc53b7e1c0b188}
+      \strng{authorbibnamehash}{91b24380f92798169afc53b7e1c0b188}
+      \strng{authornamehash}{114948ffeb1033314522ff643a9d9c1a}
+      \strng{authorfullhash}{91b24380f92798169afc53b7e1c0b188}
+      \strng{authorfullhashraw}{91b24380f92798169afc53b7e1c0b188}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Sensors Journal}
+      \field{month}{07}
+      \field{title}{Battery-Less Soil Moisture Measurement System Based on a NFC Device With Energy Harvesting Capability}
+      \field{volume}{18}
+      \field{year}{2018}
+      \field{pages}{5541\bibrangedash 5549}
+      \range{pages}{9}
+    \endentry
     \entry{borga_2014_hydrogeomorphic}{article}{}{}
       \name{author}{5}{}{%
         {{un=0,uniquepart=base,hash=63b9d9614bbdcc6e6ca7608911597bc3}{%
@@ -489,6 +538,49 @@
       \field{volume}{169}
       \field{year}{2020}
       \field{pages}{105169}
+      \range{pages}{1}
+    \endentry
+    \entry{devkota_2017_saw}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=7d714d8d0cf0e101516d464f0afa49f7}{%
+           family={Devkota},
+           familyi={D\bibinitperiod},
+           given={Jagannath},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=52349e6200b4eb39176e428f33c27b9c}{%
+           family={Ohodnicki},
+           familyi={O\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=93bcd9ab133bc68949aa81492bd4529d}{%
+           family={Greve},
+           familyi={G\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{52d00abbf7693b657bff9f57b35590cf}
+      \strng{fullhash}{52d00abbf7693b657bff9f57b35590cf}
+      \strng{fullhashraw}{52d00abbf7693b657bff9f57b35590cf}
+      \strng{bibnamehash}{52d00abbf7693b657bff9f57b35590cf}
+      \strng{authorbibnamehash}{52d00abbf7693b657bff9f57b35590cf}
+      \strng{authornamehash}{52d00abbf7693b657bff9f57b35590cf}
+      \strng{authorfullhash}{52d00abbf7693b657bff9f57b35590cf}
+      \strng{authorfullhashraw}{52d00abbf7693b657bff9f57b35590cf}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sensors}
+      \field{month}{04}
+      \field{title}{SAW Sensors for Chemical Vapors and Gases}
+      \field{volume}{17}
+      \field{year}{2017}
+      \field{pages}{801}
       \range{pages}{1}
     \endentry
     \entry{datasheet_2023_esp8266ex}{misc}{}{}
@@ -1026,6 +1118,85 @@
       \field{year}{2005}
       \field{pages}{151\bibrangedash 175}
       \range{pages}{25}
+    \endentry
+    \entry{karagulian_2019_review}{article}{}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=036b18c79338e05ddddce58ae76b5570}{%
+           family={Karagulian},
+           familyi={K\bibinitperiod},
+           given={Federico},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ec0aadc04eefa8ffed16a0630918e7c0}{%
+           family={Barbiere},
+           familyi={B\bibinitperiod},
+           given={Maurizio},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7bd538162454e12ed0f0d9822a9f2a71}{%
+           family={Kotsev},
+           familyi={K\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1e89975ae0c72bb1eb0831810d5f2042}{%
+           family={Spinelle},
+           familyi={S\bibinitperiod},
+           given={Laurent},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f6a199fb3e5b7567b727da1b160a9f28}{%
+           family={Gerboles},
+           familyi={G\bibinitperiod},
+           given={Michel},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=331686584f10244966038bed05291e9c}{%
+           family={Lagler},
+           familyi={L\bibinitperiod},
+           given={Friedrich},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ff9239a12a9a2fe6cfa287a327f9d0ab}{%
+           family={Redon},
+           familyi={R\bibinitperiod},
+           given={Nathalie},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=74bfe2319c10103e9ef0442b7048e142}{%
+           family={Crunaire},
+           familyi={C\bibinitperiod},
+           given={Sabine},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=46a7fd4dabe79c728c2c742c0db88b3a}{%
+           family={Borowiak},
+           familyi={B\bibinitperiod},
+           given={Annette},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d800e6c62cf4bca45f895a4d3ac57a17}
+      \strng{fullhash}{7c7e754a552cc5ae42cdc19cafc1e5fb}
+      \strng{fullhashraw}{7c7e754a552cc5ae42cdc19cafc1e5fb}
+      \strng{bibnamehash}{7c7e754a552cc5ae42cdc19cafc1e5fb}
+      \strng{authorbibnamehash}{7c7e754a552cc5ae42cdc19cafc1e5fb}
+      \strng{authornamehash}{d800e6c62cf4bca45f895a4d3ac57a17}
+      \strng{authorfullhash}{7c7e754a552cc5ae42cdc19cafc1e5fb}
+      \strng{authorfullhashraw}{7c7e754a552cc5ae42cdc19cafc1e5fb}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Atmosphere}
+      \field{month}{08}
+      \field{title}{Review of the Performance of Low-Cost Sensors for Air Quality Monitoring}
+      \field{volume}{10}
+      \field{year}{2019}
+      \field{pages}{506}
+      \range{pages}{1}
     \endentry
     \entry{Kolban2016}{book}{}{}
       \name{author}{1}{}{%
@@ -2320,6 +2491,67 @@
       \field{month}{09}
       \field{title}{Wireless Sensor Networks - Design, Deployment and Applications}
       \field{year}{2021}
+    \endentry
+    \entry{yi_2015_a}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=9562d4d078c3e4bd368355aa7042e73d}{%
+           family={Yi},
+           familyi={Y\bibinitperiod},
+           given={Wei},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=40038737ca12d76b026de6a874240cb8}{%
+           family={Lo},
+           familyi={L\bibinitperiod},
+           given={Kin},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3fc8d99c93de2a96a1faf1f4b9b2e50f}{%
+           family={Mak},
+           familyi={M\bibinitperiod},
+           given={Terrence},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=707f10e7c362112c81abf2d00a34a5cb}{%
+           family={Leung},
+           familyi={L\bibinitperiod},
+           given={Kwong},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e6152fd02458d86c72e752a5ad0ee90b}{%
+           family={Leung},
+           familyi={L\bibinitperiod},
+           given={Yee},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1a0bce7948f845c7f8fe550f84f16852}{%
+           family={Meng},
+           familyi={M\bibinitperiod},
+           given={Mei},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{811df84ffdf7db26aa92d42a24c36fdd}
+      \strng{fullhash}{9852141e9955661efd271efb27801a6e}
+      \strng{fullhashraw}{9852141e9955661efd271efb27801a6e}
+      \strng{bibnamehash}{9852141e9955661efd271efb27801a6e}
+      \strng{authorbibnamehash}{9852141e9955661efd271efb27801a6e}
+      \strng{authornamehash}{811df84ffdf7db26aa92d42a24c36fdd}
+      \strng{authorfullhash}{9852141e9955661efd271efb27801a6e}
+      \strng{authorfullhashraw}{9852141e9955661efd271efb27801a6e}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sensors}
+      \field{month}{12}
+      \field{title}{A Survey of Wireless Sensor Network Based Air Pollution Monitoring Systems}
+      \field{volume}{15}
+      \field{year}{2015}
+      \field{pages}{31392\bibrangedash 31427}
+      \range{pages}{36}
     \endentry
     \entry{yin_2021_smart}{article}{}{}
       \name{author}{6}{}{%
